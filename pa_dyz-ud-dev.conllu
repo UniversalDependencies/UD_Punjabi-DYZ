@@ -1,0 +1,597 @@
+# sent_id = 224
+# text = ਮੈਂ ਅੱਖਾਂ ਬੰਦ ਕਰ ਕੇ ਦੇਖ ਲੈਂਦਾ ਹਾਂ ।
+# translit = Main akhaan band karke dekh lainda haan.
+# gloss = I close POSS.1SG eye-PL and see.
+# translation = I can see it even with my eyes closed.
+1	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I|Translit=Main
+2	ਅੱਖਾਂ	ਅੱਖ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	Gloss=close|Translit=akhaan
+3	ਬੰਦ	ਬੰਦ	ADJ	_	Degree=Pos	4	xcomp	_	Gloss=POSS.1SG|Translit=band
+4	ਕਰ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	6	advcl	_	Gloss=eye-PL|Translit=karke
+5	ਕੇ	ਕੇ	ADP	_	_	4	case	_	Gloss=and|Translit=dekh
+6	ਦੇਖ	ਦੇਖਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see|Translit=lainda
+7	ਲੈਂਦਾ	ਲੈਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	6	compound:svc	_	Translit=haan
+8	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+9	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 234
+# text = ਜਦੋਂ ਅਸੀਂ ਸ਼ਰਾਬ ਦਾ ਇੱਕ ਗਲਾਸ ਪੀ ਲਿਆ , ਉਹ ਬੇਚੈਨੀ ਜਿਹੀ 'ਚ ਮੇਰੇ ਵੱਲ ਮੁੜਿਆ : ਇਹ ਲਾਲ ਰੰਗ ਦਾ ਪਾਣੀ , ਇਹ ਜੋ ਵੀ ਹੈ , ਤੁਸੀਂ ਮੈਨੂੰ ਇਸ ਬਾਰੇ ਦੱਸੋ !
+# translit = Jadon asi sharaab da ikk galaas pee liya, oh bechaini jihi 'ch mere vall murhya: 'Eh laal rang da paani, eh jo vi hai, tusi mainu is baare dasso!'
+# gloss = when 1PL wine GEN one glass drink.PAST 3SG restlessness modifier LOC 1SG.GEN toward turn.PAST this red color GEN water this whatever be.PRES 2PL 1SG.DAT 3SG about tell.IMP
+# translation = When we drank a glass of wine, he turned toward me with a sort of restlessness: 'This red-colored water, whatever it is, tell me about it!'
+1	ਜਦੋਂ	ਜਦੋਂ	ADV	_	ExtPos=ADV	7	advmod	_	Gloss=when|Translit=Jadon
+2	ਅਸੀਂ	ਅਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	Gloss=1PL|Translit=asi
+3	ਸ਼ਰਾਬ	ਸ਼ਰਾਬ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod:poss	_	Gloss=wine|Translit=sharaab
+4	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	3	case	_	Gloss=GEN|Translit=da
+5	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	6	det	_	Gloss=one|Translit=ikk
+6	ਗਲਾਸ	ਗਲਾਸ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Gloss=glass|Translit=galaas
+7	ਪੀ	ਪੀਣਾ	VERB	_	_	16	advcl	_	Gloss=drink.PAST|Translit=pee
+8	ਲਿਆ	ਲੈਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	7	compound:svc	_	Gloss=3SG|Translit=liya,
+9	,	,	PUNCT	_	_	7	punct	_	Gloss=restlessness|Translit=oh
+10	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	16	nsubj	_	Gloss=modifier|Translit=bechaini
+11	ਬੇਚੈਨੀ	ਬੇਚੈਨੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	Gloss=LOC|Translit=jihi
+12	ਜਿਹੀ	ਜਿਹਾ	PART	_	_	11	advmod	_	Gloss=1SG.GEN|Translit='ch
+13	'ਚ	ਵਿੱਚ	ADP	_	_	11	case	_	Gloss=toward|Translit=mere
+14	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nmod	_	Gloss=turn.PAST|Translit=vall
+15	ਵੱਲ	ਵੱਲ	ADP	_	_	16	obl	_	Gloss=this|Translit=murhya:
+16	ਮੁੜਿਆ	ਮੁੜਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=red|Translit='Eh
+17	:	:	PUNCT	_	_	16	punct	_	Gloss=color|Translit=laal
+18	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	20	det	_	Gloss=GEN|Translit=rang
+19	ਲਾਲ	ਲਾਲ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	20	amod	_	Gloss=water|Translit=da
+20	ਰੰਗ	ਰੰਗ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	nmod:poss	_	Gloss=this|Translit=paani,
+21	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	20	case	_	Gloss=whatever|Translit=eh
+22	ਪਾਣੀ	ਪਾਣੀ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	vocative	_	Gloss=be.PRES|Translit=jo
+23	,	,	PUNCT	_	_	22	punct	_	Gloss=2PL|Translit=vi
+24	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	27	nsubj	_	Gloss=1SG.DAT|Translit=hai,
+25	ਜੋ	ਜੋ	PRON	_	PronType=Dem	27	xcomp	_	Gloss=3SG|Translit=tusi
+26	ਵੀ	ਵੀ	PART	_	_	25	advcl	_	Gloss=about|Translit=mainu
+27	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	advcl	_	Gloss=tell.IMP|Translit=is
+28	,	,	PUNCT	_	_	27	punct	_	Translit=baare
+29	ਤੁਸੀਂ	ਤੁਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	33	nsubj	_	Translit=dasso!'
+30	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	33	iobj	_	_
+31	ਇਸ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	33	obl	_	_
+32	ਬਾਰੇ	ਬਾਰੇ	ADP	_	_	31	case	_	_
+33	ਦੱਸੋ	ਦੱਸਣਾ	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	16	ccomp	_	_
+34	!	!	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 87
+# text = ਸਤੰਬਰ 1942 ਨੂੰ ਐਨੀ ਦੁਆਰਾ ਜੋੜੀ ਗਈ ਟਿੱਪਣੀ
+# translit = September 1942 nu Anne duara jodi gai tippani
+# gloss = September NUM.YEAR POSTP Anne by add.PFV.FEM AUX.PFV.FEM comment.FEM.
+# translation = in September 1942, a comment added by Anne
+1	ਸਤੰਬਰ	ਸਤੰਬਰ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod:tmod	_	Gloss=September|Translit=September
+2	1942	1942	NUM	_	_	1	nmod	_	Gloss=NUM.YEAR|Translit=1942
+3	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	2	case	_	Gloss=POSTP|Translit=nu
+4	ਐਨੀ	ਐਨੀ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl:agent	_	Gloss=Anne|Translit=Anne
+5	ਦੁਆਰਾ	ਦੁਆਰਾ	ADP	_	_	4	case	_	Gloss=by|Translit=duara
+6	ਜੋੜੀ	ਜੋੜਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	acl	_	Gloss=add.PFV.FEM|Translit=jodi
+7	ਗਈ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	6	aux:pass	_	Gloss=AUX.PFV.FEM|Translit=gai
+8	ਟਿੱਪਣੀ	ਟਿੱਪਣੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Gloss=comment.FEM|Translit=tippani
+
+# sent_id = 196
+# text = ਉਹ ਕਿਹੜਾ ਸਮਾਂ ਸੀ , ਜਦੋਂ ਮੈਂ ਉਸ ਨੂੰ ਇਸੇ ਬੰਦਰਗਾਹ ’ਤੇ ਅਲਵਿਦਾ ਕਹਿਣ ਆਇਆ ਸਾਂ ?
+# translit = Oh kihda samay si, jadon main us nu ise bandargaah ’te alvida kahin aaya saan?
+# gloss = That which time be.PST, when I him ACC this same harbour LOC goodbye say.INF come.PFV AUX.PST
+# translation = what time was it, when I came to say goodbye to him at this same harbour?
+1	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	4	det	_	Gloss=That|Translit=Oh
+2	ਕਿਹੜਾ	ਕਿਹੜਾ	DET	_	PronType=Int	4	det	_	Gloss=which|Translit=kihda
+3	ਸਮਾਂ	ਸਮਾਂ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=time|Translit=samay
+4	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be.PST,|Translit=si,
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=when|Translit=jadon
+6	ਜਦੋਂ	ਜਦੋਂ	ADV	_	ExtPos=ADV	15	advmod	_	Gloss=I|Translit=main
+7	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Gloss=him|Translit=us
+8	ਉਸ	ਉਹ	PRON	_	PronType=Dem	15	obj	_	Gloss=ACC|Translit=nu
+9	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	8	case	_	Gloss=this|Translit=ise
+10	ਇਸੇ	ਇਹ	DET	_	PronType=Dem	11	det	_	Gloss=same|Translit=bandargaah
+11	ਬੰਦਰਗਾਹ	ਬੰਦਰਗਾਹ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	Gloss=harbour|Translit=’te
+12	’ਤੇ	ਤੇ	ADP	_	_	11	case	_	Gloss=LOC|Translit=alvida
+13	ਅਲਵਿਦਾ	ਅਲਵਿਦਾ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	obj	_	Gloss=goodbye|Translit=kahin
+14	ਕਹਿਣ	ਕਹਿਣਾ	VERB	_	Mood=Ind	15	xcomp	_	Gloss=say.INF|Translit=aaya
+15	ਆਇਆ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	Gloss=come.PFV|Translit=saan?
+16	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	aux	_	Gloss=AUX.PST
+17	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 223
+# text = ਹਰ ਸ਼ਾਮ ਮੈਨੂੰ ਜ਼ੋਰਬਾ ਯੂਨਾਨ , ਬੁਲਗਾਰੀਆ ਅਤੇ ਕਾਂਸਟੈਂਟੀਨੋਪੋ ਦੀ ਸੈਰ ਕਰਾ ਦਿੰਦਾ ਹੈ ।
+# translit = Har shaam mainu Zorba Yunaan, Bulgaria ate Constantinople di sair kara dinda hai."
+# gloss = Every evening meOBJZorbaSUBJ Greece, Bulgaria and Constantinople GEN tour cause-do give-PRES PRES.AUX.
+# translation = Every evening, Zorba takes me on a journey through Greece, Bulgaria, and Constantinople.
+1	ਹਰ	ਹਰ	DET	_	PronType=Ind	2	det	_	Gloss=Every|Translit=Har
+2	ਸ਼ਾਮ	ਸ਼ਾਮ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	Gloss=evening|Translit=shaam
+3	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	iobj	_	Gloss=meOBJZorbaSUBJ|Translit=mainu
+4	ਜ਼ੋਰਬਾ	ਜ਼ੋਰਬਾ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Gloss=Greece,|Translit=Zorba
+5	ਯੂਨਾਨ	ਯੂਨਾਨ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	Gloss=Bulgaria|Translit=Yunaan,
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=and|Translit=Bulgaria
+7	ਬੁਲਗਾਰੀਆ	ਬੁਲਗਾਰੀਆ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	Gloss=Constantinople|Translit=ate
+8	ਅਤੇ	ਅਤੇ	CCONJ	_	_	9	cc	_	Gloss=GEN|Translit=Constantinople
+9	ਕਾਂਸਟੈਂਟੀਨੋਪੋ	ਕਾਂਸਟੈਂਟੀਨੋਪੋ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	Gloss=tour|Translit=di
+10	ਦੀ	ਦਾ	ADP	_	Gender=Fem	9	case	_	Gloss=cause-do|Translit=sair
+11	ਸੈਰ	ਸੈਰ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	Gloss=give-PRES|Translit=kara
+12	ਕਰਾ	ਕਰਾਉਣਾ	VERB	_	_	0	root	_	Gloss=PRES.AUX|Translit=dinda
+13	ਦਿੰਦਾ	ਦੇਣਾ	VERB	_	Aspect=Imp|Gender=Masc	12	compound:svc	_	Translit=hai."
+14	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+15	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 40
+# text = "ਉਹ ਦਿਨ ਦੂਰ ਨਹੀਂ ਜਦੋਂ ਘਰ ਬੈਠੇ ਹੀ ਬੰਦਾ ਉਹ ਸਭ ਕੁਝ ਦੇਖ ਸਕੂ ਜੋ ਦੁਨੀਆਂ ਵਿੱਚ ਘਟ ਰਿਹਾ।"
+# translit = Uh din dūr nahīṅ jadōṅ ghar baiṭhē hī bandā uh sabh kujh dēkh sakū jō dunī'āṅ vic ghaṭ rihā.
+# gloss = that day far not when home sitting EMPH person that all thing see can.SUBJ REL world in happen PROG
+# translation = "the day is not far when, sitting at home, a person will be able to see everything that is happening in the world."
+1	"ਉਹ	ਉਹ	DET	_	PronType=Dem	2	det	_	Gloss=that|Translit=Uh
+2	ਦਿਨ	ਦਿਨ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=day|Translit=din
+3	ਦੂਰ	ਦੂਰ	ADV	_	_	14	acl:relcl	_	Gloss=far|Translit=dūr
+4	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	3	advmod	_	Gloss=not|Translit=nahīṅ
+5	ਜਦੋਂ	ਜਦੋਂ	ADV	_	ExtPos=ADV	13	advmod	_	Gloss=when|Translit=jadōṅ
+6	ਘਰ	ਘਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Gloss=home|Translit=ghar
+7	ਬੈਠੇ	ਬੈਠਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	13	advcl	_	Gloss=sitting|Translit=baiṭhē
+8	ਹੀ	ਹੀ	PART	_	_	7	advmod	_	Gloss=EMPH|Translit=hī
+9	ਬੰਦਾ	ਬੰਦਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=person|Translit=bandā
+10	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	13	det	_	Gloss=that|Translit=uh
+11	ਸਭ	ਸਭ	DET	_	PronType=Ind	12	det	_	Gloss=all|Translit=sabh
+12	ਕੁਝ	ਕੁਝ	ADV	_	_	13	obj	_	Gloss=thing|Translit=kujh
+13	ਦੇਖ	ਦੇਖਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	compound:svc	_	Gloss=see|Translit=dēkh
+14	ਸਕੂ	ਸਕਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=can.SUBJ|Translit=sakū
+15	ਜੋ	ਜੋ	PRON	_	PronType=Dem	18	nsubj	_	Gloss=REL|Translit=jō
+16	ਦੁਨੀਆਂ	ਦੁਨੀਆਂ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	Gloss=world|Translit=dunī'āṅ
+17	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	16	case	_	Gloss=in|Translit=vic
+18	ਘਟ	ਘਟਣਾ	VERB	_	_	14	acl:relcl	_	Gloss=happen|Translit=ghaṭ
+19	ਰਿਹਾ।"	ਰਹਿਣਾ	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	18	aux	_	Gloss=PROG|Translit=rihā
+
+# sent_id = 208
+# text = "ਕਿੰਨਾ ਕੁ ਚਿਰ ਤੋਂ ਤੇਰਾ ਕੀ ਮਤਲਬ ਹੈ ?"
+# translit = "Kinna ku chir ton tera ki matlab hai?"
+# gloss = "what exactly AUX you mean PREP 'since how long?'"
+# translation = "what exactly do you mean by 'since how long?'"
+1	"ਕਿੰਨਾ	ਕਿੰਨਾ	DET	_	PronType=Int	3	det	_	Gloss="what|Translit="Kinna
+2	ਕੁ	ਕੁ	PART	_	_	1	advmod	_	Gloss=exactly|Translit=ku
+3	ਚਿਰ	ਚਿਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Gloss=AUX|Translit=chir
+4	ਤੋਂ	ਤੋਂ	ADP	_	Case=Abl	3	case	_	Gloss=you|Translit=ton
+5	ਤੇਰਾ	ਤੂੰ	PRON	_	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	Gloss=mean|Translit=tera
+6	ਕੀ	ਕੀ	DET	_	PronType=Dem	7	det	_	Gloss=PREP|Translit=ki
+7	ਮਤਲਬ	ਮਤਲਬ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	nsubj	_	Gloss='since|Translit=matlab
+8	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=how|Translit=hai?"
+9	?"	?	PUNCT	_	_	8	punct	_	Gloss=long?'"
+
+# sent_id = 88
+# text = ਹੁਣ ਤੱਕ ਤੂੰ ਮੇਰੇ ਲਈ ਅਸਲ ਵਿੱਚ ਆਰਾਮ ਦਾ ਇੱਕ ਵੱਡਾ ਸੋਮਾ ਰਹੀ ਏਂ , ਅਤੇ ਹਾਂ ਕਿੱਟੀ , ਜਿਸਨੂੰ ਹੁਣ ਮੈਂ ਨਿਯਮਿਤ ਰੂਪ ਵਿੱਚ ਲਿਖਾਂਗੀ ।
+# translit = "Hun tak tun mere lai asal vich aaram da ik vadda soma rahi ein, ate han Kitty, jisnu hun main niyamit roop vich likhangi.
+# gloss = until now you for me truly ease of one big source remain PST.FEM.2SG, and yes Kitty, whom now I regular form in write FUT.1SG.FEM.
+# translation = until now you have truly been a great source of comfort for me, and yes Kitty, whom I will now write to regularly.
+1	ਹੁਣ	ਹੁਣ	ADV	_	_	13	advmod	_	Gloss=until|Translit="Hun
+2	ਤੱਕ	ਤੱਕ	ADP	_	_	1	case	_	Gloss=now|Translit=tak
+3	ਤੂੰ	ਤੂੰ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	Gloss=you|Translit=tun
+4	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	13	obl	_	Gloss=for|Translit=mere
+5	ਲਈ	ਲਈ	ADP	_	_	4	case	_	Gloss=me|Translit=lai
+6	ਅਸਲ	ਅਸਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	Gloss=truly|Translit=asal
+7	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	6	case	_	Gloss=ease|Translit=vich
+8	ਆਰਾਮ	ਆਰਾਮ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	Gloss=of|Translit=aaram
+9	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	8	case	_	Gloss=one|Translit=da
+10	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	11	det	_	Gloss=big|Translit=ik
+11	ਵੱਡਾ	ਵੱਡਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	amod	_	Gloss=source|Translit=vadda
+12	ਸੋਮਾ	ਸੋਮਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	xcomp	_	Gloss=remain|Translit=soma
+13	ਰਹੀ	ਰਹਿਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=PST.FEM.2SG,|Translit=rahi
+14	ਏਂ	ਹੈ	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	Gloss=and|Translit=ein,
+15	,	,	PUNCT	_	_	13	punct	_	Gloss=yes|Translit=ate
+16	ਅਤੇ	ਅਤੇ	CCONJ	_	_	13	cc	_	Gloss=Kitty,|Translit=han
+17	ਹਾਂ	ਹਾਂ	PART	_	_	18	discourse	_	Gloss=whom|Translit=Kitty,
+18	ਕਿੱਟੀ	ਕਿੱਟੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	26	vocative	_	Gloss=now|Translit=jisnu
+19	,	,	PUNCT	_	_	18	punct	_	Gloss=I|Translit=hun
+20	ਜਿਸਨੂੰ	ਜੋ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	26	obj	_	Gloss=regular|Translit=main
+21	ਹੁਣ	ਹੁਣ	ADV	_	_	26	advmod	_	Gloss=form|Translit=niyamit
+22	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	Gloss=in|Translit=roop
+23	ਨਿਯਮਿਤ	ਨਿਯਮਿਤ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	24	amod	_	Gloss=write|Translit=vich
+24	ਰੂਪ	ਰੂਪ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obl	_	Gloss=FUT.1SG.FEM|Translit=likhangi
+25	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	24	case	_	_
+26	ਲਿਖਾਂਗੀ	ਲਿਖਣਾ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
+27	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 227
+# text = ਔਰਤ ਨੂੰ ਲੰਘਦਿਆਂ ਦੇਖ ਕੇ , ਉਹ ਵਿਆਕੁਲ ਹੋ ਕੇ ਖਲੋ ਜਾਂਦਾ ਹੈ ।
+# translit = Aurat nu langhdiyan dekh ke, oh viakul ho ke khalo jaanda hai.
+# gloss = See-PTCP a womanOBJ pass by, heSUBJ become-PRES restless and stand-PRES still.
+# translation = Seeing a woman pass by, he becomes restless and stands still.
+1	ਔਰਤ	ਔਰਤ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Gloss=See-PTCP|Translit=Aurat
+2	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	1	case	_	Gloss=a|Translit=nu
+3	ਲੰਘਦਿਆਂ	ਲੰਘਣਾ	VERB	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part	4	advcl	_	Gloss=womanOBJ|Translit=langhdiyan
+4	ਦੇਖ	ਦੇਖਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	Gloss=pass|Translit=dekh
+5	ਕੇ	ਕੇ	ADP	_	_	4	case	_	Gloss=by,|Translit=ke,
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=heSUBJ|Translit=oh
+7	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	11	nsubj	_	Gloss=become-PRES|Translit=viakul
+8	ਵਿਆਕੁਲ	ਵਿਆਕੁਲ	ADJ	_	Degree=Pos	9	amod	_	Gloss=restless|Translit=ho
+9	ਹੋ	ਹੋਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	Gloss=and|Translit=ke
+10	ਕੇ	ਕੇ	ADP	_	_	9	case	_	Gloss=stand-PRES|Translit=khalo
+11	ਖਲੋ	ਖਲੋਣਾ	VERB	_	_	0	root	_	Gloss=still|Translit=jaanda
+12	ਜਾਂਦਾ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Part	11	compound:svc	_	Translit=hai
+13	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+14	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 179
+# text = ਕਾਰਾਜਿਉਜ਼ਿਸ ਡਰਾਮਾ ਜਿਹੜਾ ਕਿ ਹਸਾਉਣ ਵਾਲਾ ਹੁੰਦਾ ਸੀ , ਉਸ ਦਾ ਮੁਕਾਬਲਾ Punch and Judy (ਪ੍ਰਾਚੀਨ ਸਮੇਂ 'ਚ ਦਿਖਾਇਆ ਜਾਣ ਵਾਲਾ ਹਰਮਨ ਪਿਆਰਾ ਪੁਤਲੀਆਂ ਦਾ ਤਮਾਸ਼ਾ) ਨਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ।
+# translit = Karagiozis drama jihra ki hasaun wala hunda si, us da mukabla Punch and Judy (prachin samay 'ch dikhaia jaan wala harman piara putlian da tamasha) nal kita ja sakda hai.
+# gloss = Karagiozis drama which COMP laugh-inducing ASSOC be PAST.AUX, it GEN comparison Punch and Judy (ancient time-LOC shown go ASSOC popular puppets GEN show) with done go can PRES.AUX.
+# translation = The Karagiozis drama, which used to be comical, can be compared to Punch and Judy (a popular puppet show shown in ancient times)."
+1	ਕਾਰਾਜਿਉਜ਼ਿਸ	ਕਾਰਾਜਿਉਜ਼ਿਸ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	compound	_	Gloss=Karagiozis|Translit=Karagiozis
+2	ਡਰਾਮਾ	ਡਰਾਮਾ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	Gloss=drama|Translit=drama
+3	ਜਿਹੜਾ	ਜਿਹੜਾ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	Gloss=which|Translit=jihra
+4	ਕਿ	ਕਿ	SCONJ	_	_	3	mark	_	Gloss=COMP|Translit=ki
+5	ਹਸਾਉਣ	ਹਸਾਉਣਾ	VERB	_	Case=Acc|VerbForm=Inf	7	xcomp	_	Gloss=laugh-inducing|Translit=hasaun
+6	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	5	case	_	Gloss=ASSOC|Translit=wala
+7	ਹੁੰਦਾ	ਹੋਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	Gloss=be|Translit=hunda
+8	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	aux	_	Gloss=PAST.AUX,|Translit=si,
+9	,	,	PUNCT	_	_	7	punct	_	Gloss=it|Translit=us
+10	ਉਸ	ਉਹ	PRON	_	PronType=Dem	12	nmod	_	Gloss=GEN|Translit=da
+11	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	10	case	_	Gloss=comparison|Translit=mukabla
+12	ਮੁਕਾਬਲਾ	ਮੁਕਾਬਲਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	nsubj:pass	_	Gloss=Punch|Translit=Punch
+13	Punch	Punch	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	Gloss=and|Translit=and
+14	and	and	CCONJ	_	_	13	cc	_	Gloss=Judy|Translit=Judy
+15	Judy	Judy	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	13	flat	_	Gloss=(ancient|Translit=(prachin
+16	(ਪ੍ਰਾਚੀਨ	ਪ੍ਰਾਚੀਨ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	17	amod	_	Gloss=time-LOC|Translit=samay
+17	ਸਮੇਂ	ਸਮਾਂ	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	Gloss=shown|Translit='ch
+18	'ਚ	ਵਿੱਚ	ADP	_	_	17	case	_	Gloss=go|Translit=dikhaia
+19	ਦਿਖਾਇਆ	ਦਿਖਾਉਣਾ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Inf	26	acl	_	Gloss=ASSOC|Translit=jaan
+20	ਜਾਣ	ਜਾਣਾ	AUX	_	Gender=Fem|Number=Sing	19	aux:pass	_	Gloss=popular|Translit=wala
+21	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	19	case	_	Gloss=puppets|Translit=harman
+22	ਹਰਮਨ	ਹਰਮਨ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	23	amod	_	Gloss=GEN|Translit=piara
+23	ਪਿਆਰਾ	ਪਿਆਰਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	26	amod	_	Gloss=show)|Translit=putlian
+24	ਪੁਤਲੀਆਂ	ਪੁਤਲੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	26	nmod	_	Gloss=with|Translit=da
+25	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	24	case	_	Gloss=done|Translit=tamasha)
+26	ਤਮਾਸ਼ਾ)	ਤਮਾਸ਼ਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	Gloss=go|Translit=nal
+27	ਨਾਲ	ਨਾਲ	ADP	_	_	13	case	_	Gloss=can|Translit=kita
+28	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=PRES.AUX|Translit=ja
+29	ਜਾ	ਜਾਣਾ	AUX	_	_	28	aux:pass	_	Translit=sakda
+30	ਸਕਦਾ	ਸਕਣਾ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	28	aux	_	Translit=hai
+31	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
+32	।	।	PUNCT	_	_	28	punct	_	_
+
+# sent_id = 41
+# text = ਸਿਖਰ ਦੁਪਹਿਰੇ ਸੂਰਜ ਦੀ ਤਿੱਖੀ ਧੁੱਪ ਵਿੱਚ ਵਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ੇ ਦਾ ਚੌਂਕਾਅ ਦੇਣ ਵਾਲਾ ਵਿਖਾਵਾ ਕੀਤਾ ਗਿਆ ।
+# translit = Sikhar dupahira'ē sūraj dī tikkhī dhupp vic vaḍadarśī śīśē dā cauṅkā'a dēṇa vālā vikhāvā kītā gi'ā.
+# gloss = at peak noon sun GEN sharp heat under magnifying glass GEN dazzling demonstration perform.PASS.PST
+# translation = at the peak of noon, under the sharp heat of the sun, a dazzling demonstration of the magnifying glass was performed.
+1	ਸਿਖਰ	ਸਿਖਰ	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	Gloss=at|Translit=Sikhar
+2	ਦੁਪਹਿਰੇ	ਦੁਪਹਿਰ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl:tmod	_	Gloss=peak|Translit=dupahira'ē
+3	ਸੂਰਜ	ਸੂਰਜ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	Gloss=noon|Translit=sūraj
+4	ਦੀ	ਦਾ	ADP	_	Gender=Fem	3	case	_	Gloss=sun|Translit=dī
+5	ਤਿੱਖੀ	ਤਿੱਖਾ	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	Gloss=GEN|Translit=tikkhī
+6	ਧੁੱਪ	ਧੁੱਪ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	Gloss=sharp|Translit=dhupp
+7	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	6	case	_	Gloss=heat|Translit=vic
+8	ਵਡਦਰਸ਼ੀ	ਵਡਦਰਸ਼ੀ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	Gloss=under|Translit=vaḍadarśī
+9	ਸ਼ੀਸ਼ੇ	ਸ਼ੀਸ਼ਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	Gloss=magnifying|Translit=śīśē
+10	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	9	case	_	Gloss=glass|Translit=dā
+11	ਚੌਂਕਾਅ	ਚੌਂਕਾਅ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	Gloss=GEN|Translit=cauṅkā'a
+12	ਦੇਣ	ਦੇਣਾ	VERB	_	Case=Acc|VerbForm=Inf	14	acl	_	Gloss=dazzling|Translit=dēṇa
+13	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	12	case	_	Gloss=demonstration|Translit=vālā
+14	ਵਿਖਾਵਾ	ਵਿਖਾਵਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj:pass	_	Gloss=perform.PASS.PST|Translit=vikhāvā
+15	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Translit=kītā
+16	ਗਿਆ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	aux:pass	_	Translit=gi'ā
+17	।	।	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 195
+# text = ਕੀ ਇਹ ਕੱਲ੍ਹ ਦੀ ਗੱਲ ਸੀ ?
+# translit = Kee eh kallh dee gall si?
+# gloss = this yesterday GEN matter be.PST?
+# translation = was this a matter of yesterday?
+1	ਕੀ	ਕੀ	PART	_	_	6	discourse	_	Gloss=this|Translit=Kee
+2	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	Gloss=yesterday|Translit=eh
+3	ਕੱਲ੍ਹ	ਕੱਲ੍ਹ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Gloss=GEN|Translit=kallh
+4	ਦੀ	ਦਾ	ADP	_	Gender=Fem	3	case	_	Gloss=matter|Translit=dee
+5	ਗੱਲ	ਗੱਲ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_	Gloss=be.PST?|Translit=gall
+6	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Translit=si?
+7	?	?	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2
+# text = ਉਦੋਂ ਮਾਕੌਂਦੋ ਤਾਂ ਅਜੇ ਵੀਹ ਕੁ ਕੱਚੇ ਘਰਾਂ ਦਾ ਪਿੰਡ ਹੀ ਸੀ ,
+# translit = udon makoundo taan aje veeh ku kachē gharan da pind hee see
+# gloss = then Macondo still about twenty mud houses GEN village COP.PST only
+# translation = at that time, Macondo was still just a village of about twenty mud houses
+1	ਉਦੋਂ	ਉਦੋਂ	ADV	_	_	2	advmod	_	Gloss=then|Translit=udon
+2	ਮਾਕੌਂਦੋ	ਮਾਕੌਂਦੋ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Gloss=Macondo|Translit=makoundo
+3	ਤਾਂ	ਤਾਂ	PART	_	_	2	advmod	_	Gloss=still|Translit=taan
+4	ਅਜੇ	ਅਜੇ	ADV	_	ExtPos=ADV	10	advmod	_	Gloss=about|Translit=aje
+5	ਵੀਹ	ਵੀਹ	NUM	_	_	8	nummod	_	Gloss=also|Translit=veeh
+6	ਕੁ	ਕੁ	PART	_	_	5	advmod	_	Gloss=mud|Translit=ku
+7	ਕੱਚੇ	ਕੱਚਾ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	Gloss=houses|Translit=kachē
+8	ਘਰਾਂ	ਘਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	nmod:poss	_	Gloss=GEN|Translit=gharan
+9	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	8	case	_	Gloss=village|Translit=da
+10	ਪਿੰਡ	ਪਿੰਡ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	xcomp	_	Gloss=COP.PST|Translit=pind
+11	ਹੀ	ਹੀ	PART	_	_	10	advmod:emph	_	Gloss=only|Translit=hee
+12	ਸੀ	ਸੀ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Translit=see
+13	,	,	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 72
+# text = ਉਰਸੂਲਾ ਦੀ ਮਰਜ਼ੀ ਮੁਤਾਬਕ ਉਸਦੀ ਸ਼ਾਦੀ ਵੀ ਉਸੇ ਦਿਨ ਹੋਣੀ ਸੀ ਪਰ ਸ਼ੁੱਕਰਵਾਰ ਵਾਲੇ ਦਿਨ ਪੀਤਰੋ ਕਰੇਸਪੀ ਨੂੰ ਖਤ ਮਿਲਿਆ ਕਿ ਉਸਦੀ ਮਾਂ ਦੀ ਅਚਾਨਕ ਮੌਤ ਹੋ ਗਈ ਸੀ ।
+# translit = Urasūlā dī marzī mutābaka usadī śādī vī usē dina hōṇī sī para śukkaravāra vālē dina pītarō karēsapī nūṅ khata mili'ā ki usadī māṅ dī acānaka mauta hō ga'ī sī.
+# gloss = according Ursula GEN wish her wedding also same day happen INF COP.PST but Friday GEN day Pietro Crespi DAT letter receive.PFV that his mother GEN sudden death happen COP.PST
+# translation = according to Úrsula's wish, her wedding was also supposed to take place on that very same day, but on Friday Pietro Crespi received a letter stating that his mother had passed away suddenly.
+1	ਉਰਸੂਲਾ	ਉਰਸੂਲਾ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	3	nmod:poss	_	Gloss=according|Translit=Urasūlā
+2	ਦੀ	ਦਾ	ADP	_	Gender=Fem	1	case	_	Gloss=Ursula|Translit=dī
+3	ਮਰਜ਼ੀ	ਮਰਜ਼ੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	Gloss=GEN|Translit=marzī
+4	ਮੁਤਾਬਕ	ਮੁਤਾਬਕ	ADP	_	_	3	case	_	Gloss=wish|Translit=mutābaka
+5	ਉਸਦੀ	ਉਹ	PRON	_	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	Gloss=her|Translit=usadī
+6	ਸ਼ਾਦੀ	ਸ਼ਾਦੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Gloss=wedding|Translit=śādī
+7	ਵੀ	ਵੀ	PART	_	_	6	advmod:emph	_	Gloss=also|Translit=vī
+8	ਉਸੇ	ਉਹ	DET	_	PronType=Dem	9	det	_	Gloss=same|Translit=usē
+9	ਦਿਨ	ਦਿਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl:tmod	_	Gloss=day|Translit=dina
+10	ਹੋਣੀ	ਹੋਣਾ	VERB	_	Gender=Fem|Number=Sing|VerbForm=Inf	0	root	_	Gloss=happen|Translit=hōṇī
+11	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	Gloss=INF|Translit=sī
+12	ਪਰ	ਪਰ	CCONJ	_	_	20	cc	_	Gloss=COP.PST|Translit=para
+13	ਸ਼ੁੱਕਰਵਾਰ	ਸ਼ੁੱਕਰਵਾਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	Gloss=but|Translit=śukkaravāra
+14	ਵਾਲੇ	ਵਾਲਾ	ADP	_	Case=Acc|Gender=Masc|Number=Sing	13	case	_	Gloss=Friday|Translit=vālē
+15	ਦਿਨ	ਦਿਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obl:tmod	_	Gloss=GEN|Translit=dina
+16	ਪੀਤਰੋ	ਪੀਤਰੋ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	20	iobj	_	Gloss=day|Translit=pītarō
+17	ਕਰੇਸਪੀ	ਕਰੇਸਪੀ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	16	flat	_	Gloss=Pietro|Translit=karēsapī
+18	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	16	case	_	Gloss=Crespi|Translit=nūṅ
+19	ਖਤ	ਖਤ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obj	_	Gloss=DAT|Translit=khata
+20	ਮਿਲਿਆ	ਮਿਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing	10	conj	_	Gloss=letter|Translit=mili'ā
+21	ਕਿ	ਕਿ	SCONJ	_	_	20	mark	_	Gloss=receive.PFV|Translit=ki
+22	ਉਸਦੀ	ਉਹ	PRON	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	Gloss=that|Translit=usadī
+23	ਮਾਂ	ਮਾਂ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	nsubj	_	Gloss=his|Translit=māṅ
+24	ਦੀ	ਦਾ	ADP	_	Gender=Fem	23	case	_	Gloss=mother|Translit=dī
+25	ਅਚਾਨਕ	ਅਚਾਨਕ	ADV	_	_	26	advmod	_	Gloss=GEN|Translit=acānaka
+26	ਮੌਤ	ਮੌਤ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	compound:lvc	_	Gloss=sudden|Translit=mauta
+27	ਹੋ	ਹੋਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	ccomp	_	Gloss=death|Translit=hō
+28	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	27	compound:svc	_	Gloss=happen|Translit=ga'ī
+29	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	Gloss=COP.PST|Translit=sī
+30	।	।	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 151
+# text = ਕਿਸੇ ਵੀ ਮਾਮਲੇ ਵਿੱਚ ਇਸ ਤਰ੍ਹਾਂ ਦਾ ਇੱਕ ਗੁਪਤ ਕੋਡ ਲਿਖਣਾ ਸਿੱਖਣਾ ਸਚਮੁੱਚ ਦਿਲਚਸਪ ਹੈ ।
+# translit = Kise vi maamle vich is tarah da ik gupt code likhna sikhna sachmuch dilchasp hai
+# gloss = any case LOC this way GEN one secret code write INF learn INF truly interesting be.PRES.3SG.
+# translation = in any case, learning to write such a secret code is truly interesting.
+1	ਕਿਸੇ	ਕੋਈ	PRON	_	PronType=Dem	3	det	_	Gloss=any|Translit=Kise
+2	ਵੀ	ਵੀ	PART	_	_	1	advmod	_	Gloss=case|Translit=vi
+3	ਮਾਮਲੇ	ਮਾਮਲਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Gloss=LOC|Translit=maamle
+4	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	3	case	_	Gloss=this|Translit=vich
+5	ਇਸ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	6	det	_	Gloss=way|Translit=is
+6	ਤਰ੍ਹਾਂ	ਤਰ੍ਹਾਂ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	Gloss=GEN|Translit=tarah
+7	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	6	case	_	Gloss=one|Translit=da
+8	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	10	det	_	Gloss=secret|Translit=ik
+9	ਗੁਪਤ	ਗੁਪਤ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Gloss=code|Translit=gupt
+10	ਕੋਡ	ਕੋਡ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	Gloss=write|Translit=code
+11	ਲਿਖਣਾ	ਲਿਖਣਾ	VERB	_	VerbForm=Inf	12	xcomp	_	Gloss=INF|Translit=likhna
+12	ਸਿੱਖਣਾ	ਸਿੱਖਣਾ	VERB	_	VerbForm=Inf	15	nsubj	_	Gloss=learn|Translit=sikhna
+13	ਸਚਮੁੱਚ	ਸਚਮੁੱਚ	ADV	_	_	14	advmod	_	Gloss=INF|Translit=sachmuch
+14	ਦਿਲਚਸਪ	ਦਿਲਚਸਪ	ADJ	_	Degree=Pos	15	xcomp	_	Gloss=truly|Translit=dilchasp
+15	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=interesting|Translit=hai
+16	।	।	PUNCT	_	_	15	punct	_	Gloss=be.PRES.3SG
+
+# sent_id = 115
+# text = ਮੈਨੂੰ ਦੋ ਬੋਰਚੇਜ਼ , ਇੱਕ ਬੁੱਕ ਮਾਰਕ ਅਤੇ ਦੋ ਪੁਸਤਕਾਂ ਮਿਲੀਆਂ ।
+# translit = Men do borciez, ic buc marc ate do pustacan miliian
+# gloss = me.DAT two brooches, one bookmark and two books receive.PST.FEM.1SG.
+# translation = i received two brooches, one bookmark, and two books.
+1	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	iobj	_	Gloss=me.DAT|Translit=Men
+2	ਦੋ	ਦੋ	NUM	_	_	3	nummod	_	Gloss=two|Translit=do
+3	ਬੋਰਚੇਜ਼	ਬ੍ਰੋਚ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	obj	_	Gloss=brooches,|Translit=borciez,
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=one|Translit=ic
+5	ਇੱਕ	ਇੱਕ	NUM	_	_	7	nummod	_	Gloss=bookmark|Translit=buc
+6	ਬੁੱਕ	ਬੁੱਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	compound	_	Gloss=and|Translit=marc
+7	ਮਾਰਕ	ਮਾਰਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Gloss=two|Translit=ate
+8	ਅਤੇ	ਅਤੇ	CCONJ	_	_	10	cc	_	Gloss=books|Translit=do
+9	ਦੋ	ਦੋ	NUM	_	_	10	nummod	_	Gloss=receive.PST.FEM.1SG|Translit=pustacan
+10	ਪੁਸਤਕਾਂ	ਪੁਸਤਕ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	conj	_	Translit=miliian
+11	ਮਿਲੀਆਂ	ਮਿਲਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
+12	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 57
+# text = ਆਤਸ਼ਬਾਜ਼ੀਆਂ ਚੱਲ ਰਹੀਆਂ ਸਨ ਤੇ ਕਈ ਢਾਣੀਆਂ ਸੰਗੀਤ ਪੇਸ਼ ਕਰ ਰਹੀਆਂ ਸਨ ।
+# translit = Ātaśbāzī'āṅ call rahī'āṅ sana tē ka'ī ḍhāṇī'āṅ saṅgīt pēś kar rahī'āṅ sana.
+# gloss = fireworks go PROG be.PST and several musical groups music perform PROG be.PST
+# translation = fireworks were going off, and several musical groups were performing music.
+1	ਆਤਸ਼ਬਾਜ਼ੀਆਂ	ਆਤਸ਼ਬਾਜ਼ੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Gloss=fireworks|Translit=Ātaśbāzī'āṅ
+2	ਚੱਲ	ਚੱਲਣਾ	VERB	_	_	0	root	_	Gloss=go|Translit=call
+3	ਰਹੀਆਂ	ਰਹਿਣਾ	AUX	_	Gender=Fem|Number=Plur|VerbForm=Part	2	aux	_	Gloss=PROG|Translit=rahī'āṅ
+4	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	2	cop	_	Gloss=be.PST|Translit=sana
+5	ਤੇ	ਅਤੇ	CCONJ	_	_	2	cc	_	Gloss=and|Translit=tē
+6	ਕਈ	ਕਈ	DET	_	PronType=Ind	7	det	_	Gloss=several|Translit=ka'ī
+7	ਢਾਣੀਆਂ	ਢਾਣੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	Gloss=musical|Translit=ḍhāṇī'āṅ
+8	ਸੰਗੀਤ	ਸੰਗੀਤ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Gloss=groups|Translit=saṅgīt
+9	ਪੇਸ਼	ਪੇਸ਼	NOUN	_	_	2	conj	_	Gloss=music|Translit=pēś
+10	ਕਰ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	9	compound	_	Gloss=perform|Translit=kar
+11	ਰਹੀਆਂ	ਰਹਿਣਾ	AUX	_	Gender=Fem|Number=Plur|VerbForm=Part	9	aux	_	Gloss=PROG|Translit=rahī'āṅ
+12	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	9	cop	_	Gloss=be.PST|Translit=sana
+13	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 108
+# text = ਉਨ੍ਹਾਂ ਨੇ ਮੈਨੂੰ ਇੱਕ ਖੂਬਸੂਰਤ ਕਿਤਾਬ ਦਿੱਤੀ ‘ਡੱਚ ਧਾਰਾਵਾਹਿਕ ਅਤੇ ਦੰਦ ਕਥਾਵਾਂ' , ਪਰ ਗ਼ਲਤੀ ਨਾਲ ਉਨ੍ਹਾਂ ਨੇ ਮੈਨੂੰ ਦੂਜਾ ਭਾਗ ਦੇ ਦਿੱਤਾ ਇਸ ਲਈ ਮੈਂ ਦੋ ਹੋਰ ਪੁਸਤਕਾਂ ਦਾ ਭਾਗ 1 ਨਾਲ ਤਬਾਦਲਾ ਕਰ ਲਿਆ ।
+# translit = Unhan ne mainu ik khoobsoorat kitab ditti ‘Dutch dharavahik ate dand kathanvan’, par galti naal unhan ne mainu dooja bhaag de ditta is lai main do hor pustakan da bhaag 1 naal tabadala kar lia.
+# gloss = they ERG me.DAT one beautiful book give.PST ‘Dutch Sagas and Legends’ but mistake with they ERG me.DAT second volume give.PST therefore I two other books GEN volume 1 with exchange do.PST
+# translation = they gave me a beautiful book, 'Dutch Sagas and Legends', but by mistake they gave me the second volume, so I exchanged two other books for volume 1.
+1	ਉਨ੍ਹਾਂ	ਉਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Gloss=they|Translit=Unhan
+2	ਨੇ	ਨੇ	ADP	_	_	1	case	_	Gloss=ERG|Translit=ne
+3	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	Gloss=me.DAT|Translit=mainu
+4	ਇੱਕ	ਇੱਕ	NUM	_	_	6	nummod	_	Gloss=one|Translit=ik
+5	ਖੂਬਸੂਰਤ	ਖੂਬਸੂਰਤ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	Gloss=beautiful|Translit=khoobsoorat
+6	ਕਿਤਾਬ	ਕਿਤਾਬ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Gloss=book|Translit=kitab
+7	ਦਿੱਤੀ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Part	0	root	_	Gloss=give.PST|Translit=ditti
+8	‘ਡੱਚ	ਡੱਚ	PROPN	_	_	7	appos	_	Gloss=‘Dutch|Translit=‘Dutch
+9	ਧਾਰਾਵਾਹਿਕ	ਧਾਰਾਵਾਹਿਕ	PROPN	_	_	8	flat	_	Gloss=Sagas|Translit=dharavahik
+10	ਅਤੇ	ਅਤੇ	PROPN	_	_	9	flat	_	Gloss=and|Translit=ate
+11	ਦੰਦ	ਦੰਦ	PROPN	_	_	10	flat	_	Gloss=Legends’|Translit=dand
+12	ਕਥਾਵਾਂ'	ਕਥਾ	PROPN	_	_	11	flat	_	Gloss=but|Translit=kathanvan’,
+13	,	,	PUNCT	_	_	7	punct	_	Gloss=mistake|Translit=par
+14	ਪਰ	ਪਰ	CCONJ	_	_	22	cc	_	Gloss=with|Translit=galti
+15	ਗ਼ਲਤੀ	ਗ਼ਲਤੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	Gloss=they|Translit=naal
+16	ਨਾਲ	ਨਾਲ	ADP	_	_	15	case	_	Gloss=ERG|Translit=unhan
+17	ਉਨ੍ਹਾਂ	ਉਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	Gloss=me.DAT|Translit=ne
+18	ਨੇ	ਨੇ	ADP	_	_	17	case	_	Gloss=second|Translit=mainu
+19	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	iobj	_	Gloss=volume|Translit=dooja
+20	ਦੂਜਾ	ਦੂਜਾ	NUM	_	_	21	nummod	_	Gloss=give.PST|Translit=bhaag
+21	ਭਾਗ	ਭਾਗ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	obj	_	Gloss=therefore|Translit=de
+22	ਦੇ	ਦੇਣਾ	VERB	_	Gender=Masc|Number=Plur	7	conj	_	Gloss=I|Translit=ditta
+23	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	22	compound:svc	_	Gloss=two|Translit=is
+24	ਇਸ	ਇਸ	ADV	_	ExtPos=ADV	35	advmod	_	Gloss=other|Translit=lai
+25	ਲਈ	ਲਈ	ADV	_	_	24	fixed	_	Gloss=books|Translit=main
+26	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	35	nsubj	_	Gloss=GEN|Translit=do
+27	ਦੋ	ਦੋ	NUM	_	_	29	nummod	_	Gloss=volume|Translit=hor
+28	ਹੋਰ	ਹੋਰ	DET	_	PronType=Ind	29	det	_	Gloss=1|Translit=pustakan
+29	ਪੁਸਤਕਾਂ	ਪੁਸਤਕ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	31	nmod	_	Gloss=with|Translit=da
+30	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	29	case	_	Gloss=exchange|Translit=bhaag
+31	ਭਾਗ	ਭਾਗ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Gloss=do.PST|Translit=1
+32	1	1	NUM	_	NumType=Card	31	nummod	_	Translit=naal
+33	ਨਾਲ	ਨਾਲ	ADP	_	_	31	case	_	Translit=tabadala
+34	ਤਬਾਦਲਾ	ਤਬਾਦਲਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	35	compound:lvc	_	Translit=kar
+35	ਕਰ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	22	conj	_	Translit=lia
+36	ਲਿਆ	ਲੈਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	35	compound:svc	_	_
+37	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 230
+# text = ਮੈਂ ਤੁਹਾਨੂੰ ਪੁੱਛਦਾ ਹਾਂ , ਤੁਸੀਂ ਮੈਨੂੰ ਸਿਰਫ਼ ਇਹ ਦੱਸੋ ਕਿ ਇਸ ਦਾ ਅਰਥ ਕੀ ਹੈ ?
+# translit = Main tuhaanu puchhda haan, tusi mainu siraf eh dasso ki is da arth ki hai?
+# gloss = ISUBJ youOBJ ask-PRES PRES.AUX.1SG, youSUBJmeOBJ just this tell.IMP COMP itGEN meaning what is?
+# translation = I ask you, just tell me this: what is the meaning of it?
+1	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=ISUBJ|Translit=Main
+2	ਤੁਹਾਨੂੰ	ਤੁਸੀਂ	PRON	_	Number=Plur|Person=2|PronType=Rel	3	obj	_	Gloss=youOBJ|Translit=tuhaanu
+3	ਪੁੱਛਦਾ	ਪੁੱਛਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=ask-PRES|Translit=puchhda
+4	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=PRES.AUX.1SG,|Translit=haan,
+5	,	,	PUNCT	_	_	3	punct	_	Gloss=youSUBJmeOBJ|Translit=tusi
+6	ਤੁਸੀਂ	ਤੁਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	Gloss=just|Translit=mainu
+7	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	iobj	_	Gloss=this|Translit=siraf
+8	ਸਿਰਫ਼	ਸਿਰਫ਼	ADV	_	_	10	advmod	_	Gloss=tell.IMP|Translit=eh
+9	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	10	obj	_	Gloss=COMP|Translit=dasso
+10	ਦੱਸੋ	ਦੱਸਣਾ	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	parataxis	_	Gloss=itGEN|Translit=ki
+11	ਕਿ	ਕਿ	SCONJ	_	_	15	mark	_	Gloss=meaning|Translit=is
+12	ਇਸ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	14	nmod:poss	_	Gloss=what|Translit=da
+13	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	12	case	_	Gloss=is?|Translit=arth
+14	ਅਰਥ	ਅਰਥ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Translit=ki
+15	ਕੀ	ਕੀ	PRON	_	Case=Acc|PronType=Ind	10	ccomp	_	Translit=hai?
+16	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+17	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 180
+# text = ਹਾਂ , ਜ਼ਿੰਦਗੀ ਭਰ ਦੀ ਜੇਲ੍ਹ , ਲਾਹਨਤ ਹੈ ਅਜਿਹੀ ਜ਼ਿੰਦਗੀ ’ਤੇ ।
+# translit = "Han, zindagi bhar di jel, lahnat hai ajihi zindagi 'te.
+# gloss = Yes, life entire GEN jail, curse is such life-POST.
+# translation = Yes, a lifelong imprisonment; curse be upon such a life.
+1	ਹਾਂ	ਹਾਂ	PART	_	_	9	discourse	_	Gloss=Yes,|Translit="Han,
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=life|Translit=zindagi
+3	ਜ਼ਿੰਦਗੀ	ਜ਼ਿੰਦਗੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Gloss=entire|Translit=bhar
+4	ਭਰ	ਭਰ	PART	_	_	3	nmod	_	Gloss=GEN|Translit=di
+5	ਦੀ	ਦਾ	ADP	_	Gender=Fem	3	case	_	Gloss=jail,|Translit=jel,
+6	ਜੇਲ੍ਹ	ਜੇਲ੍ਹ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	dislocated	_	Gloss=curse|Translit=lahnat
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=is|Translit=hai
+8	ਲਾਹਨਤ	ਲਾਹਨਤ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Gloss=such|Translit=ajihi
+9	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=life-POST|Translit=zindagi
+10	ਅਜਿਹੀ	ਅਜਿਹੀ	DET	_	PronType=Dem	11	det	_	Translit='te
+11	ਜ਼ਿੰਦਗੀ	ਜ਼ਿੰਦਗੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+12	’ਤੇ	’ਤੇ	ADP	_	_	11	case	_	_
+13	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 167
+# text = ਮੱਛੀਆਂ ਪਾਣੀ ਦੇ ਤੇਜ਼ ਫਰਾਟਿਆਂ ਕਾਰਨ ਡਰ ਕੇ ਆਪਣੇ ਬਚਾਅ ਲਈ ਡੂੰਘੇ ਪਾਣੀ ਅੰਦਰ ਚਲੇ ਗਈਆਂ ਸਨ ਅਤੇ ਉਥੇ ਉਹ ਸਮੁੰਦਰ ਦੇ ਸ਼ਾਂਤ ਹੋਣ ਦੀ ਉਡੀਕ ਕਰ ਰਹੀਆਂ ਸਨ ।
+# translit = Machhiyaan paani de tez pharaateyaan kaaran dar ke aapne bachaav layi doonghe paani andar chale gaiyaan san ate uthe oh samundar de shaant hon di udeek kar rahiyaan san.
+# gloss = fish.PL water GEN  fast  currents   because fear  having their   safety for   deep     water   inside went   AUX.PST.PL and   there  they sea  GEN  calm   be.INF GEN waiting do  PROG.PL AUX.PST.PL
+# translation = the fish, frightened by the rapid currents of the water, retreated into the deep water for their safety, and there they were waiting for the sea to become calm.
+1	ਮੱਛੀਆਂ	ਮੱਛੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	Gloss=fish.PL|Translit=Machhiyaan
+2	ਪਾਣੀ	ਪਾਣੀ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	Gloss=water|Translit=paani
+3	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	2	case	_	Gloss=GEN|Translit=de
+4	ਤੇਜ਼	ਤੇਜ਼	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	5	amod	_	Gloss=fast|Translit=tez
+5	ਫਰਾਟਿਆਂ	ਫਰਾਟਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	obl	_	Gloss=currents|Translit=pharaateyaan
+6	ਕਾਰਨ	ਕਾਰਨ	ADP	_	Case=Acc|Gender=Masc|Number=Sing	5	case	_	Gloss=because|Translit=kaaran
+7	ਡਰ	ਡਰਨਾ	VERB	_	Case=Acc|Gender=Masc|Number=Sing	15	advcl	_	Gloss=fear|Translit=dar
+8	ਕੇ	ਕੇ	ADP	_	_	7	mark	_	Gloss=having|Translit=ke
+9	ਆਪਣੇ	ਆਪਣਾ	PRON	_	ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	nmod:poss	_	Gloss=their|Translit=aapne
+10	ਬਚਾਅ	ਬਚਾਅ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Gloss=safety|Translit=bachaav
+11	ਲਈ	ਲਈ	ADP	_	_	10	case	_	Gloss=for|Translit=layi
+12	ਡੂੰਘੇ	ਡੂੰਘਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	13	amod	_	Gloss=deep|Translit=doonghe
+13	ਪਾਣੀ	ਪਾਣੀ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl	_	Gloss=water|Translit=paani
+14	ਅੰਦਰ	ਅੰਦਰ	ADV	_	_	15	advmod	_	Gloss=inside|Translit=andar
+15	ਚਲੇ	ਚੱਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=went|Translit=chale
+16	ਗਈਆਂ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	15	compound:svc	_	Gloss=AUX.PST.PL|Translit=gaiyaan
+17	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	15	aux	_	Gloss=and|Translit=san
+18	ਅਤੇ	ਅਤੇ	CCONJ	_	_	26	cc	_	Gloss=there|Translit=ate
+19	ਉਥੇ	ਉਥੇ	ADV	_	_	26	advmod	_	Gloss=they|Translit=uthe
+20	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	26	nsubj	_	Gloss=sea|Translit=oh
+21	ਸਮੁੰਦਰ	ਸਮੁੰਦਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	Gloss=GEN|Translit=samundar
+22	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	21	case	_	Gloss=calm|Translit=de
+23	ਸ਼ਾਂਤ	ਸ਼ਾਂਤ	ADJ	_	Degree=Pos	24	compound	_	Gloss=be.INF|Translit=shaant
+24	ਹੋਣ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	nmod	_	Gloss=GEN|Translit=hon
+25	ਦੀ	ਦਾ	ADP	_	Gender=Fem	24	case	_	Gloss=waiting|Translit=di
+26	ਉਡੀਕ	ਉਡੀਕ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	Gloss=do|Translit=udeek
+27	ਕਰ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	26	compound	_	Gloss=PROG.PL|Translit=kar
+28	ਰਹੀਆਂ	ਰਹਿਣਾ	AUX	_	Gender=Fem|Number=Plur|VerbForm=Part	27	aux	_	Gloss=AUX.PST.PL|Translit=rahiyaan
+29	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	27	aux	_	Translit=san
+30	।	।	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 184
+# text = ਕੌਫ਼ੀ ਹਾਊਸ ਦਾ ਮਾਲਕ ਜਿਹੜਾ ਕਿ ਹਾਲੀ ਰਾਤ ਬੀਤਣ ਤੋਂ ਬਾਅਦ ਉੱਠਿਆ ਹੀ ਸੀ ਤੇ ਸੁੱਤ ਉਨੀਂਦਾ ਸੀ , ਉਸ ਨੇ ਆਪਣਾ ਹੱਥ ਵਧਾ ਕੇ ਬੱਤੀ ਬੁਝਾ ਦਿੱਤੀ ।
+# translit = Coffee house da malak jihra ki haali raat beetan ton baad utthia hi si te sutt uninda si, us ne apna hatth vadha ke batti bujha ditti."
+# gloss = Coffee house GEN owner who COMP just night passing POST after woken-up EMPH PAST.AUX and half-asleep PAST.AUX, he ERG his-own hand extend CONJ light extinguish give.PAST.
+# translation = The coffee house owner, who had only just woken up late in the night and was still half-asleep, reached out his hand and turned off the light."
+1	ਕੌਫ਼ੀ	ਕੌਫ਼ੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	Gloss=Coffee|Translit=Coffee
+2	ਹਾਊਸ	ਹਾਊਸ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	Gloss=house|Translit=house
+3	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	2	case	_	Gloss=GEN|Translit=da
+4	ਮਾਲਕ	ਮਾਲਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	dislocated	_	Gloss=owner|Translit=malak
+5	ਜਿਹੜਾ	ਜਿਹੜਾ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	12	nsubj	_	Gloss=who|Translit=jihra
+6	ਕਿ	ਕਿ	SCONJ	_	_	12	mark	_	Gloss=COMP|Translit=ki
+7	ਹਾਲੀ	ਹਾਲੀ	ADV	_	_	12	advmod	_	Gloss=just|Translit=haali
+8	ਰਾਤ	ਰਾਤ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nsubj	_	Gloss=night|Translit=raat
+9	ਬੀਤਣ	ਬੀਤਣਾ	VERB	_	Case=Acc|VerbForm=Inf	12	obl	_	Gloss=passing|Translit=beetan
+10	ਤੋਂ	ਤੋਂ	ADP	_	Case=Abl	9	case	_	Gloss=POST|Translit=ton
+11	ਬਾਅਦ	ਬਾਅਦ	ADV	_	_	12	advmod	_	Gloss=after|Translit=baad
+12	ਉੱਠਿਆ	ਉੱਠਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	27	acl:relcl	_	Gloss=woken-up|Translit=utthia
+13	ਹੀ	ਹੀ	PART	_	_	12	advmod:emph	_	Gloss=EMPH|Translit=hi
+14	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	Gloss=PAST.AUX|Translit=si
+15	ਤੇ	ਤੇ	CCONJ	_	_	18	cc	_	Gloss=and|Translit=te
+16	ਸੁੱਤ	ਸੁੱਤਾ	ADV	_	_	17	advmod	_	Gloss=half-asleep|Translit=sutt
+17	ਉਨੀਂਦਾ	ਉਨੀਂਦਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	18	amod	_	Gloss=PAST.AUX,|Translit=uninda
+18	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	conj	_	Gloss=he|Translit=si,
+19	,	,	PUNCT	_	_	18	punct	_	Gloss=ERG|Translit=us
+20	ਉਸ	ਉਹ	PRON	_	PronType=Dem	27	nsubj	_	Gloss=his-own|Translit=ne
+21	ਨੇ	ਨੇ	ADP	_	_	20	case	_	Gloss=hand|Translit=apna
+22	ਆਪਣਾ	ਆਪਣਾ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	24	nmod:poss	_	Gloss=extend|Translit=hatth
+23	ਹੱਥ	ਹੱਥ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	obj	_	Gloss=CONJ|Translit=vadha
+24	ਵਧਾ	ਵਧਾਉਣਾ	VERB	_	VerbForm=Conv	27	advcl	_	Gloss=light|Translit=ke
+25	ਕੇ	ਕੇ	PART	_	_	24	mark	_	Gloss=extinguish|Translit=batti
+26	ਬੱਤੀ	ਬੱਤੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	obj	_	Gloss=give.PAST|Translit=bujha
+27	ਬੁਝਾ	ਬੁਝਾਉਣਾ	VERB	_	_	0	root	_	Translit=ditti."
+28	ਦਿੱਤੀ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Part	27	compound:svc	_	_
+29	।	।	PUNCT	_	_	27	punct	_	_
+
+# sent_id = 51
+# text = ਮਲ-ਮੁਲ ਕੇ ਨਾਹੁਣ , ਪੌਸ਼ਾਕ ਪਹਿਨਣ ਤੇ ਘਰ ਦੇ ਬੁਨਿਆਦੀ ਕੰਮਕਾਜ ਬਾਰੇ ਜਾਣਨ ਲਈ ਲੋੜੀਂਦਾ ਸਮਾਂ ਬਾਕੀ ਨਹੀਂ ਸੀ ।
+# translit = Mal-mul kē nāhuṇ, pauśāk pahinaṇ tē ghar dē buni'ādī kammakāj bārē jāṇaṇ la'ī lōṛīndā samāṅ bākī nahīṅ sī.
+# gloss = there be.PST NEG enough time left for her INF bathe thoroughly INF dress up INF handle basic household chores
+# translation = there was not enough time left [for her] to learn how to bathe thoroughly, dress up, and handle basic household chores.
+1	ਮਲ-ਮੁਲ	ਮਲ-ਮੁਲ	ADV	_	_	3	advmod	_	Gloss=there|Translit=Mal-mul
+2	ਕੇ	ਕੇ	PART	_	_	1	mark	_	Gloss=be.PST|Translit=kē
+3	ਨਾਹੁਣ	ਨਾਹੁਣਾ	VERB	_	Case=Acc|VerbForm=Inf	16	nmod	_	Gloss=NEG|Translit=nāhuṇ,
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=enough|Translit=pauśāk
+5	ਪੌਸ਼ਾਕ	ਪੌਸ਼ਾਕ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	Gloss=time|Translit=pahinaṇ
+6	ਪਹਿਨਣ	ਪਹਿਨਣਾ	VERB	_	Case=Acc|VerbForm=Inf	3	conj	_	Gloss=left|Translit=tē
+7	ਤੇ	ਅਤੇ	CCONJ	_	_	13	cc	_	Gloss=for|Translit=ghar
+8	ਘਰ	ਘਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	Gloss=her|Translit=dē
+9	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	8	case	_	Gloss=INF|Translit=buni'ādī
+10	ਬੁਨਿਆਦੀ	ਬੁਨਿਆਦੀ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	11	amod	_	Gloss=bathe|Translit=kammakāj
+11	ਕੰਮਕਾਜ	ਕੰਮਕਾਜ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	Gloss=thoroughly|Translit=bārē
+12	ਬਾਰੇ	ਬਾਰੇ	ADP	_	_	11	case	_	Gloss=INF|Translit=jāṇaṇ
+13	ਜਾਣਨ	ਜਾਣਨਾ	VERB	_	Case=Acc|VerbForm=Inf	3	conj	_	Gloss=dress|Translit=la'ī
+14	ਲਈ	ਲਈ	ADP	_	_	13	mark	_	Gloss=up|Translit=lōṛīndā
+15	ਲੋੜੀਂਦਾ	ਲੋੜੀਂਦਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	Gloss=INF|Translit=samāṅ
+16	ਸਮਾਂ	ਸਮਾਂ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	nsubj	_	Gloss=handle|Translit=bākī
+17	ਬਾਕੀ	ਬਾਕੀ	ADJ	_	Degree=Pos	19	amod	_	Gloss=basic|Translit=nahīṅ
+18	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	19	advmod	_	Gloss=household|Translit=sī
+19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=chores
+20	।	।	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 144
+# text = ਵੱਡੇ ਦਿਲ ਖੋਲ੍ਹ ਕੇ ਹੱਸੇ ਤੇ ਅਸੀਂ ਵੀ ਜਿੰਨਾ ਹੋ ਸਕਦਾ ਸੀ ਅਨੰਦ ਲਿਆ ।
+# translit = Vadde dil kholh ke hasse te asi vi jinna ho sakda si anand lia.
+# gloss = big heart open having laugh.PST.3PL and we also as much as possible joy take.PST.1PL.
+# translation = they laughed with open hearts, and we too enjoyed as much as we could.
+1	ਵੱਡੇ	ਵੱਡਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	Gloss=big|Translit=Vadde
+2	ਦਿਲ	ਦਿਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Gloss=heart|Translit=dil
+3	ਖੋਲ੍ਹ	ਖੋਲ੍ਹਣਾ	ADV	_	_	5	advcl	_	Gloss=open|Translit=kholh
+4	ਕੇ	ਕੇ	ADP	_	_	3	case	_	Gloss=having|Translit=ke
+5	ਹੱਸੇ	ਹੱਸਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=laugh.PST.3PL|Translit=hasse
+6	ਤੇ	ਅਤੇ	CCONJ	_	_	13	cc	_	Gloss=and|Translit=te
+7	ਅਸੀਂ	ਅਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=we|Translit=asi
+8	ਵੀ	ਵੀ	PART	_	_	7	discourse	_	Gloss=also|Translit=vi
+9	ਜਿੰਨਾ	ਜਿੰਨਾ	PRON	_	PronType=Rel	10	obj	_	Gloss=as|Translit=jinna
+10	ਹੋ	ਹੋਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	Gloss=much|Translit=ho
+11	ਸਕਦਾ	ਸਕਣਾ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	10	aux	_	Gloss=as|Translit=sakda
+12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	Gloss=possible|Translit=si
+13	ਅਨੰਦ	ਅਨੰਦ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	compound:lvc	_	Gloss=joy|Translit=anand
+14	ਲਿਆ	ਲੈਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	5	conj	_	Gloss=take.PST.1PL|Translit=lia
+15	।	।	PUNCT	_	_	5	punct	_	_
+
