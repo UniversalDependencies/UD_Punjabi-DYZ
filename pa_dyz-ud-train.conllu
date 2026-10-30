@@ -1,4 +1,4 @@
-# sent_id = 46
+# sent_id = pa_dyz-ud-train-1
 # text = ਬਚਪਨ ਦੀਆਂ ਆਦਤਾਂ ਤੇ ਕਾਬੂ ਪਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਰਮੇਦੀਉਸ ਗਭਰੇਟ ਅਵਸਥਾ ਨੂੰ ਪਹੁੰਚ ਗਈ ਸੀ ,
 # translit = Bacapan dī'āṅ ādatāṅ tē kābū pāuṇ tōṅ pahilāṅ hī ramēdī'us gabhrēṭ avasthā nūṅ pahuca ga'ī sī,
 # gloss = even before she childhood GEN habits overcome INF can.PST Remedios already pregnancy GEN state ACC reach PERF.PST
@@ -18,10 +18,10 @@
 13	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	12	case	_	Gloss=GEN|Translit=nūṅ
 14	ਪਹੁੰਚ	ਪਹੁੰਚਣਾ	VERB	_	_	0	root	_	Gloss=state|Translit=pahuca
 15	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	14	compound:svc	_	Gloss=ACC|Translit=ga'ī
-16	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	aux	_	Gloss=reach|Translit=sī,
+16	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	aux	_	Gloss=reach|Translit=,sī
 17	,	,	PUNCT	_	_	14	punct	_	Gloss=PERF.PST
 
-# sent_id = 114
+# sent_id = pa_dyz-ud-train-2
 # text = ਰਿਨ ਟਿਨ ਟਿਨ ਮੇਰੇ ਹਮ- ਜਮਾਤੀਆਂ ਦੇ ਵਿਚਕਾਰ ਇੱਕ ਬੜੀ ਹਿੱਟ ਫਿਲਮ ਸੀ ।
 # translit = Rin Tin Tin mere ham-giamatiian de vici-car ic badi hit film sii.
 # gloss = Rin Tin Tin my classmates GEN among one big hit film COP.PST.3SG.
@@ -41,7 +41,7 @@
 13	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 14	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 10
+# sent_id = pa_dyz-ud-train-3
 # text = ਉਸਦਾ ਨਾਂ ਮੈਲਈਆਦਿ ਸੀ ।
 # translit = usdā nāṅ meleaadē sī
 # gloss = his GEN name Melquíades COP.PST
@@ -52,21 +52,21 @@
 4	ਸੀ	ਸੀ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=Melquíades|Translit=sī
 5	।	।	PUNCT	_	_	4	punct	_	Gloss=COP.PST
 
-# sent_id = 86
+# sent_id = pa_dyz-ud-train-4
 # text = ਸ਼ੁਕਰਵਾਰ 12 ਜੂਨ ਨੂੰ , ਮੈਂ ਛੇ ਵਜੇ ਜਾਗ ਗਈ ਸਾਂ , ਇਹ ਹੈਰਾਨੀ ਦੀ ਗੱਲ ਨਹੀਂ
 # translit = Shukarvar 12 Jun nu, main chhe vaje jaag gai san, ih hairani di gall nahi
 # gloss = on Friday, June 12, I wake PST.1SG at six o’clock; this be.PRES not surprising.
 # translation = on Friday, June 12, I woke up at six o'clock; this is not surprising
 1	ਸ਼ੁਕਰਵਾਰ	ਸ਼ੁਕਰਵਾਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Gloss=on|Translit=Shukarvar
-2	12	12	NUM	_	_	3	nummod	_	Gloss=Friday,|Translit=12
+2	12	12	NUM	_	_	3	nummod	_	Gloss=,Friday|Translit=12
 3	ਜੂਨ	ਜੂਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl:tmod	_	Gloss=June|Translit=Jun
-4	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	3	case	_	Gloss=12,|Translit=nu,
+4	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	3	case	_	Gloss=,12|Translit=,nu
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=I|Translit=main
 6	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=wake|Translit=chhe
 7	ਛੇ	ਛੇ	NUM	_	_	8	nummod	_	Gloss=PST.1SG|Translit=vaje
 8	ਵਜੇ	ਵਜੇ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	obl:tmod	_	Gloss=at|Translit=jaag
 9	ਜਾਗ	ਜਾਗਣਾ	VERB	_	_	0	root	_	Gloss=six|Translit=gai
-10	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	9	compound:svc	_	Gloss=o’clock;|Translit=san,
+10	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	9	compound:svc	_	Gloss=o’clock;|Translit=,san
 11	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	Gloss=this|Translit=ih
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=be.PRES|Translit=hairani
 13	ਇਹ	ਇਹ	DET	_	PronType=Dem	16	nsubj	_	Gloss=not|Translit=di
@@ -75,7 +75,7 @@
 16	ਗੱਲ	ਗੱਲ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	_
 17	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	16	advmod	_	_
 
-# sent_id = 106
+# sent_id = pa_dyz-ud-train-5
 # text = ਜਦੋਂ ਮੈਂ ਯਹੂਦੀ ਲਿਸੇਯੁਮ (ਕਾਨਫਰੰਸ ਹਾਲ) ਜਾਣਾ ਸ਼ੁਰੂ ਕੀਤਾ ਉਸੇ ਸਮੇਂ ਮੇਰੀ ਮੁਲਾਕਾਤ ਜੈਕਲਿਨ ਵੈਨ ਮਰਸੇਨ ਨਾਲ ਹੋਈ ਸੀ ਤੇ ਹੁਣ ਉਹ ਮੇਰੀ ਸਭ ਅੱਛੀ ਦੋਸਤ ਹੈ ।
 # translit = Jadon main Yahudi Lyceum (conference hall) jaana shuru kita use samein meri mulakat Jacqueline van Maarsen naal hoi si te hun oh meri sabh achhi dost hai."
 # gloss = It be.PST only when I start.PST go.INF to Jewish Lyceum (conference hall), at that same time I meet.PST Jacqueline van Maarsen, and now she be.PRS my very best friend.
@@ -91,7 +91,7 @@
 9	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	18	advcl	_	Gloss=Jewish|Translit=kita
 10	ਉਸੇ	ਉਹ	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	11	det	_	Gloss=Lyceum|Translit=use
 11	ਸਮੇਂ	ਸਮਾਂ	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	Gloss=(conference|Translit=samein
-12	ਮੇਰੀ	ਮੈਂ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	Gloss=hall),|Translit=meri
+12	ਮੇਰੀ	ਮੈਂ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	Gloss=,hall)|Translit=meri
 13	ਮੁਲਾਕਾਤ	ਮੁਲਾਕਾਤ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	Gloss=at|Translit=mulakat
 14	ਜੈਕਲਿਨ	ਜੈਕਲਿਨ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	Gloss=that|Translit=Jacqueline
 15	ਵੈਨ	ਵੈਨ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	14	flat	_	Gloss=same|Translit=van
@@ -100,7 +100,7 @@
 18	ਹੋਈ	ਹੋਣਾ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=meet.PST|Translit=hoi
 19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	18	aux	_	Gloss=Jacqueline|Translit=si
 20	ਤੇ	ਅਤੇ	CCONJ	_	_	26	cc	_	Gloss=van|Translit=te
-21	ਹੁਣ	ਹੁਣ	ADV	_	_	26	advmod	_	Gloss=Maarsen,|Translit=hun
+21	ਹੁਣ	ਹੁਣ	ADV	_	_	26	advmod	_	Gloss=,Maarsen|Translit=hun
 22	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	26	nsubj	_	Gloss=and|Translit=oh
 23	ਮੇਰੀ	ਮੈਂ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	Gloss=now|Translit=meri
 24	ਸਭ	ਸਭ	ADV	_	_	25	advmod	_	Gloss=she|Translit=sabh
@@ -109,7 +109,7 @@
 27	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	Gloss=very|Translit=hai."
 28	।	।	PUNCT	_	_	18	punct	_	Gloss=best
 
-# sent_id = 200
+# sent_id = pa_dyz-ud-train-6
 # text = ਇਸ ਤੋਂ ਕਿਤੇ ਚੰਗਾ ਹੈ ਕਿ ਇਨਸਾਨ ਇੱਕ ਪਾਸੇ ਹੋ ਕੇ ਆਪਣੇ ਕੁਦਰਤੀ ਮਾਹੌਲ 'ਚ , ਭਾਵ ਇੱਕਲਵਾਂਝੇ ਹੀ ਰਹੇ ।
 # translit = Is ton kite changa hai ki insaan ikk paase ho ke aapne kudrati maahol 'ch, bhaav ikkalvaanjhe hi rahe
 # gloss = It be.PRES far better for person INF step aside and INF live in 3SG.POSS natural environment — i.e. in solitude.
@@ -128,7 +128,7 @@
 12	ਆਪਣੇ	ਆਪਣਾ	PRON	_	ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	nmod:poss	_	Gloss=live|Translit=aapne
 13	ਕੁਦਰਤੀ	ਕੁਦਰਤ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	14	amod	_	Gloss=in|Translit=kudrati
 14	ਮਾਹੌਲ	ਮਾਹੌਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obl	_	Gloss=3SG.POSS|Translit=maahol
-15	'ਚ	ਵਿੱਚ	ADP	_	_	14	case	_	Gloss=natural|Translit='ch,
+15	'ਚ	ਵਿੱਚ	ADP	_	_	14	case	_	Gloss=natural|Translit=,'ch
 16	,	,	PUNCT	_	_	14	punct	_	Gloss=environment|Translit=bhaav
 17	ਭਾਵ	ਭਾਵ	PART	_	_	18	discourse	_	Gloss=—|Translit=ikkalvaanjhe
 18	ਇੱਕਲਵਾਂਝੇ	ਇੱਕਲਵਾਂਝਾ	ADV	_	_	20	advmod	_	Gloss=i.e.|Translit=hi
@@ -136,20 +136,20 @@
 20	ਰਹੇ	ਰਹਿਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	Gloss=solitude
 21	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 212
+# sent_id = pa_dyz-ud-train-7
 # text = 'ਫ਼ਾਦਰ ਮਾਊਸਟੋਯੋਰਗੀ , ਕਿਸ ਚੀਜ਼ ਬਾਰੇ ਗੱਲ?'
 # translit = Father Moustoyorgi, kis cheez baare gall?
 # gloss = Father   PROPN Maustoyorgi PROPN,     which  thing   about   talk POST
 # translation = ‘Father Moustoyorgi, about what thing?’
 1	'ਫ਼ਾਦਰ	ਫ਼ਾਦਰ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	vocative	_	Gloss=Father|Translit=Father
-2	ਮਾਊਸਟੋਯੋਰਗੀ	ਮਾਊਸਟੋਯੋਰਗੀ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	Gloss=PROPN|Translit=Moustoyorgi,
+2	ਮਾਊਸਟੋਯੋਰਗੀ	ਮਾਊਸਟੋਯੋਰਗੀ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	Gloss=PROPN|Translit=,Moustoyorgi
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=Maustoyorgi|Translit=kis
-4	ਕਿਸ	ਕਿਸ	DET	_	PronType=Int	5	det	_	Gloss=PROPN,|Translit=cheez
+4	ਕਿਸ	ਕਿਸ	DET	_	PronType=Int	5	det	_	Gloss=,PROPN|Translit=cheez
 5	ਚੀਜ਼	ਚੀਜ਼	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obl	_	Gloss=which|Translit=baare
 6	ਬਾਰੇ	ਬਾਰੇ	ADP	_	_	5	case	_	Gloss=thing|Translit=gall?
 7	ਗੱਲ?'	ਗੱਲ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Gloss=about
 
-# sent_id = 133
+# sent_id = pa_dyz-ud-train-8
 # text = ਭਾਵੇਂ ਸਾਡਾ ਉਤਸ਼ਾਹ ਜ਼ਿਆਦਾ ਨਹੀਂ ਸੀ ਪਰ ਫਿਰ ਵੀ ਉਨ੍ਹਾਂ ਨੂੰ ਫੁੱਲ , ਆਮ ਤੋਹਫ਼ੇ ਅਤੇ ਚੰਗੇ ਭੋਜਨ ਆਦਿ ਨਾਲ ਲੱਦ ਦਿੱਤਾ ਸੀ ।
 # translit = Bhavein sada utsah ziada nahi si par phir vi unha nu phull, aam tohfe ate chahnghe bhojan aadi nal ladd ditta si.
 # gloss = although our enthusiasm much not be.PST but still them ACC flowers, ordinary gifts and good food etc. with load.PFV give.PST
@@ -164,8 +164,8 @@
 8	ਫਿਰ	ਫਿਰ	ADV	_	_	21	advmod	_	Gloss=still|Translit=phir
 9	ਵੀ	ਵੀ	PART	_	_	8	advmod:emph	_	Gloss=them|Translit=vi
 10	ਉਨ੍ਹਾਂ	ਉਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Gloss=ACC|Translit=unha
-11	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	10	case	_	Gloss=flowers,|Translit=nu
-12	ਫੁੱਲ	ਫੁੱਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	obl	_	Gloss=ordinary|Translit=phull,
+11	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	10	case	_	Gloss=,flowers|Translit=nu
+12	ਫੁੱਲ	ਫੁੱਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	obl	_	Gloss=ordinary|Translit=,phull
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=gifts|Translit=aam
 14	ਆਮ	ਆਮ	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	15	amod	_	Gloss=and|Translit=tohfe
 15	ਤੋਹਫ਼ੇ	ਤੋਹਫ਼ਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	Gloss=good|Translit=ate
@@ -179,7 +179,7 @@
 23	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	21	aux	_	_
 24	।	।	PUNCT	_	_	21	punct	_	_
 
-# sent_id = 191
+# sent_id = pa_dyz-ud-train-9
 # text = ਮੇਰੇ ਅੰਦਰ ਕਈ ਯਾਦਾਂ ਤਾਜ਼ਾ ਹੋ ਗਈਆਂ ।
 # translit = Mere andar kayi yaadaan taaza ho gaiyaan.
 # gloss = many   memories   be.PFV   refreshed   within-me
@@ -193,7 +193,7 @@
 7	ਗਈਆਂ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	6	compound:svc	_	Translit=gaiyaan
 8	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 45
+# sent_id = pa_dyz-ud-train-10
 # text = ਮੌਸਕੋਤਿ ਪਰਿਵਾਰ ਵਿਚ ਇਹ ਘਟਨਾ ਚਾਰ ਹਫਤਿਆਂ ਦੇ ਸਦਮਿਆਂ ਦਾ ਸਿਖਰ ਸੀ ।
 # translit = Mausakōti parivār vic ih ghaṭnā cār haphati'āṅ dē sadami'āṅ dā sikhar sī.
 # gloss = Moscote family LOC this event four weeks GEN shock GEN culmination be.PST
@@ -212,7 +212,7 @@
 12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	cop	_	Gloss=be.PST|Translit=sī
 13	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 127
+# sent_id = pa_dyz-ud-train-11
 # text = ਮੈਂ ਕੁੱਲ ਮਿਲਾ ਕੇ ਬੱਸ ਇਹੋ ਸੋਚ ਸਕਦੀ ਸੀ ਕਿ ਕੋਈ ਸਾਨੂੰ ਫੜਨ ਆ ਰਿਹਾ ਹੈ , ਤੁਸੀਂ ਸਮਝ ਗਏ ਹੋਵੋਗੇ ਕਿ ਮੇਰਾ ਮਤਲਬ ਕਿਸ ਤੋਂ ਹੈ ।
 # translit = Main kull mila ke bass iho soch sakdi si ki koi sanu fadhan aa riha hai, tusi samajh gaye hovoge ki mera matlab kis ton hai.
 # gloss = all I could think.PST of be.PST that someone come.PROG.PST to arrest.INF us;
@@ -232,7 +232,7 @@
 13	ਫੜਨ	ਫੜਨਾ	VERB	_	Case=Acc|VerbForm=Inf	14	advcl	_	Translit=fadhan
 14	ਆ	ਆਉਣਾ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	Translit=aa
 15	ਰਿਹਾ	ਰਹਿਣਾ	AUX	_	Gender=Masc|Number=Sing|Person=3|VerbForm=Part	14	aux	_	Translit=riha
-16	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=hai,
+16	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=,hai
 17	,	,	PUNCT	_	_	14	punct	_	Translit=tusi
 18	ਤੁਸੀਂ	ਤੁਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	19	nsubj	_	Translit=samajh
 19	ਸਮਝ	ਸਮਝਣਾ	VERB	_	Case=Acc|VerbForm=Inf	7	conj	_	Translit=gaye
@@ -246,7 +246,7 @@
 27	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
 28	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 198
+# sent_id = pa_dyz-ud-train-12
 # text = ਉਸ ਸਮੇਂ ਵੀ ਮੇਰੇ ਮਨ ’ਤੇ ਇੱਕ ਬੋਝ ਸੀ ।
 # translit = Us samay vi mere man ’te ikk bojh si.
 # gloss = at that time also my mind LOC a burden be.PST.
@@ -262,7 +262,7 @@
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=burden|Translit=si
 10	।	।	PUNCT	_	_	9	punct	_	Gloss=be.PST
 
-# sent_id = 30
+# sent_id = pa_dyz-ud-train-13
 # text = ਜੰਗਾਲ ਨਾਲ ਉਸਦੇ ਕੁੱਲ ਟੁਕੜੇ ਪਥਰਾਏ ਪਏ ਸੀ ।
 # translit = Jaṅgāl nāl usdē kull tukṛē pathrā'ē pa'ē sī.
 # gloss = due.to rust all its pieces PERF completely corrode become.PST
@@ -277,7 +277,7 @@
 8	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	aux	_	Gloss=corrode|Translit=sī
 9	।	।	PUNCT	_	_	6	punct	_	Gloss=become.PST
 
-# sent_id = 79
+# sent_id = pa_dyz-ud-train-14
 # text = ਆਪਣਾ ਇਜ਼ਹਾਰ ਬਦਲਣ ਤੋਂ ਬਿਨਾਂ ਇਲਹਾਮ ਦਾ ਦੁਬਾਰਾ ਪ੍ਰਮਾਣ ਦੇਖਣ ਲਈ ਉਹ ਬਿਰਛ ਉਦਾਲੇ ਇਕੱਠੇ ਹੋ ਗਏ ਸਨ ।
 # translit = Āpaṇā izahāra badalaṇ tōṅ bināṅ ilahāma dā dubārā pramāṇa dēkhaṇ la'ī uh biracha udālē ikatṭhē hō ga'ē sana.
 # gloss = own expression change INF without inspiration GEN again proof see INF for they tree shade LOC together become.PFV COP.PST
@@ -302,7 +302,7 @@
 18	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	16	aux	_	Gloss=become.PFV|Translit=sana
 19	।	।	PUNCT	_	_	16	punct	_	Gloss=COP.PST
 
-# sent_id = 116
+# sent_id = pa_dyz-ud-train-15
 # text = ਮੈਂ ਹੋਰ ਬੱਚਿਆਂ ਤੋਂ ਸ਼ੁਰੂ ਕਰਕੇ ਆਪਣੇ ਸਕੂਲ ਅਤੇ ਆਪਣੀ ਕਲਾਸ ਬਾਰੇ ਕੁੱਝ ਗੱਲਾਂ ਕਰਨੀਆਂ ਅਰੰਭ ਕੀਤੀਆਂ ।
 # translit = Main hor bachan ton shuru karke apne school ate apni class bare kujh gallan karnian arambh kitian
 # gloss = Beginning with other children, I begin.PST to start.INF talk.INF about my school and my class
@@ -310,7 +310,7 @@
 1	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=Beginning|Translit=Main
 2	ਹੋਰ	ਹੋਰ	DET	_	PronType=Ind	3	det	_	Gloss=with|Translit=hor
 3	ਬੱਚਿਆਂ	ਬੱਚਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	Gloss=other|Translit=bachan
-4	ਤੋਂ	ਤੋਂ	ADP	_	Case=Abl	3	case	_	Gloss=children,|Translit=ton
+4	ਤੋਂ	ਤੋਂ	ADP	_	Case=Abl	3	case	_	Gloss=,children|Translit=ton
 5	ਸ਼ੁਰੂ	ਸ਼ੁਰੂ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing	17	advcl	_	Gloss=I|Translit=shuru
 6	ਕਰਕੇ	ਕਰਨਾ	VERB	_	VerbForm=Conv	17	advcl	_	Gloss=begin.PST|Translit=karke
 7	ਆਪਣੇ	ਆਪਣਾ	PRON	_	ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	nmod:poss	_	Gloss=to|Translit=apne
@@ -326,7 +326,7 @@
 17	ਕੀਤੀਆਂ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	Translit=kitian
 18	।	।	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 141
+# sent_id = pa_dyz-ud-train-16
 # text = ਉਹਦੀ ਤੇ ਮੇਰੀ ਇੱਕ ਗੱਲ ਮਿਲਦੀ ਹੈ ਕਿ ਸਾਨੂੰ ਅਜਿਹੀਆਂ ਪੋਸ਼ਾਕਾਂ ਪਹਿਨਣੀਆਂ ਪਸੰਦ ਹਨ ਜੋ ਹਰ ਕਿਸੇ ਨੂੰ ਹਸਾਉਂਦੀਆਂ ਹੋਣ ।
 # translit = Uhdi te meri ikk gall mildi hai ki saanu ajihiyan poshaakan pehnaniyan pasand han jo har kise nu hasaundiyan hon
 # gloss = her and my one thing meet.PRS that us such clothes wear.INF like.PRS which everyone DAT laugh.CAUS.PRS be.SUBJ
@@ -353,7 +353,7 @@
 20	ਹੋਣ	ਹੋਣਾ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	Translit=hon
 21	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 22
+# sent_id = pa_dyz-ud-train-17
 # text = ਹੋਸਿ ਆਰਕੇਦੀਓ ਬੂਇੰਦੀਆ ਨੂੰ ਉਸ ਸਮੇਂ ਖਾਨਾਬਦੋਸ਼ਾਂ ਦੀ ਦਿਆਨਤਦਾਰੀ ਤੇ ਯਕੀਨ ਨਹੀਂ ਸੀ ।
 # translit = Hōsi Ārkēdīō Būindīā nūṅ us samēṅ khānābadośāṅ dī diyānatdārī tē yakīn nahīṅ sī.
 # gloss = at that time José Arcadio Buendía DAT nomads GEN honesty on trust NEG PST
@@ -373,7 +373,7 @@
 13	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=NEG|Translit=sī
 14	।	।	PUNCT	_	_	13	punct	_	Gloss=PST
 
-# sent_id = 124
+# sent_id = pa_dyz-ud-train-18
 # text = ਵੀਰਵਾਰ 1 ਅਕਤੂਬਰ 1942
 # translit = Veervar 1 October 1942
 # gloss = Thursday NUM.DAY month October NUM.YEAR
@@ -383,7 +383,7 @@
 3	ਅਕਤੂਬਰ	ਅਕਤੂਬਰ	PROPN	_	Number=Sing	0	root	_	Gloss=month|Translit=October
 4	1942	1942	NUM	_	NumType=Card	3	nummod	_	Gloss=October|Translit=1942
 
-# sent_id = 193
+# sent_id = pa_dyz-ud-train-19
 # text = ਕੀ ਇਹ ਗੱਲ ਪਿਛਲੇ ਸਾਲ ਦੀ ਸੀ ?
 # translit = Kee eh gall pichle saal dee si?
 # gloss = this matter last    year GEN be.PST
@@ -397,7 +397,7 @@
 7	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Translit=si?
 8	?	?	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 209
+# sent_id = pa_dyz-ud-train-20
 # text = ਅਚਾਨਕ ਹੀ ਕੋਈ ਅਜਨਬੀ ਪਿੰਡ 'ਚ ਪਹੁੰਚਿਆ ਹੋਵੇ ।
 # translit = Achanak hi koi ajanbi pind 'ch pahunchya hove.
 # gloss = suddenly just some stranger village in arrive.PFVbe.SUBJ.
@@ -412,7 +412,7 @@
 8	ਹੋਵੇ	ਹੋਣਾ	AUX	_	Mood=Ind|VerbForm=Fin	7	aux	_	Translit=hove
 9	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 156
+# sent_id = pa_dyz-ud-train-21
 # text = ਮੇਰਾ ਬਦਲਾਅ ਪਸੰਦ ਕਰਨ ਦਾ ਦੂਜਾ ਕਾਰਨ ਇਹ ਹੈ ਕਿ ਮਾਂ ਹਮੇਸ਼ਾ ਮੇਰੇ ਵਿੱਚ ਛੋਟੇ ਛੋਟੇ ਨੁਕਸ ਕੱਢਦੀ ਰਹਿੰਦੀ ਹੈ , ਖ਼ਾਸ ਕਰਕੇ ਮੇਜ਼ ਉੱਤੇ ।
 # translit = Mera badlaav pasand karan da dooja kaaran ih hai ke maan hamesha mere vich chhote chhote nuks kaddhdi rehndee hai, khaas karke mez utte.
 # gloss = my change like do.GER second reason this be.PRS that mother always my in small small faults extract.PROG.F stay.PRS.F, especially table on.
@@ -434,9 +434,9 @@
 15	ਛੋਟੇ	ਛੋਟਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	17	amod	_	Gloss=small|Translit=chhote
 16	ਛੋਟੇ	ਛੋਟਾ	ADP	_	Case=Acc|Gender=Masc|Number=Sing	17	amod	_	Gloss=faults|Translit=chhote
 17	ਨੁਕਸ	ਨੁਕਸ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	18	obj	_	Gloss=extract.PROG.F|Translit=nuks
-18	ਕੱਢਦੀ	ਕੱਢਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	7	ccomp	_	Gloss=stay.PRS.F,|Translit=kaddhdi
+18	ਕੱਢਦੀ	ਕੱਢਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	7	ccomp	_	Gloss=,stay.PRS.F|Translit=kaddhdi
 19	ਰਹਿੰਦੀ	ਰਹਿਣਾ	AUX	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	18	aux	_	Gloss=especially|Translit=rehndee
-20	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	Gloss=table|Translit=hai,
+20	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	Gloss=table|Translit=,hai
 21	,	,	PUNCT	_	_	18	punct	_	Gloss=on|Translit=khaas
 22	ਖ਼ਾਸ	ਖ਼ਾਸ	ADV	_	_	23	advmod	_	Translit=karke
 23	ਕਰਕੇ	ਕਰਕੇ	ADV	_	_	24	advmod	_	Translit=mez
@@ -444,7 +444,7 @@
 25	ਉੱਤੇ	ਉੱਤੇ	ADP	_	_	24	case	_	_
 26	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 178
+# sent_id = pa_dyz-ud-train-22
 # text = ਪੁਰਾਣੇ ਵਿਚਾਰਾਂ ਦੇ ਮੁਸਲਮਾਨ ਸਿਰਫ਼ ਅਜਿਹੇ ਡਰਾਮੇ ਹੀ ਦੇਖਦੇ ਸਨ ।
 # translit = Purane vicharan de musalman sirf ajihe drame hi dekhde san."
 # gloss = Old thoughts GEN.PL Muslims only such dramas EMPH watch.IMPF.PL PAST.AUX.PL.
@@ -461,7 +461,7 @@
 10	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	9	aux	_	Gloss=PAST.AUX.PL|Translit=san."
 11	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 67
+# sent_id = pa_dyz-ud-train-23
 # text = ਉਸ ਦਿਨ ਤੋਂ ਜ਼ਿੰਮੇਵਾਰੀ ਦਾ ਅਹਿਸਾਸ , ਸਹਿਜਭਾਵ ਸੁੰਦਰਤਾ ਤੇ ਸ਼ਾਂਤ ਚਿਤ ਜਾਬਤਾ ਜੋ ਪ੍ਰਤੀਕੂਲ ਹਾਲਾਤ ਵਿਚ ਵੀ ਰਮੇਦੀਉਸ ਨੇ ਕਾਇਮ ਰੱਖਣਾ ਸੀ , ਪੂਰੀ ਤਰ੍ਹਾਂ ਪ੍ਰਗਟ ਹੋ ਗਿਆ ।
 # translit = Usa dina tōṅ zimmēvārī dā ahisāsa, sahajabhāva sundaratā tē śāṅta cita jābatā jō pratīkūla hālāta vica vī ramēdī'us nē kā'ima rakkhaṇā sī, pūrī tarhāṅ pragaṭa hō gi'ā.
 # gloss = that day from responsibility GEN feeling, natural grace and calm mind discipline REL adverse circumstances LOC even Remedios ERG maintain INF COP.PST, completely manifest become.PFV
@@ -471,7 +471,7 @@
 3	ਤੋਂ	ਤੋਂ	ADP	_	Case=Abl	2	case	_	Gloss=from|Translit=tōṅ
 4	ਜ਼ਿੰਮੇਵਾਰੀ	ਜ਼ਿੰਮੇਵਾਰੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Gloss=responsibility|Translit=zimmēvārī
 5	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	4	case	_	Gloss=GEN|Translit=dā
-6	ਅਹਿਸਾਸ	ਅਹਿਸਾਸ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	Gloss=feeling,|Translit=ahisāsa,
+6	ਅਹਿਸਾਸ	ਅਹਿਸਾਸ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	Gloss=,feeling|Translit=,ahisāsa
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=natural|Translit=sahajabhāva
 8	ਸਹਿਜਭਾਵ	ਸਹਿਜਭਾਵ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	Gloss=grace|Translit=sundaratā
 9	ਸੁੰਦਰਤਾ	ਸੁੰਦਰਤਾ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	Gloss=and|Translit=tē
@@ -487,7 +487,7 @@
 19	ਰਮੇਦੀਉਸ	ਰਮੇਦੀਉਸ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	22	nsubj	_	Gloss=ERG|Translit=nē
 20	ਨੇ	ਨੇ	ADP	_	_	19	case	_	Gloss=maintain|Translit=kā'ima
 21	ਕਾਇਮ	ਕਾਇਮ	ADJ	_	Degree=Pos	22	compound:lvc	_	Gloss=INF|Translit=rakkhaṇā
-22	ਰੱਖਣਾ	ਰੱਖਣਾ	VERB	_	VerbForm=Inf	13	acl:relcl	_	Gloss=COP.PST,|Translit=sī,
+22	ਰੱਖਣਾ	ਰੱਖਣਾ	VERB	_	VerbForm=Inf	13	acl:relcl	_	Gloss=,COP.PST|Translit=,sī
 23	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	22	aux	_	Gloss=completely|Translit=pūrī
 24	,	,	PUNCT	_	_	23	punct	_	Gloss=manifest|Translit=tarhāṅ
 25	ਪੂਰੀ	ਪੂਰਾ	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	26	amod	_	Gloss=become.PFV|Translit=pragaṭa
@@ -497,7 +497,7 @@
 29	ਗਿਆ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	28	compound:svc	_	_
 30	।	।	PUNCT	_	_	28	punct	_	_
 
-# sent_id = 123
+# sent_id = pa_dyz-ud-train-24
 # text = ਪਹਿਲਾਂ ਮੈਂ ਸੋਚਦੀ ਸੀ ਕਿ ਜੈਕਸ ਹੋਵੇਗਾ ਪਰ ਮੈਂ ਬਿਲਕੁਲ ਗ਼ਲਤ ਸੀ ।
 # translit = Pehlan main sochdi si ki Jauques hovega par main bilkul galt si
 # gloss = earlier I think HAB.FEM.1SG COP.PST that Jacques be.FUT.3SG but I completely wrong COP.PST.1SG.
@@ -516,14 +516,14 @@
 12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	cop	_	Gloss=wrong|Translit=si
 13	।	।	PUNCT	_	_	3	punct	_	Gloss=COP.PST.1SG
 
-# sent_id = 150
+# sent_id = pa_dyz-ud-train-25
 # text = ਤੁਸੀਂ ਬਸ ਇੰਤਜ਼ਾਰ ਕਰੋ ਅਗਲੇ ਸਾਲ ਇਸ ਸਮੇਂ ਤੱਕ ਅਸੀਂ ਸ਼ਾਰਟਹੈਂਡ ਵਿੱਚ ਸਟੀਕ ਸਥਾਨ ਲੈਣ ਵਿੱਚ ਸਮਰੱਥ ਹੋ ਜਾਵਾਂਗੇ ।
 # translit = Tusi bas intzaar karo agle saal is samein takk asi shorthand vich sateek sthaan lain vich samrath ho javange.
 # gloss = you just wait.IMP, by this time next year we shorthand write.INF perfectly
 # translation = you just wait, by this time next year, we will be able to write shorthand perfectly.
 1	ਤੁਸੀਂ	ਤੁਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Translit=Tusi
 2	ਬਸ	ਬਸ	ADV	_	_	4	advmod	_	Gloss=just|Translit=bas
-3	ਇੰਤਜ਼ਾਰ	ਇੰਤਜ਼ਾਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	Gloss=wait.IMP,|Translit=intzaar
+3	ਇੰਤਜ਼ਾਰ	ਇੰਤਜ਼ਾਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	Gloss=,wait.IMP|Translit=intzaar
 4	ਕਰੋ	ਕਰਨਾ	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=by|Translit=karo
 5	ਅਗਲੇ	ਅਗਲਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	Gloss=this|Translit=agle
 6	ਸਾਲ	ਸਾਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	Gloss=time|Translit=saal
@@ -542,7 +542,7 @@
 19	ਜਾਵਾਂਗੇ	ਜਾਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	18	compound:svc	_	Translit=javange
 20	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 225
+# sent_id = pa_dyz-ud-train-26
 # text = ਉਸ ਨੇ ਸਾਰੇ ਬਰਬਾਦ ਹੋਏ ਤੇ ਘੜਮੱਸ ਭਰੇ ਬਾਲਕਨ ਵਾਸੀਆਂ ਦੇ ਇਲਾਕੇ ਗਾਹੇ ਹੋਏ ਹਨ ਤੇ ਆਪਣੀਆਂ ਛੋਟੀਆਂ-ਛੋਟੀਆਂ ਬਾਜ਼ ਵਰਗੀਆਂ ਅੱਖਾਂ ਨਾਲ , ਜੋ ਕਿ ਲਗਾਤਾਰ ਹੈਰਾਨੀ 'ਚ ਖੁੱਲ੍ਹੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ , ਹਰ ਇਕ ਚੀਜ਼ ਨੂੰ ਧਿਆਨ ਨਾਲ ਦੇਖਿਆ ਹੈ ।
 # translit = Usne saare barbaad hoye te ghadmass bhare Balkan vaasian de ilaake gaahe hoye han te aapnian chotian-chotian baaz vargian akkhan naal, jo ki lagataar hairani 'ch khullian rahindian han, har ik cheez nu dhiaan naal dekhia hai.
 # gloss = HeERG all ruined been and chaos filled Balkan inhabitants GEN.PL territories traveled been PRES.AUX.PL and his-ownGEN.PL small-small hawk like eyes with, which COMP constantly wonder-LOC open remain-PRES PRES.AUX.PL, every one thing OBJ attention with seen PRES.AUX.
@@ -567,15 +567,15 @@
 18	ਛੋਟੀਆਂ-ਛੋਟੀਆਂ	ਛੋਟਾ	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	21	amod	_	Gloss=hawk|Translit=baaz
 19	ਬਾਜ਼	ਬਾਜ਼	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	Gloss=like|Translit=vargian
 20	ਵਰਗੀਆਂ	ਵਰਗਾ	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	21	amod	_	Gloss=eyes|Translit=akkhan
-21	ਅੱਖਾਂ	ਅੱਖ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	39	obl	_	Gloss=with,|Translit=naal,
+21	ਅੱਖਾਂ	ਅੱਖ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	39	obl	_	Gloss=,with|Translit=,naal
 22	ਨਾਲ	ਨਾਲ	ADP	_	_	21	case	_	Gloss=which|Translit=jo
 23	,	,	PUNCT	_	_	22	punct	_	Gloss=COMP|Translit=ki
 24	ਜੋ	ਜੋ	PRON	_	PronType=Dem	30	nsubj	_	Gloss=constantly|Translit=lagataar
 25	ਕਿ	ਕਿ	SCONJ	_	_	30	mark	_	Gloss=wonder-LOC|Translit=hairani
 26	ਲਗਾਤਾਰ	ਲਗਾਤਾਰ	ADV	_	_	30	advmod	_	Gloss=open|Translit='ch
 27	ਹੈਰਾਨੀ	ਹੈਰਾਨੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obl	_	Gloss=remain-PRES|Translit=khullian
-28	'ਚ	ਵਿੱਚ	ADP	_	_	27	case	_	Gloss=PRES.AUX.PL,|Translit=rahindian
-29	ਖੁੱਲ੍ਹੀਆਂ	ਖੁੱਲ੍ਹਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	30	compound	_	Gloss=every|Translit=han,
+28	'ਚ	ਵਿੱਚ	ADP	_	_	27	case	_	Gloss=,PRES.AUX.PL|Translit=rahindian
+29	ਖੁੱਲ੍ਹੀਆਂ	ਖੁੱਲ੍ਹਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	30	compound	_	Gloss=every|Translit=,han
 30	ਰਹਿੰਦੀਆਂ	ਰਹਿਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	21	acl:relcl	_	Gloss=one|Translit=har
 31	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	Gloss=thing|Translit=ik
 32	,	,	PUNCT	_	_	30	punct	_	Gloss=OBJ|Translit=cheez
@@ -589,7 +589,7 @@
 40	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	aux	_	_
 41	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 85
+# sent_id = pa_dyz-ud-train-27
 # text = ਮੈਂ ਤੈਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਪਲ ਤੋਂ ਸ਼ੁਰੂ ਕਰਾਂਗੀ , ਜਿਸ ਪਲ ਮੈਂ ਤੈਨੂੰ ਆਪਣੇ ਜਨਮ ਦਿਨ ਦੀਆਂ ਹੋਰ ਸੌਗਾਤਾਂ ਦੇ ਵਿਚਕਾਰ ਮੇਜ਼ ਉੱਤੇ ਪਈ ਦੇਖਿਆ (ਮੈਂ ਉਸ ਜਗ੍ਹਾ ਪਹੁੰਚ ਗਈ ਜਦੋਂ ਤੈਨੂੰ ਖਰੀਦਿਆ ਗਿਆ ਸੀ , ਪਰ ਉਸਦੀ ਗਿਣਤੀ ਨਹੀਂ ਹੈ )
 # translit = Main tainu prapat karan de pal ton shuru karangi, jis pal main tainu apne janam din dian hor saugatan de vichkar mez utte pai dekhia (main us jagah pahunch gai jadon tainu kharia gia si, par usdi ginti nahi hai)
 # gloss = i you obtain do of moment from begin FUT.1SG.FEM, which moment I you my birthday of other gifts among table upon lying saw (I that place reached when you bought PASS.PST, but its count not is)
@@ -602,7 +602,7 @@
 6	ਪਲ	ਪਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl:tmod	_	Gloss=moment|Translit=pal
 7	ਤੋਂ	ਤੋਂ	ADP	_	Case=Abl	6	case	_	Gloss=from|Translit=ton
 8	ਸ਼ੁਰੂ	ਸ਼ੁਰੂ	NOUN	_	Number=Sing	9	compound:lvc	_	Gloss=begin|Translit=shuru
-9	ਕਰਾਂਗੀ	ਕਰਨਾ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=FUT.1SG.FEM,|Translit=karangi,
+9	ਕਰਾਂਗੀ	ਕਰਨਾ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=,FUT.1SG.FEM|Translit=,karangi
 10	,	,	PUNCT	_	_	9	punct	_	Gloss=which|Translit=jis
 11	ਜਿਸ	ਜੋ	PRON	_	Number=Sing|PronType=Rel	12	det	_	Gloss=moment|Translit=pal
 12	ਪਲ	ਪਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obl:tmod	_	Gloss=I|Translit=main
@@ -624,11 +624,11 @@
 28	ਉਸ	ਉਹ	PRON	_	PronType=Dem	29	det	_	Gloss=when|Translit=jagah
 29	ਜਗ੍ਹਾ	ਜਗ੍ਹਾ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obl	_	Gloss=you|Translit=pahunch
 30	ਪਹੁੰਚ	ਪਹੁੰਚਣਾ	VERB	_	_	9	parataxis	_	Gloss=bought|Translit=gai
-31	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	30	compound:svc	_	Gloss=PASS.PST,|Translit=jadon
+31	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	30	compound:svc	_	Gloss=,PASS.PST|Translit=jadon
 32	ਜਦੋਂ	ਜਦੋਂ	ADV	_	ExtPos=ADV	34	advmod	_	Gloss=but|Translit=tainu
 33	ਤੈਨੂੰ	ਤੂੰ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	34	obj	_	Gloss=its|Translit=kharia
 34	ਖਰੀਦਿਆ	ਖਰੀਦਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	30	advcl	_	Gloss=count|Translit=gia
-35	ਗਿਆ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	34	aux:pass	_	Gloss=not|Translit=si,
+35	ਗਿਆ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	34	aux:pass	_	Gloss=not|Translit=,si
 36	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	34	aux	_	Gloss=is)|Translit=par
 37	,	,	PUNCT	_	_	34	punct	_	Translit=usdi
 38	ਪਰ	ਪਰ	CCONJ	_	_	42	cc	_	Translit=ginti
@@ -638,7 +638,7 @@
 42	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	conj	_	_
 43	)	)	PUNCT	_	_	42	punct	_	_
 
-# sent_id = 192
+# sent_id = pa_dyz-ud-train-28
 # text = ਇਸ ਸਲ੍ਹਾਬੇ ਜਿਹੇ ਵਾਤਾਵਰਣ ਵਿਚ ਬਾਰਸ਼ ਅਤੇ ਢਹਿੰਦੀ ਕਲਾ ਮੇਰੇ 'ਤੇ ਭਾਰੂ ਹੋਣ ਲੱਗੀ ਤੇ ਇਸ ਦੇ ਨਾਲ ਹੀ ਮੇਰੇ ਇੱਕ ਵਧੀਆ ਦੋਸਤ ਦੇ ਨੈਣ ਨਕਸ਼ ਮੇਰੇ ਸਾਹਮਣੇ ਉਘੜਨ ਲੱਗੇ ।
 # translit = Is salhaabe jihe vaataavaran vich baarish ate dhahindi kala mere 'te bhaaroo hon laggi te is de naal hi mere ikk vadhiya dost de nain nakash mere saahmne ughadhan lagge.
 # gloss = This damp environment LOC rain and depressing mood 1SG.OBJ overpower began, and simultaneously, very dear friend GEN.POSS features 1SG.POSS eyes before vividly emerge began.PST
@@ -653,9 +653,9 @@
 8	ਢਹਿੰਦੀ	ਢਹਿੰਦੀ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	amod	_	Gloss=mood|Translit=dhahindi
 9	ਕਲਾ	ਕਲਾ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	Gloss=1SG.OBJ|Translit=kala
 10	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	13	obl	_	Gloss=overpower|Translit=mere
-11	'ਤੇ	ਉੱਤੇ	ADP	_	_	10	case	_	Gloss=began,|Translit='te
+11	'ਤੇ	ਉੱਤੇ	ADP	_	_	10	case	_	Gloss=,began|Translit='te
 12	ਭਾਰੂ	ਭਾਰੂ	ADJ	_	Degree=Pos	13	xcomp	_	Gloss=and|Translit=bhaaroo
-13	ਹੋਣ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=simultaneously,|Translit=hon
+13	ਹੋਣ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=,simultaneously|Translit=hon
 14	ਲੱਗੀ	ਲੱਗਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	13	compound:svc	_	Gloss=very|Translit=laggi
 15	ਤੇ	ਅਤੇ	CCONJ	_	_	29	cc	_	Gloss=dear|Translit=te
 16	ਇਸ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	29	obl	_	Gloss=friend|Translit=is
@@ -675,7 +675,7 @@
 30	ਲੱਗੇ	ਲੱਗਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	29	compound:svc	_	Translit=lagge
 31	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 205
+# sent_id = pa_dyz-ud-train-29
 # text = ਉਸ ਨੇ ਮੇਰੇ ਵੱਲ ਦੇਖ ਕੇ ਜੋ ਮਹਿਸੂਸ ਕੀਤਾ , ਉਹ ਉਸ ਦੀ ਖਿੱਲੀ ਉਡਾਉਂਦਿਆਂ ਹੋਇਆ ਮੁੜਿਆ , ਕਿਉਂਕਿ ਉਹ ਆਪਣੀਆਂ ਭਾਵਨਾਵਾਂ ਨੂੰ ਲੁਕਾਉਣਾ ਚਾਹੁੰਦਾ ਸੀ ।
 # translit = Us ne mere vall dekh ke jo mahsoos kita, oh us di khilli udaundiyaan hoiya murhya, kiyunki oh aapniyaan bhaavnaavaan nu lukauna chaunda si
 # gloss = he ERG toward me having.looked what feel.PFV, that his mocking while being turn.PFV, because he his own feelings ACC hide.INF want.IMPF be.PST.
@@ -686,16 +686,16 @@
 4	ਵੱਲ	ਵੱਲ	ADP	_	_	5	obl	_	Gloss=me|Translit=vall
 5	ਦੇਖ	ਦੇਖਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	Gloss=having.looked|Translit=dekh
 6	ਕੇ	ਕੇ	ADP	_	_	5	mark	_	Gloss=what|Translit=ke
-7	ਜੋ	ਜੋ	PRON	_	PronType=Dem	8	nmod	_	Gloss=feel.PFV,|Translit=jo
+7	ਜੋ	ਜੋ	PRON	_	PronType=Dem	8	nmod	_	Gloss=,feel.PFV|Translit=jo
 8	ਮਹਿਸੂਸ	ਮਹਿਸੂਸ	NOUN	_	_	9	compound	_	Gloss=that|Translit=mahsoos
-9	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=his|Translit=kita,
+9	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=his|Translit=,kita
 10	,	,	PUNCT	_	_	17	punct	_	Gloss=mocking|Translit=oh
 11	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	17	nsubj	_	Gloss=while|Translit=us
 12	ਉਸ	ਉਹ	PRON	_	PronType=Dem	14	nmod:poss	_	Gloss=being|Translit=di
-13	ਦੀ	ਦਾ	ADP	_	Gender=Fem	12	case	_	Gloss=turn.PFV,|Translit=khilli
+13	ਦੀ	ਦਾ	ADP	_	Gender=Fem	12	case	_	Gloss=,turn.PFV|Translit=khilli
 14	ਖਿੱਲੀ	ਖਿੱਲੀ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	Gloss=because|Translit=udaundiyaan
 15	ਉਡਾਉਂਦਿਆਂ	ਉਡਾਉਣਾ	VERB	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part	17	advcl	_	Gloss=he|Translit=hoiya
-16	ਹੋਇਆ	ਹੋਣਾ	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	15	aux	_	Gloss=his|Translit=murhya,
+16	ਹੋਇਆ	ਹੋਣਾ	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	15	aux	_	Gloss=his|Translit=,murhya
 17	ਮੁੜਿਆ	ਮੁੜਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	Gloss=own|Translit=kiyunki
 18	,	,	PUNCT	_	_	17	punct	_	Gloss=feelings|Translit=oh
 19	ਕਿਉਂਕਿ	ਕਿਉਂਕਿ	SCONJ	_	_	25	mark	_	Gloss=ACC|Translit=aapniyaan
@@ -708,7 +708,7 @@
 26	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	25	aux	_	_
 27	।	।	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 120
+# sent_id = pa_dyz-ud-train-30
 # text = ਇਸ ਲਈ ਨਹੀਂ ਕਿ ਉਹ ਬਹੁਤ ਚਲਾਕ ਚੁਸਤ ਹੈ ।
 # translit = Is lai nahi ki oh bahut chalak chust hai
 # gloss = not because he very clever quick be.PRES.3SG
@@ -724,7 +724,7 @@
 9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=hai
 10	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 243
+# sent_id = pa_dyz-ud-train-31
 # text = ਜਦੋਂ ਮੈਂ ਜ਼ੋਰਬਾ ਦੀ ਗੱਲ ਸੁਣ ਰਿਹਾ ਸੀ , ਮੈਨੂੰ ਜਾਪ ਰਿਹਾ ਸੀ ਕਿ ਸੰਸਾਰ ਆਪਣੀ ਪੁਰਾਤਨ ਤਾਜ਼ਗੀ ਮੁੜ ਹਾਸਲ ਕਰ ਰਿਹਾ ਹੋਵੇ ।
 # translit = Jadon main Zorba di gall sun riha si, mainu jaap riha si ki sansaar aapni puraatan taazgi mudh haasal kar riha hove.
 # gloss = when I  Zorba  GEN  talk   hear  PROG   AUX.PST to.me   seem  PROG   AUX.PST that world   own    ancient  freshness again obtain do   PROG   AUX.SUBJ
@@ -736,7 +736,7 @@
 5	ਗੱਲ	ਗੱਲ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	Gloss=talk|Translit=gall
 6	ਸੁਣ	ਸੁਣਣਾ	VERB	_	VerbForm=Inf	11	advcl	_	Gloss=hear|Translit=sun
 7	ਰਿਹਾ	ਰਹਿਣਾ	AUX	_	Gender=Masc|Number=Sing|Person=3|VerbForm=Part	6	aux	_	Gloss=PROG|Translit=riha
-8	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	aux	_	Gloss=AUX.PST|Translit=si,
+8	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	aux	_	Gloss=AUX.PST|Translit=,si
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=to.me|Translit=mainu
 10	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=seem|Translit=jaap
 11	ਜਾਪ	ਜਾਪਣਾ	VERB	_	_	0	root	_	Gloss=PROG|Translit=riha
@@ -754,7 +754,7 @@
 23	ਹੋਵੇ	ਹੋਣਾ	AUX	_	Mood=Ind|VerbForm=Fin	21	aux	_	_
 24	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 62
+# sent_id = pa_dyz-ud-train-32
 # text = ਉਸ ਵਕਤ ਵੀ ਨਹੀਂ ਜਦੋਂ ਉਂਗਲ ਤੇ ਅੰਗੂਠੀ ਪਾਉਣ ਸਮੇਂ ਔਰਲਿਆਨੋ ਤੋਂ ਇਹ ਹੇਠਾਂ ਡਿੱਗ ਪਈ ।
 # translit = Us vakata vī nahīṅ jadōṅ uṅgala tē aṅgūṭhī pāuṇa samēṅ aurali'ānō tōṅ ih hēṭhāṅ ḍigg pa'ī.
 # gloss = not even that moment when ring put INF her finger LOC Aureliano from it down drop.PFV
@@ -777,7 +777,7 @@
 16	ਪਈ	ਪੈਣਾ	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	15	aux	_	Gloss=drop.PFV|Translit=pa'ī
 17	।	।	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 74
+# sent_id = pa_dyz-ud-train-33
 # text = ਚਿੱਠੀ ਮਿਲਣ ਤੋਂ ਇਕ ਘੰਟਾ ਮਗਰੋਂ ਉਹ ਪ੍ਰਾਂਤ ਦੀ ਰਾਜਧਾਨੀ ਨੂੰ ਚੱਲ ਪਿਆ ।
 # translit = Ciṭṭhī milaṇ tōṅ ik ghaṇṭā magarōṅ uh prāṅt dī rājadhānī nūṅ call pi'ā.
 # gloss = letter receive INF from one hour after he province GEN capital ACC go start.PFV
@@ -797,7 +797,7 @@
 13	ਪਿਆ	ਪੈਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	12	aux	_	Gloss=go|Translit=pi'ā
 14	।	।	PUNCT	_	_	12	punct	_	Gloss=start.PFV
 
-# sent_id = 237
+# sent_id = pa_dyz-ud-train-34
 # text = ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਮਸਲਦੇ ਹਾਂ; ਤੇ ਉਹਨਾਂ ਦਾ ਰਸ ਕੱਢ ਕੇ ਪੀਪਿਆਂ 'ਚ ਪਾ ਲੈਂਦੇ ਹਾਂ ।
 # translit = Asi ohnaan nu masalde haan; te ohnaan da ras kadd ke peepeyaan 'ch pa lainde haan.
 # gloss = 1PL 3PL.ACC crush.PRES and 3PL.GEN juice extract CP barrels LOC pour take.PRES
@@ -820,7 +820,7 @@
 16	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=haan
 17	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 13
+# sent_id = pa_dyz-ud-train-35
 # text = ਹਰ ਕੋਈ ਇਹ ਦੇਖਕੇ ਡੌਰ ਭੌਰ ਹੋ ਜਾਂਦਾ ਸੀ ਕਿ ਭਾਂਡੇ , ਪਤੀਲੇ , ਚਿਮਟੇ ਤੇ ਚੁੱਲ੍ਹੇ ਆਪਣੀਆਂ ਥਾਂਵਾਂ ਤੋਂ ਖਿੱਚੇ ਚੱਲੇ ਆ ਰਹੇ ਸਨ ।
 # translit = har koī ih dēkhkē ḍaur bhaur hō jāndā sī ki bhāṇḍē, patīlē, cimaṭē tē cullhē āpṇīāṅ thāṅvāṅ tōṅ khiccē callē ā rahē san
 # gloss = everyone this seeing GER astonished become IPFV COP.PST that pots pans tongs and stoves their places ABL pulled moving come PROG COP.PST
@@ -835,8 +835,8 @@
 8	ਜਾਂਦਾ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Part	7	compound:svc	_	Gloss=COP.PST|Translit=jāndā
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	aux	_	Gloss=that|Translit=sī
 10	ਕਿ	ਕਿ	SCONJ	_	_	7	mark	_	Gloss=pots|Translit=ki
-11	ਭਾਂਡੇ	ਭਾਂਡਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj:pass	_	Gloss=pans|Translit=bhāṇḍē,
-12	,	,	PUNCT	_	_	11	punct	_	Gloss=tongs|Translit=patīlē,
+11	ਭਾਂਡੇ	ਭਾਂਡਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj:pass	_	Gloss=pans|Translit=,bhāṇḍē
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=tongs|Translit=,patīlē
 13	ਪਤੀਲੇ	ਪਤੀਲਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	Gloss=and|Translit=cimaṭē
 14	,	,	PUNCT	_	_	13	punct	_	Gloss=stoves|Translit=tē
 15	ਚਿਮਟੇ	ਚਿਮਟਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	conj	_	Gloss=their|Translit=cullhē
@@ -852,23 +852,23 @@
 25	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	23	aux	_	_
 26	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 165
+# sent_id = pa_dyz-ud-train-36
 # text = ਕੌਫ਼ੀ ਹਾਊਸ ’ਚ ਸੇਜ (ਇੱਕ ਪੌਦਾ , ਜਿਸ ਦੇ ਪੱਤੇ ਮਸਾਲੇ ਵਜੋਂ ਵਰਤੇ ਜਾਂਦੇ ਹਨ) ਦੇ ਕਾਹੜੇ ਦੇ ਉੱਬਲਣ ਦੀ ਭਾਫ਼ ਅਤੇ ਬਾਹਰ ਠੰਢ ਹੋਣ ਕਾਰਨ , ਅੰਦਰ ਬੈਠੇ ਲੋਕਾਂ ਦੇ ਸਾਹ ਲੈਣ ਦੀ ਪ੍ਰਕਿਰਿਆ ਦੌਰਾਨ ਮੂੰਹੋਂ ਨਿਕਲਦੀ ਹਵਾੜ ਨਾਲ ਬਾਰੀਆਂ ਭਾਫ਼ ਨਾਲ ਭਰ ਗਈਆਂ ਸਨ ।
 # translit = Coffee house ’ch sage (ikk pauda, jis de patte masaale vajon varte jaande han) de kaahrhe de ubbalan di bhaaf ate baahar thand hon kaaran, andar baithe lokaan de saah lain di prakriya dauraan moonhon nikaldi havaarh naal baariyaan bhaaf naal bhar gaiyaan san.
 # gloss = coffee house in, sage GEN decoction GEN boiling   GEN steam (one plant,  whose   leaves spice as used   AUX.PRS) and  outside cold   be.INF reason inside seated people by breath take  during mouth  exit air.EXH with, windows fully manner fog with covered AUX.PST.PL
 # translation = Inside the coffee house, due to the steam from the boiling sage decoction (a plant whose leaves are used as a spice), and the breath exhaled by the people sitting inside because of the cold outside, the windows had become completely covered in fog.
 1	ਕੌਫ਼ੀ	ਕੌਫ਼ੀ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	44	obl	_	Gloss=coffee|Translit=Coffee
 2	ਹਾਊਸ	ਹਾਊਸ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	flat	_	Gloss=house|Translit=house
-3	’ਚ	ਵਿੱਚ	ADP	_	_	1	case	_	Gloss=in,|Translit=’ch
+3	’ਚ	ਵਿੱਚ	ADP	_	_	1	case	_	Gloss=,in|Translit=’ch
 4	ਸੇਜ	ਸੇਜ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	17	nmod	_	Gloss=sage|Translit=sage
 5	(ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	6	det	_	Gloss=GEN|Translit=(ikk
-6	ਪੌਦਾ	ਪੌਦਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	Gloss=decoction|Translit=pauda,
+6	ਪੌਦਾ	ਪੌਦਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	Gloss=decoction|Translit=,pauda
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=GEN|Translit=jis
 8	ਜਿਸ	ਜੋ	PRON	_	Number=Sing|PronType=Rel	10	nmod:poss	_	Gloss=boiling|Translit=de
 9	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	8	case	_	Gloss=GEN|Translit=patte
 10	ਪੱਤੇ	ਪੱਤਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	Gloss=steam|Translit=masaale
 11	ਮਸਾਲੇ	ਮਸਾਲਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	Gloss=(one|Translit=vajon
-12	ਵਜੋਂ	ਵਜੋਂ	ADP	_	_	11	case	_	Gloss=plant,|Translit=varte
+12	ਵਜੋਂ	ਵਜੋਂ	ADP	_	_	11	case	_	Gloss=,plant|Translit=varte
 13	ਵਰਤੇ	ਵਰਤਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	6	acl:relcl	_	Gloss=whose|Translit=jaande
 14	ਜਾਂਦੇ	ਜਾਣਾ	AUX	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	13	aux:pass	_	Gloss=leaves|Translit=han)
 15	ਹਨ)	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Gloss=spice|Translit=de
@@ -881,7 +881,7 @@
 22	ਅਤੇ	ਅਤੇ	CCONJ	_	_	42	cc	_	Gloss=be.INF|Translit=baahar
 23	ਬਾਹਰ	ਬਾਹਰ	ADV	_	_	25	advmod	_	Gloss=reason|Translit=thand
 24	ਠੰਢ	ਠੰਢ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	Gloss=inside|Translit=hon
-25	ਹੋਣ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	advcl	_	Gloss=seated|Translit=kaaran,
+25	ਹੋਣ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	advcl	_	Gloss=seated|Translit=,kaaran
 26	ਕਾਰਨ	ਕਾਰਨ	ADP	_	Case=Acc|Gender=Masc|Number=Sing	25	case	_	Gloss=people|Translit=andar
 27	,	,	PUNCT	_	_	25	punct	_	Gloss=by|Translit=baithe
 28	ਅੰਦਰ	ਅੰਦਰ	ADV	_	_	29	advmod	_	Gloss=breath|Translit=lokaan
@@ -890,7 +890,7 @@
 31	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	30	case	_	Gloss=mouth|Translit=lain
 32	ਸਾਹ	ਸਾਹ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	obj	_	Gloss=exit|Translit=di
 33	ਲੈਣ	ਲੈਣਾ	VERB	_	Case=Acc|VerbForm=Inf	35	acl	_	Gloss=air.EXH|Translit=prakriya
-34	ਦੀ	ਦਾ	ADP	_	Gender=Fem	33	case	_	Gloss=with,|Translit=dauraan
+34	ਦੀ	ਦਾ	ADP	_	Gender=Fem	33	case	_	Gloss=,with|Translit=dauraan
 35	ਪ੍ਰਕਿਰਿਆ	ਪ੍ਰਕਿਰਿਆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	38	obl	_	Gloss=windows|Translit=moonhon
 36	ਦੌਰਾਨ	ਦੌਰਾਨ	ADP	_	_	35	case	_	Gloss=fully|Translit=nikaldi
 37	ਮੂੰਹੋਂ	ਮੂੰਹ	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	38	obl	_	Gloss=manner|Translit=havaarh
@@ -905,7 +905,7 @@
 46	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	44	aux	_	_
 47	।	।	PUNCT	_	_	44	punct	_	_
 
-# sent_id = 101
+# sent_id = pa_dyz-ud-train-37
 # text = ਬਾਅਦ ਵਿੱਚ ਉਨ੍ਹਾਂ ਸਭ ਨੇ ਮੇਰੇ ਦੁਆਲੇ ਇੱਕ ਗੋਲ ਦਾਇਰਾ ਬਣਾ ਕੇ ਨਾਚ ਕੀਤਾ ਅਤੇ ‘ਹੈਪੀ ਬਰਥ ਡੇ' ਗਾਇਆ ।
 # translit = Baad vich unhan sabh ne mere duale ik gol daira bana ke naach kita ate ‘Happy Birthday’ gaaya
 # gloss = Later they all around-me circle form.PFV, dance.PFV and sing.PFV ‘Happy Birthday’.
@@ -915,7 +915,7 @@
 3	ਉਨ੍ਹਾਂ	ਉਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	Gloss=all|Translit=unhan
 4	ਸਭ	ਸਭ	DET	_	PronType=Ind	3	det	_	Gloss=around-me|Translit=sabh
 5	ਨੇ	ਨੇ	ADP	_	_	4	case	_	Gloss=circle|Translit=ne
-6	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	14	obl	_	Gloss=form.PFV,|Translit=mere
+6	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	14	obl	_	Gloss=,form.PFV|Translit=mere
 7	ਦੁਆਲੇ	ਦੁਆਲੇ	ADP	_	_	6	case	_	Gloss=dance.PFV|Translit=duale
 8	ਇੱਕ	ਇੱਕ	NUM	_	_	10	nummod	_	Gloss=and|Translit=ik
 9	ਗੋਲ	ਗੋਲ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Gloss=sing.PFV|Translit=gol
@@ -931,7 +931,7 @@
 19	ਗਾਇਆ	ਗਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	14	conj	_	_
 20	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 28
+# sent_id = pa_dyz-ud-train-38
 # text = ਮੈਲਈਆਦਿ ਦੇ ਮੰਤਰ ਦਾ ਨਾਲ ਹੀ ਉਹ ਉੱਚਾ ਅਲਾਪ ਕਰੀ ਜਾਂਦਾ ਸੀ ।
 # translit = Mailī'ādi dē mantar dā nāl hī uh uccā alāp karī jāndā sī.
 # gloss = along.with mantra Mailiaadi GEN he loud vocal.melody chant CONT.PST
@@ -950,7 +950,7 @@
 12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	Translit=sī
 13	।	।	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 214
+# sent_id = pa_dyz-ud-train-39
 # text = ਮੈਂ ਵੀ ਆਪਣੇ ਲੈਂਪ ਦੀ ਰੌਸ਼ਨੀ ਨਾਲ ਆਪਣਾ ਮਹਿਮਾਨ ਲੱਭ ਲਿਆ ਹੈ ।
 # translit = Main vi aapne lamp di raushni naal aapna mehman labh lia hai.
 # gloss = I too my lamp GEN light with my guest find take.PST COP
@@ -969,7 +969,7 @@
 12	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Gloss=COP|Translit=hai
 13	।	।	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 110
+# sent_id = pa_dyz-ud-train-40
 # text = ਅੱਜ ਸਵੇਰੇ ਮੈਂ ਨਹਾ ਰਹੀ ਸੀ ਤਾਂ ਮੈਂ ਸੋਚ ਰਹੀ ਸੀ ਕਿ ਇਹ ਅਦਭੁੱਤ ਹੁੰਦਾ ਮੇਰੇ ਕੋਲ ਰਿਨ ਟਿਨ ਟਿਨ ਵਰਗਾ ਇੱਕ ਕੁੱਤਾ ਹੁੰਦਾ ।
 # translit = Ajj saveres main naha rahi si tan main soch rahi si ki ih adbhut hunda mere kol Rin Tin Tin varga ik kutta hunda
 # gloss = today morning I bathe.PROG.F AUX.PST then I think.PROG.F AUX.PST that this wonderful be.COND my near Rin Tin Tin like one dog be.COND
@@ -1000,7 +1000,7 @@
 24	ਹੁੰਦਾ	ਹੋਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	Translit=hunda
 25	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 139
+# sent_id = pa_dyz-ud-train-41
 # text = ਆਖਿਰਕਾਰ ਮਾਂ ਮਿ: ਵੈਨ ਦਾਨ ਨਾਲ ਇੰਝ ਦਾ ਵਿਵਹਾਰ ਨਹੀਂ ਕਰਦੀ ਤੇ ਇੱਥੇ ਮੈਂ ਮਿਸਿਜ਼ ਵੈਨ ਦਾਨ ਨੂੰ ਸਿੱਧਾ ਉਸਦੇ ਮੂੰਹ ਤੇ ਕਹਿ ਦਿੱਤਾ ।
 # translit = Aakhirkar maan Mi: van Daan nal injh da vivhar nahi kardi te ithe main Mrs. van Daan nu siddha usde mooh te keh ditta.
 # gloss = finally mother Mr. Van Daan with such GEN behavior not do.PRS.F and here I Mrs. Van Daan DAT directly her face on say.PFV give.PST
@@ -1031,7 +1031,7 @@
 24	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	23	compound:svc	_	Gloss=give.PST|Translit=ditta
 25	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 11
+# sent_id = pa_dyz-ud-train-42
 # text = ਹੁੰਮ-ਹੁੰਮਾ ਕੇ ਉਸਨੇ ਉਹ ਵਸਤ ਦਿਖਾਈ ਜੋ ਉਸਦੇ ਕਹਿਣ ਅਨੁਸਾਰ ਮੁੱਢ ਕਦੀਮ ਵੇਲਿਆਂ ਦੇ ਯੂਨਾਨੀ ਕੀਮੀਆਗਾਰਾਂ ਦਾ ਈਜਾਦ ਕੀਤਾ ਅੱਠਵਾਂ ਅਜੂਬਾ ਸੀ ।
 # translit = humm-hummā kē usnē oh vasat dikhāī jo usdē kahiṇ anusār muddh kadeem vēliāṅ dē yūnānī kīmīāgārāṅ dā ījād kītā aṭhvaṅ ajūbā sī.
 # gloss = enthusiastically-gathering GER.CP he ERG that object show PST REL his saying according.to primeval times GEN Greek alchemists GEN invention do PST eighth wonder COP.PST.
@@ -1060,7 +1060,7 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	21	cop	_	Gloss=eighth|Translit=sī
 23	।	।	PUNCT	_	_	6	punct	_	Gloss=wonder
 
-# sent_id = 221
+# sent_id = pa_dyz-ud-train-43
 # text = ਮੈਂ ਉਸ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਦਾ ਕਦੀ ਨਹੀਂ ਥੱਕਦਾ ।
 # translit = Main usdian gallan sunda kadi nahi thakkda."
 # gloss = ISUBJ never get tire-PERF of listen-PTCP to hisGEN word-PLOBJ
@@ -1075,7 +1075,7 @@
 8	ਥੱਕਦਾ	ਥੱਕਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=hisGEN
 9	।	।	PUNCT	_	_	8	punct	_	Gloss=word-PLOBJ
 
-# sent_id = 31
+# sent_id = pa_dyz-ud-train-44
 # text = ਅੰਦਰੋਂ ਪੱਥਰ ਨਾਲ ਭਰੇ ਵੱਡੇ ਤੂੰਬੇ ਦੀ ਖੋਖਲੀ ਗੂੰਜ ਸੁਣਾਈ ਦਿੰਦੀ ਸੀ ।
 # translit = Andarōṅ patthar nāl bharē vaḍḍē tūmbē dī khōkhalī gūñj suṇā'ī dindī sī.
 # gloss = from inside large drum stones with filled GEN hollow echo hear give.PST
@@ -1094,7 +1094,7 @@
 12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	aux	_	Gloss=give.PST|Translit=sī
 13	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 43
+# sent_id = pa_dyz-ud-train-45
 # text = ਮਾਰਚ ਦੇ ਕਿਸੇ ਐਤਵਾਰ ਔਰਲਿਆਨੋ ਬੂਇੰਦੀਆ ਤੇ ਰਮੇਦੀਉਸ ਮੌਸਕੋਤਿ ਦੀ ਸ਼ਾਦੀ ਹੋ ਗਈ ।
 # translit = Mārac dē kisē aitavār aurali'ānō būindīā tē ramēdī'us mausakōti dī śādī hō ga'ī.
 # gloss = March GEN some Sunday Aureliano Buendía and Remedios Moscote GEN marriage happen.PST
@@ -1114,7 +1114,7 @@
 13	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	Translit=ga'ī
 14	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 217
+# sent_id = pa_dyz-ud-train-46
 # text = ਹਰ ਸ਼ਾਮ ਨੂੰ ਮੈਂ ਕੰਮ ਤੋਂ ਬਾਅਦ ਉਸ ਦੀ ਉਡੀਕ ਕਰਦਾ ਹਾਂ , ਮੈਂ ਉਸ ਨੂੰ ਆਪਣੇ ਸਾਹਮਣੇ ਬਿਠਾਉਂਦਾ ਹਾਂ , ਫੇਰ ਅਸੀਂ ਖਾਣਾ ਖਾਂਦੇ ਹਾਂ ।
 # translit = Har shaam nu main kamm ton baad usdi udeek karda han, main usnu aapne saahmane bithaunda han, pher asi khaana khaande han.
 # gloss = Every evening DAT ISUBJ work ABL after hisGEN waiting do-PRES RES.AUX.1SG,ISUBJ himOBJ my-own front-LOC cause-sit-PRES PRES.AUX.1SG, then weSUBJfoodOBJ eat-PRES PRES.AUX.PL.
@@ -1129,13 +1129,13 @@
 8	ਉਸ	ਉਹ	PRON	_	PronType=Dem	11	obj	_	Gloss=hisGEN|Translit=usdi
 9	ਦੀ	ਦਾ	ADP	_	Gender=Fem	8	case	_	Gloss=waiting|Translit=udeek
 10	ਉਡੀਕ	ਉਡੀਕ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	compound:lvc	_	Gloss=do-PRES|Translit=karda
-11	ਕਰਦਾ	ਕਰਨਾ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	0	root	_	Gloss=RES.AUX.1SG,ISUBJ|Translit=han,
+11	ਕਰਦਾ	ਕਰਨਾ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	0	root	_	Gloss=ISUBJ,RES.AUX.1SG|Translit=,han
 12	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	Gloss=himOBJ|Translit=main
 13	,	,	PUNCT	_	_	11	punct	_	Gloss=my-own|Translit=usnu
 14	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	Gloss=front-LOC|Translit=aapne
 15	ਉਸ	ਉਹ	PRON	_	PronType=Dem	19	obj	_	Gloss=cause-sit-PRES|Translit=saahmane
-16	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	15	case	_	Gloss=PRES.AUX.1SG,|Translit=bithaunda
-17	ਆਪਣੇ	ਆਪਣਾ	PRON	_	ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	nmod:poss	_	Gloss=then|Translit=han,
+16	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	15	case	_	Gloss=,PRES.AUX.1SG|Translit=bithaunda
+17	ਆਪਣੇ	ਆਪਣਾ	PRON	_	ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	nmod:poss	_	Gloss=then|Translit=,han
 18	ਸਾਹਮਣੇ	ਸਾਹਮਣੇ	NOUN	_	Case=Acc	19	obl	_	Gloss=weSUBJfoodOBJ|Translit=pher
 19	ਬਿਠਾਉਂਦਾ	ਬਿਠਾਉਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	11	conj	_	Gloss=eat-PRES|Translit=asi
 20	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	Gloss=PRES.AUX.PL|Translit=khaana
@@ -1147,7 +1147,7 @@
 26	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
 27	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 104
+# sent_id = pa_dyz-ud-train-47
 # text = ਹਨੇਲੀ ਅਤੇ ਸ਼ੈਨੀ ਮੇਰੀਆਂ ਦੋ ਸਭ ਤੋਂ ਚੰਗੀਆਂ ਸਹੇਲੀਆਂ ਹੋਇਆ ਕਰਦੀਆਂ ਸਨ ।
 # translit = Hanneli ate Sanne merian do sabh ton changian sahelian hoia kardian san
 # gloss = Hanneli and Sanne my two most good friends be.HAB.FEM.PL.
@@ -1166,7 +1166,7 @@
 12	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	10	aux	_	Translit=san
 13	।	।	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 90
+# sent_id = pa_dyz-ud-train-48
 # text = ਓਹ ! ਮੈਂ ਖੁਸ਼ ਹਾਂ ਕਿ ਮੈਂ ਤੈਨੂੰ ਵੀ ਨਾਲ ਲੈ ਆਈ ।
 # translit = Oh! Main khush han ki main tainu vi naal lai aayi
 # gloss = oh! I happy am that I you also with take PST.FEM.1SG.
@@ -1185,7 +1185,7 @@
 12	ਆਈ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past	5	ccomp	_	_
 13	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 5
+# sent_id = pa_dyz-ud-train-49
 # text = ਦੁਨੀਆਂ ਤਾਂ ਬੜੀ ਬਾਅਦ ਵਿੱਚ ਪੈਦਾ ਹੋਈ ਹੋਣ ਕਰਕੇ ਬਹੁਤੀਆਂ ਵਸਤਾਂ ਅਨਾਮ ਹੀ ਸਨ ਜਿਨ੍ਹਾਂ ਦੀ ਸੋਝੀ ਕਰਵਾਉਣ ਖਾਤਰ ਉਨ੍ਹਾਂ ਵਲ ਸੰਕੇਤ ਕਰਨਾ ਬਹੁਤ ਜ਼ਰੂਰੀ ਸੀ ।
 # translit = dunīāṅ tāṅ baṛī bāad vic paidā hoī hoṇ karkē bahutīāṅ vastāṅ anām hī san jinhāṅ dī sojhī karvāuṇ khātara unhāṅ val saṅkēt karaṇā bahut zarūrī sī
 # gloss = world much later born COP.PST because many things nameless COP.PST REL meaning make-understood for them towards pointing very necessary COP.PST
@@ -1218,7 +1218,7 @@
 26	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	23	aux	_	Translit=sī
 27	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 216
+# sent_id = pa_dyz-ud-train-50
 # text = ਉਸ ਦਾ ਰਾਤ ਦਾ ਖਾਣਾ ਮੈਨੂੰ ਕਾਫ਼ੀ ਮਹਿੰਗਾ ਪੈਂਦਾ ਹੈ , ਪਰ ਉਹ ਇਸ ਦਾ ਹੱਕਦਾਰ ਵੀ ਹੈ ।
 # translit = Us da raat da khaana meinu kaafi mahinga painda hai, par uh is da hakkdaar vi hai.
 # gloss = HeGEN night GEN food meOBJ quite expensive fall-PRES PRES.AUX, but he this GEN deserving also is.
@@ -1231,8 +1231,8 @@
 6	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Gloss=quite|Translit=meinu
 7	ਕਾਫ਼ੀ	ਕਾਫ਼ੀ	ADV	_	_	8	advmod	_	Gloss=expensive|Translit=kaafi
 8	ਮਹਿੰਗਾ	ਮਹਿੰਗਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	xcomp	_	Gloss=fall-PRES|Translit=mahinga
-9	ਪੈਂਦਾ	ਪੈਣਾ	VERB	_	Gender=Masc|Number=Sing	0	root	_	Gloss=PRES.AUX,|Translit=painda
-10	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=but|Translit=hai,
+9	ਪੈਂਦਾ	ਪੈਣਾ	VERB	_	Gender=Masc|Number=Sing	0	root	_	Gloss=,PRES.AUX|Translit=painda
+10	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=but|Translit=,hai
 11	,	,	PUNCT	_	_	9	punct	_	Gloss=he|Translit=par
 12	ਪਰ	ਪਰ	CCONJ	_	_	16	cc	_	Gloss=this|Translit=uh
 13	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	16	nsubj	_	Gloss=GEN|Translit=is
@@ -1243,7 +1243,7 @@
 18	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 19	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 121
+# sent_id = pa_dyz-ud-train-51
 # text = ਉਹ ਬਹੁਤ ਸ਼ਾਂਤ ਹੈ ।
 # translit = Oh bahut shant hai.
 # gloss = he/she very calm be.PRES.3SG.
@@ -1254,7 +1254,7 @@
 4	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be.PRES.3SG|Translit=hai
 5	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 53
+# sent_id = pa_dyz-ud-train-52
 # text = ਦੰਪਤੀ ਜੀਵਨ ਦੇ ਭੇਦ ਦੇ ਅਟੁੱਟ ਹੋਣ ਦਾ ਯਕੀਨ ਦਿਵਾਣ ਲਈ ਇਸ ਤਰ੍ਹਾਂ ਕਾਫੀ ਸਮਾਂ ਲੱਗ ਗਿਆ ।
 # translit = Dampatī jīvan dē bhēd dē aṭuṭṭ hōṇ dā yakīn divāṇ la'ī is tarhāṅ kāphī samāṅ lagg gi'ā.
 # gloss = in this way much time take.PST her ACC reassure INF married life GEN secrets GEN unbreakable nature GEN certainty cause.INF
@@ -1278,7 +1278,7 @@
 17	ਗਿਆ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	compound:svc	_	Gloss=nature|Translit=gi'ā
 18	।	।	PUNCT	_	_	16	punct	_	Gloss=GEN
 
-# sent_id = 6
+# sent_id = pa_dyz-ud-train-53
 # text = ਹਰ ਸਾਲ ਵਾਂਗ ਮਾਰਚ ਦੇ ਮਹੀਨੇ ਲੀਰਾਂ ਵਿੱਚ ਲਿਪਟੇ ਖਾਨਾਬਦੋਸ਼ਾਂ ਦੇ ਇੱਕ ਟੱਬਰ ਨੇ ਪਿੰਡ ਦੀ ਜੂਹ ਵਿਚ ਆ ਡੇਰਾ ਲਾਇਆ ।
 # translit = har saal vaang maarch dē maheenē leeran vich liptē khaanabadoshan dē ikk tabbar nē pind dee jooh vich aa dēra laia
 # gloss = every year like March GEN month LOC rags LOC wrapped gypsies GEN one group ERG village GEN outskirts LOC come camp PST.
@@ -1306,7 +1306,7 @@
 21	ਲਾਇਆ	ਲਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=camp|Translit=laia
 22	।	।	PUNCT	_	_	21	punct	_	Gloss=PST
 
-# sent_id = 132
+# sent_id = pa_dyz-ud-train-54
 # text = ਉਨੱਤੀ ਨੂੰ ਮਿਸਿਜ਼ ਵੈਨ ਦਾਨ ਦਾ ਜਨਮ ਦਿਨ ਸੀ ।
 # translit = Unatti nu Mrs. van Daan da janam din si.
 # gloss = twenty-nine LOC Mrs. van Daan GEN birthday COP.PST.3SG
@@ -1322,7 +1322,7 @@
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Translit=si
 10	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 61
+# sent_id = pa_dyz-ud-train-55
 # text = ਪਰ ਲਾੜੀ ਸੂਝ ਨਾਲ ਭਰੇ ਵਿਹਾਰ ਵਿਚ ਐਨੀ ਸ਼ਾਂਤ ਦਿਸ ਰਹੀ ਸੀ ਕਿ ਉਸਦਾ ਸੰਤੁਲਨ ਬਿਲਕੁਲ ਭੰਗ ਨਾ ਹੋਇਆ ,
 # translit = Para lāṛī sūjha nāla bharē vihāra vica ainī śāṅta disa rahī sī ki usadā santulana bilakula bhaṅga nā hō'i'ā,
 # gloss = but bride wisdom with behave.PTCP appear PROG be.PST so calm that her composure completely disturb NEG happen.PFV
@@ -1345,10 +1345,10 @@
 16	ਬਿਲਕੁਲ	ਬਿਲਕੁਲ	ADV	_	_	17	advmod	_	Gloss=NEG|Translit=bilakula
 17	ਭੰਗ	ਭੰਗ	ADJ	_	Degree=Pos	19	xcomp	_	Gloss=happen.PFV|Translit=bhaṅga
 18	ਨਾ	ਨਾ	ADV	_	_	19	advmod	_	Translit=nā
-19	ਹੋਇਆ	ਹੋਣਾ	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	Translit=hō'i'ā,
+19	ਹੋਇਆ	ਹੋਣਾ	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	Translit=,hō'i'ā
 20	,	,	PUNCT	_	_	19	punct	_	_
 
-# sent_id = 4
+# sent_id = pa_dyz-ud-train-56
 # text = ਜੋ ਮੁੱਢ ਕਦੀਮ ਵੇਲੇ ਦੇ ਆਂਡਿਆਂ ਵਰਗੇ ਲੱਗਦੇ ਸਨ ।
 # translit = jo muddh kadeem vēlē dē aandēan vargē laggdē san
 # gloss = REL primeval time GEN eggs like appear IPFV COP.PST.
@@ -1364,7 +1364,7 @@
 9	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	8	aux	_	Gloss=COP.PST|Translit=san
 10	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 16
+# sent_id = pa_dyz-ud-train-57
 # text = ਮੈਲਈਆਦਿ ਦੇ ਟੂਣੇਹਾਰ ਲੋਹੇ ਮਗਰ ਉਹ ਖਰੂਦ ਮਚਾਉਂਦੀਆਂ ਘੜਮਸ ਪਾਉਂਦੀਆਂ ਵਹਿ ਤੁਰਦੀਆਂ ਸਨ ।
 # translit = meleaadē dē ṭūṇēhār lōhē magar oh kharūd macāundīāṅ ghaṛamas pāundīāṅ vahi turadīāṅ san
 # gloss = Melquíades GEN magical iron behind those havoc raise-IPFV.F.PL uproar put-IPFV.F.PL flow walk-IPFV.F.PL COP.PST
@@ -1384,7 +1384,7 @@
 13	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	12	aux	_	Gloss=COP.PST|Translit=san
 14	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 73
+# sent_id = pa_dyz-ud-train-58
 # text = ਸੋ ਸ਼ਾਦੀ ਅੱਗੇ ਪਾ ਦਿੱਤੀ ਗਈ ।
 # translit = Sō śādī aggē pā dittī ga'ī.
 # gloss = thus wedding forward put.PFV PASS.PST
@@ -1397,7 +1397,7 @@
 6	ਗਈ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	4	aux:pass	_	Translit=ga'ī
 7	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 122
+# sent_id = pa_dyz-ud-train-59
 # text = ਜੈਕਲਿਨ ਵੈਨ ਮਰਸੇਨ ਮੇਰੀ ਸਭ ਤੋਂ ਚੰਗੀ ਦੋਸਤ ਮੰਨੀ ਜਾਂਦੀ ਹੈ , ਪਰੰਤੂ ਇੱਕ ਅਸਲੀ ਦੋਸਤ ਮੈਂ ਕਦੇ ਨਹੀਂ ਬਣਾਇਆ ।
 # translit = Jacqueline van Maarsen meri sabh ton changi dost manni jandi hai, parantu ik asli dost main kade nahi banaia
 # gloss = Jacqueline van Merssen my most good friend consider.PASS.PRS but one real friend I ever not make.PST
@@ -1412,7 +1412,7 @@
 8	ਦੋਸਤ	ਦੋਸਤ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	xcomp	_	Gloss=consider.PASS.PRS|Translit=dost
 9	ਮੰਨੀ	ਮੰਨਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=but|Translit=manni
 10	ਜਾਂਦੀ	ਜਾਣਾ	AUX	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	9	aux:pass	_	Gloss=one|Translit=jandi
-11	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=real|Translit=hai,
+11	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=real|Translit=,hai
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=friend|Translit=parantu
 13	ਪਰੰਤੂ	ਪਰੰਤੂ	CCONJ	_	_	9	cc	_	Gloss=I|Translit=ik
 14	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	15	det	_	Gloss=ever|Translit=asli
@@ -1424,7 +1424,7 @@
 20	ਬਣਾਇਆ	ਬਣਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	conj	_	_
 21	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 158
+# sent_id = pa_dyz-ud-train-60
 # text = ਨੈਤਿਕਤਾ ਦੇ ਇਸ ਨਮੂਨੇ ਨੂੰ ਨਹੀਂ , ਇਨ੍ਹਾਂ ਦਿਨਾਂ ਵਿੱਚ ਹਮੇਸ਼ਾ ਮਾਰਗਰੇਟ ਨੂੰ ਨੈਤਿਕਤਾ ਦਾ ਨਮੂਨਾ ਬਣਨ ਲਈ ਚਿੜ੍ਹਾਉਂਦੀ ਰਹਿੰਦੀ ਹੈ ਤੇ ਉਹ ਇਸ ਗੱਲ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦੀ ਹੈ ।
 # translit = Naitikta de is namune nu nahi, inhan dinan vich hamesha Margot nu naitikta da namuna banna lai chidhaundi rehndi hai te oh is gall nu nafrat kardi hai.
 # gloss = Not this model of morality,
@@ -1433,8 +1433,8 @@
 2	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	1	case	_	Gloss=this|Translit=de
 3	ਇਸ	ਇਹ	DET	_	PronType=Dem	4	det	_	Gloss=model|Translit=is
 4	ਨਮੂਨੇ	ਨਮੂਨਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	Gloss=of|Translit=namune
-5	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	4	case	_	Gloss=morality,|Translit=nu
-6	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	4	advmod	_	Translit=nahi,
+5	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	4	case	_	Gloss=,morality|Translit=nu
+6	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	4	advmod	_	Translit=,nahi
 7	,	,	PUNCT	_	_	4	punct	_	Translit=inhan
 8	ਇਨ੍ਹਾਂ	ਇਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	9	det	_	Translit=dinan
 9	ਦਿਨਾਂ	ਦਿਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	obl:tmod	_	Translit=vich
@@ -1460,7 +1460,7 @@
 29	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 30	।	।	PUNCT	_	_	19	punct	_	_
 
-# sent_id = 147
+# sent_id = pa_dyz-ud-train-61
 # text = ਉਸ ਤਰ੍ਹਾਂ ਦੀ ਚੀਜ਼ ਜਿਸ ਨੂੰ ਡਿਪਾਰਟਮੈਂਟਲ ਸਟੋਰ ਪਹਿਲੇ ਵੇਲਿਆਂ ਵਿੱਚ ਵੇਚਣ ਦੀ ਹਿੰਮਤ ਨਹੀਂ ਸਨ ਕਰਦੇ ।
 # translit = Us tarah di cheez jis nu departmental store pehle veliyan vich vechan di himmat nahi san karde
 # gloss = the kind of thing REL department stores earlier times in sell.INF dare.PST not AUX.PST
@@ -1484,7 +1484,7 @@
 17	ਕਰਦੇ	ਕਰਨਾ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|VerbForm=Part	0	root	_	Translit=karde
 18	।	।	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 206
+# sent_id = pa_dyz-ud-train-62
 # text = ਉਸ ਨੇ ਮੇਰੇ ਵੱਲ ਦੇਖਿਆ ਤੇ ਮੇਰੀ ਭਾਵਨਾ ਨੂੰ ਸਮਝ ਲਿਆ ।
 # translit = Us ne mere vall dekhya te meri bhaavna nu samajh liya.
 # gloss = he/she ERG toward me look.PFV and my feeling ACC understand take.PFV.
@@ -1502,7 +1502,7 @@
 11	ਲਿਆ	ਲੈਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	10	compound:svc	_	Gloss=take.PFV|Translit=liya
 12	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 100
+# sent_id = pa_dyz-ud-train-63
 # text = ਇਸ ਲਈ ਮੈਨੂੰ ਆਪਣੇ ਸਹਿਪਾਠੀਆਂ ਨਾਲ ਖੇਡਣ ਲਈ ਇੱਕ ਖੇਡ ਚੁਣਨ ਦਾ ਮੌਕਾ ਮਿਲਿਆ ਤੇ ਮੈਂ ਵਾਲੀਬਾਲ ਨੂੰ ਚੁਣਿਆ ।
 # translit = Is lai mainu apne sahipathian naal khedan lai ik khed chunan da mauka milia te main volleyball nu chunia
 # gloss = Therefore to-me with classmates play INF one game choose GEN chance get.PFV,
@@ -1518,7 +1518,7 @@
 9	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	10	det	_	Gloss=choose|Translit=ik
 10	ਖੇਡ	ਖੇਡ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	obj	_	Gloss=GEN|Translit=khed
 11	ਚੁਣਨ	ਚੁਣਨਾ	VERB	_	Case=Acc|VerbForm=Inf	13	acl	_	Gloss=chance|Translit=chunan
-12	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	11	case	_	Gloss=get.PFV,|Translit=da
+12	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	11	case	_	Gloss=,get.PFV|Translit=da
 13	ਮੌਕਾ	ਮੌਕਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	Translit=mauka
 14	ਮਿਲਿਆ	ਮਿਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing	0	root	_	Translit=milia
 15	ਤੇ	ਅਤੇ	CCONJ	_	_	14	cc	_	Translit=te
@@ -1528,7 +1528,7 @@
 19	ਚੁਣਿਆ	ਚੁਣਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	14	conj	_	Translit=chunia
 20	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 197
+# sent_id = pa_dyz-ud-train-64
 # text = ਮੈਨੂੰ ਯਾਦ ਹੈ ਕਿ ਉਸ ਸਵੇਰ ਨੂੰ ਵੀ ਬਾਰਸ਼ ਹੋ ਰਹੀ ਸੀ , ਠੰਢ ਵੀ ਸੀ ਤੇ ਸਵੇਰ ਦੀ ਰੌਸ਼ਨੀ ਵੀ ਇਸੇ ਤਰ੍ਹਾਂ ਦੀ ਹੀ ਸੀ ।
 # translit = Mainu yaad hai ki us saver nu vi baarish ho rahi si, thand vi si te saver di raushni vi ise tarah di hi si
 # gloss = me DAT memory be.PRS that that morning DAT also rain happen.PROG be.PST, cold also be.PST and morning GEN light also same kind GEN be.PST
@@ -1544,7 +1544,7 @@
 9	ਬਾਰਸ਼	ਬਾਰਸ਼	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Gloss=also|Translit=baarish
 10	ਹੋ	ਹੋਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	Gloss=rain|Translit=ho
 11	ਰਹੀ	ਰਹਿਣਾ	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Gloss=happen.PROG|Translit=rahi
-12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	Gloss=be.PST,|Translit=si,
+12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	Gloss=,be.PST|Translit=,si
 13	,	,	PUNCT	_	_	10	punct	_	Gloss=cold|Translit=thand
 14	ਠੰਢ	ਠੰਢ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	Gloss=also|Translit=vi
 15	ਵੀ	ਵੀ	ADV	_	_	14	advmod:emph	_	Gloss=be.PST|Translit=si
@@ -1561,7 +1561,7 @@
 26	ਸੀ	ਸੀ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	conj	_	_
 27	।	।	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 3
+# sent_id = pa_dyz-ud-train-65
 # text = ਦਰਿਆ ਦੇ ਕੰਢੇ ਤੇ ਵਸਿਆ ਹੋਇਆ ਜਿਸਦਾ ਸਾਫ ਜਲ ਵੱਡੇ ਵੱਡੇ ਤੇ ਚਮਕੀਲੇ ਪੱਥਰਾਂ ਦੇ ਉੱਤੋਂ ਦੀ ਵਹਿੰਦਾ ਸੀ
 # translit = daria de kandhē tē vasia hoia jisda saaf jal vaddē-vaddē tē chamkeelē pattharan dē utton dee vahinda see
 # gloss = river GEN bank LOC situated COP.PST REL clean water big shiny stones GEN over flow IPFV COP.PST.
@@ -1586,7 +1586,7 @@
 18	ਵਹਿੰਦਾ	ਵਹਿਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=COP.PST|Translit=vahinda
 19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	18	aux	_	Translit=see
 
-# sent_id = 153
+# sent_id = pa_dyz-ud-train-66
 # text = ਮਿ: ਵੈਨ ਦਾਨ ਮੈਨੂੰ ਮੇਜ਼ ਉੱਤੇ ਆਪਣੇ ਨਾਲ ਬਿਠਾਉਣਾ ਚਾਹੁੰਦੇ ਨੇ , ਕਿਉਂਕਿ ਮਾਰਗਰੇਟ ਕੱਦ ਦੇ ਹਿਸਾਬ ਨਾਲ ਉਨ੍ਹਾਂ ਜਿੱਡੀ ਹੋਣ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪੂਰਾ ਖਾਣਾ ਨਹੀਂ ਖਾਂਦੀ ।
 # translit = Mi: van Daan mainu mez utte apne nal bithauna chaunde ne, kionki Margot kadd de hisab nal unha jiddi hon de hisab nal poora khana nahi khand
 # gloss = Mr. van Daan want.PRS me to sit.INF next to him at the table, because Margot, consider.PRS she be.PRS as tall as he be.PRS, do.PRS not eat a full meal.
@@ -1601,11 +1601,11 @@
 8	ਨਾਲ	ਨਾਲ	ADP	_	_	7	case	_	Gloss=next|Translit=nal
 9	ਬਿਠਾਉਣਾ	ਬਿਠਾਉਣਾ	VERB	_	VerbForm=Inf	10	ccomp	_	Gloss=to|Translit=bithauna
 10	ਚਾਹੁੰਦੇ	ਚਾਹੁਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=him|Translit=chaunde
-11	ਨੇ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Gloss=at|Translit=ne,
+11	ਨੇ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Gloss=at|Translit=,ne
 12	,	,	PUNCT	_	_	10	punct	_	Gloss=the|Translit=kionki
-13	ਕਿਉਂਕਿ	ਕਿਉਂਕਿ	SCONJ	_	_	10	mark	_	Gloss=table,|Translit=Margot
+13	ਕਿਉਂਕਿ	ਕਿਉਂਕਿ	SCONJ	_	_	10	mark	_	Gloss=,table|Translit=Margot
 14	ਮਾਰਗਰੇਟ	ਮਾਰਗਰੇਟ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	Gloss=because|Translit=kadd
-15	ਕੱਦ	ਕੱਦ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	Gloss=Margot,|Translit=de
+15	ਕੱਦ	ਕੱਦ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	Gloss=,Margot|Translit=de
 16	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	15	case	_	Gloss=consider.PRS|Translit=hisab
 17	ਹਿਸਾਬ	ਹਿਸਾਬ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	Gloss=she|Translit=nal
 18	ਨਾਲ	ਨਾਲ	ADP	_	_	17	case	_	Gloss=be.PRS|Translit=unha
@@ -1613,7 +1613,7 @@
 20	ਜਿੱਡੀ	ਜਿੱਡਾ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	21	amod	_	Gloss=tall|Translit=hon
 21	ਹੋਣ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl	_	Gloss=as|Translit=de
 22	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	21	case	_	Gloss=he|Translit=hisab
-23	ਹਿਸਾਬ	ਹਿਸਾਬ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	Gloss=be.PRS,|Translit=nal
+23	ਹਿਸਾਬ	ਹਿਸਾਬ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	Gloss=,be.PRS|Translit=nal
 24	ਨਾਲ	ਨਾਲ	ADP	_	_	23	case	_	Gloss=do.PRS|Translit=poora
 25	ਪੂਰਾ	ਪੂਰਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	26	amod	_	Gloss=not|Translit=khana
 26	ਖਾਣਾ	ਖਾਣਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obj	_	Gloss=eat|Translit=nahi
@@ -1621,14 +1621,14 @@
 28	ਖਾਂਦੀ	ਖਾਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	10	advcl	_	Gloss=full
 29	।	।	PUNCT	_	_	10	punct	_	Gloss=meal
 
-# sent_id = 228
+# sent_id = pa_dyz-ud-train-67
 # text = ਉਹ ਪੁੱਛਦਾ ਹੈ , ਇਹ ਕਿਹੋ ਜਿਹੀ ਬੁਝਾਰਤ ਹੈ ?
 # translit = Oh puchhda hai, 'Eh kiho jihi bujhaarat hai?
 # gloss = He ask-3SG.PRES, what kind of riddle be-3SG.PRES this?
 # translation = He asks, what kind of riddle is this?
 1	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	2	nsubj	_	Gloss=He|Translit=Oh
-2	ਪੁੱਛਦਾ	ਪੁੱਛਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=ask-3SG.PRES,|Translit=puchhda
-3	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Gloss=what|Translit=hai,
+2	ਪੁੱਛਦਾ	ਪੁੱਛਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=,ask-3SG.PRES|Translit=puchhda
+3	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Gloss=what|Translit=,hai
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=kind|Translit='Eh
 5	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	Gloss=of|Translit=kiho
 6	ਕਿਹੋ	ਕਿਹੋ	DET	_	PronType=Int	5	det	_	Gloss=riddle|Translit=jihi
@@ -1637,7 +1637,7 @@
 9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
 10	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 82
+# sent_id = pa_dyz-ud-train-68
 # text = ਮੈਂ ਉਮੀਦ ਕਰਦੀ ਹਾਂ ਕਿ ਮੈਂ ਤੁਹਾਨੂੰ ਸਾਰੀਆਂ ਗੁਪਤ ਗੱਲਾਂ ਦੱਸਣ ਦੇ ਯੋਗ ਹੋ ਜਾਵਾਂਗੀ
 # translit = Main umeed kardi han ki main thonoo sarian gupt gallan dassan de yog ho javangi.
 # gloss = i hope do AUX that I you all secret things tell INF of capable be FUT.1SG.FEM
@@ -1658,7 +1658,7 @@
 14	ਹੋ	ਹੋਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	Gloss=capable|Translit=ho
 15	ਜਾਵਾਂਗੀ	ਜਾਣਾ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	14	compound:svc	_	Gloss=be|Translit=javangi
 
-# sent_id = 99
+# sent_id = pa_dyz-ud-train-69
 # text = ਕਿਉਂਕਿ ਮੇਰਾ ਜਨਮ ਦਿਨ ਸੀ ।
 # translit = Kyunki mera janam din si.
 # gloss = because my birth day be.PST.3SG.
@@ -1670,7 +1670,7 @@
 5	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be.PST.3SG|Translit=si
 6	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 149
+# sent_id = pa_dyz-ud-train-70
 # text = ਸਾਨੂੰ ਦੁਕਾਨ ਵਿੱਚ ਅਨੰਦ ਆ ਰਿਹਾ ਹੈ , ਬੇਪ ਨੇ ਮਾਰਗਰੇਟ , ਪੀਟਰ ਅਤੇ ਮੇਰੇ ਲਈ ਸ਼ਾਰਟਹੈਂਡ ਵਿੱਚ ਇੱਕ ਪੱਤਰ ਵਿਹਾਰ ਕੋਰਸ ਦਾ ਆਰਡਰ ਦਿੱਤਾ ਹੈ ।
 # translit = Saanu dukan vich anand aa riha hai, Bep ne Margaret, Peter ate mere lai shorthand vich ikk pattar vihaar course da order ditta hai
 # gloss = us shop in enjoyment come.PROG be.PRS, Bep ERG Margaret, Peter and me DAT
@@ -1680,11 +1680,11 @@
 3	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	2	case	_	Gloss=in|Translit=vich
 4	ਅਨੰਦ	ਅਨੰਦ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Gloss=enjoyment|Translit=anand
 5	ਆ	ਆਉਣਾ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=come.PROG|Translit=aa
-6	ਰਿਹਾ	ਰਹਿਣਾ	AUX	_	Gender=Masc|Number=Sing|Person=3|VerbForm=Part	5	aux	_	Gloss=be.PRS,|Translit=riha
-7	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=Bep|Translit=hai,
+6	ਰਿਹਾ	ਰਹਿਣਾ	AUX	_	Gender=Masc|Number=Sing|Person=3|VerbForm=Part	5	aux	_	Gloss=,be.PRS|Translit=riha
+7	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=Bep|Translit=,hai
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=ERG|Translit=Bep
-9	ਬੇਪ	ਬੇਪ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	25	nsubj	_	Gloss=Margaret,|Translit=ne
-10	ਨੇ	ਨੇ	ADP	_	_	9	case	_	Gloss=Peter|Translit=Margaret,
+9	ਬੇਪ	ਬੇਪ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	25	nsubj	_	Gloss=,Margaret|Translit=ne
+10	ਨੇ	ਨੇ	ADP	_	_	9	case	_	Gloss=Peter|Translit=,Margaret
 11	ਮਾਰਗਰੇਟ	ਮਾਰਗਰੇਟ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	Gloss=and|Translit=Peter
 12	,	,	PUNCT	_	_	11	punct	_	Gloss=me|Translit=ate
 13	ਪੀਟਰ	ਪੀਟਰ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	11	conj	_	Gloss=DAT|Translit=mere
@@ -1703,7 +1703,7 @@
 26	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
 27	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 146
+# sent_id = pa_dyz-ud-train-71
 # text = ਕੱਪੜਾ ਬਹੁਤ ਡਰਾਵਣਾ ਸੀ , ਉਨ੍ਹਾਂ ਬੋਰੀਆ ਵਰਗਾ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਆਲੂ ਆਏ ਹੋਣ ।
 # translit = Kappra bahut dravna si, unha boriya varga jinha vich aaloo aaye hon
 # gloss = cloth very frightening be.PST, those sacks like REL in-which potatoes come.PFV AUX.SUBJ
@@ -1711,7 +1711,7 @@
 1	ਕੱਪੜਾ	ਕੱਪੜਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=cloth|Translit=Kappra
 2	ਬਹੁਤ	ਬਹੁਤ	ADV	_	_	3	advmod	_	Gloss=very|Translit=bahut
 3	ਡਰਾਵਣਾ	ਡਰਾਵਣਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	Gloss=frightening|Translit=dravna
-4	ਸੀ	ਸੀ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be.PST,|Translit=si,
+4	ਸੀ	ਸੀ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=,be.PST|Translit=,si
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=those|Translit=unha
 6	ਉਨ੍ਹਾਂ	ਉਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	det	_	Gloss=sacks|Translit=boriya
 7	ਬੋਰੀਆ	ਬੋਰੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	Gloss=like|Translit=varga
@@ -1723,7 +1723,7 @@
 13	ਹੋਣ	ਹੋਣਾ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 14	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 48
+# sent_id = pa_dyz-ud-train-72
 # text = ਉੱਚੀ-ਉੱਚੀ ਬੋਲਦੀ ਫਰਵਰੀ ਦੇ ਇਕ ਤੀਜੇ ਪਹਿਰ ਉਹ ਸਾਂਝੇ ਕਮਰੇ ਵਿਚ ਆ ਧਮਕੀ ਜਿਥੇ ਉਸ ਦੀਆਂ ਭੈਣਾਂ ਔਰਲਿਆਨੋ ਨਾਲ ਹਸ ਖੇਡ ਰਹੀਆਂ ਸਨ ।
 # translit = Uccī-uccī bōladī pharavarī dē ik tījē pahira uh sāñjhē kamarē vic ā dhamakī jithē us dī'āṅ bhaiṇāṅ aurali'ānō nāl has khēḍ rahī'āṅ sana.
 # gloss = speaking loud ADV February GEN late afternoon LOC she common room LOC burst enter REL her sisters Aureliano with laugh play PROG be.PST
@@ -1753,7 +1753,7 @@
 23	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	22	aux	_	Gloss=be.PST|Translit=sana
 24	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 113
+# sent_id = pa_dyz-ud-train-73
 # text = ਐਤਵਾਰ ਦੁਪਹਿਰ ਨੂੰ ਮੇਰੀ ਜਨਮ ਦਿਨ ਪਾਰਟੀ ਸੀ ।
 # translit = Eitvar dupehir nun merii gianam din parti sii.
 # gloss = Sunday afternoon LOC my birthday party COP.PST.3SG.
@@ -1768,7 +1768,7 @@
 8	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	cop	_	Translit=sii
 9	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 215
+# sent_id = pa_dyz-ud-train-74
 # text = ਮੈਂ ਉਸ ਨੂੰ ਇਥੋਂ ਜਾਣ ਨਹੀਂ ਦਿਆਂਗਾ ।
 # translit = Main usnu ithon jaan nahi dianga
 # gloss = I FUT.AUX NEG let him leave from here.
@@ -1782,7 +1782,7 @@
 7	ਦਿਆਂਗਾ	ਦੇਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=from
 8	।	।	PUNCT	_	_	7	punct	_	Gloss=here
 
-# sent_id = 78
+# sent_id = pa_dyz-ud-train-75
 # text = ਪ੍ਰਮਾਣ ਦੇ ਦੈਵੀ ਮੂਲ ਬਾਰੇ ਹੋਸਿ ਆਰਕੇਦੀਓ ਬੂਇੰਦੀਆ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਕਿਸੇ ਨੂੰ ਕੋਈ ਸੰਦੇਹ ਨਹੀਂ ਸੀ ।
 # translit = Pramāṇa dē daivī mūla bārē hōsi ārkēdīō būindīā tōṅ bināṅ hōra kisē nūṅ kō'ī sandēha nahīṅ sī.
 # gloss = except José Arcadio Buendía ABL other anyone DAT any doubt NEG COP.PST about proof GEN divine origin
@@ -1806,7 +1806,7 @@
 17	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=origin|Translit=sī
 18	।	।	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 39
+# sent_id = pa_dyz-ud-train-76
 # text = "ਸਾਇੰਸ ਨੇ ਦੂਰੀ ਖਤਮ ਹੀ ਕਰ ਦਿੱਤੀ ਐ" ਮੈਲਈਆਦਿ ਨੇ ਐਲਾਨ ਕੀਤਾ ,
 # translit = Sā'iṅs nē dūrī khatam hī kar dittī ai" mailī'ādi nē ailān kītā
 # gloss = science ERG distance completely eliminate PERF Melquíades ERG declare.PST
@@ -1825,7 +1825,7 @@
 12	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Translit=kītā
 13	,	,	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 14
+# sent_id = pa_dyz-ud-train-77
 # text = ਮੋਰੀਆਂ 'ਚੋਂ ਬਾਹਰ ਨਿਕਲ ਆਉਣ ਲਈ ਬੇਤਾਬ ਮੇਖਾਂ ਤੋਂ ਬੇਵਸ ਹੋਈਆਂ ਲੱਠਾਂ ਵੀ ਕਿੜ ਕਿੜ ਕਰਨ ਲੱਗ ਪੈਂਦੀਆਂ ਸਨ ।
 # translit = morīāṅ 'coṅ bāhar nikal āuṇ laī bētāb mēkhāṅ tōṅ bēvas hoīāṅ laṭṭhāṅ vī kiṛ-kiṛ karaṇ lagg paiṇdīāṅ san
 # gloss = holes ABL outside exit come-INF for eager nails ABL helpless be-PST.PTCP beams also creak-REDUP do-INF begin fall-IPFV COP.PST
@@ -1851,7 +1851,7 @@
 19	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	18	aux	_	_
 20	।	।	PUNCT	_	_	18	punct	_	_
 
-# sent_id = 80
+# sent_id = pa_dyz-ud-train-78
 # text = ਜਦੋਂ ਪਾਦਰੀ ਕੁਰਸੀ ਸਮੇਤ ਉੱਪਰ ਉੱਠਣ ਲੱਗ ਪਿਆ ਤਾਂ ਉਸਨੇ ਕੇਵਲ ਆਪਣਾ ਸਟੂਲ ਹਿਲਾਇਆ ਤੇ ਮੋਢਿਆਂ ਨੂੰ ਝਟਕਿਆ ।
 # translit = Jadōṅ pādarī kurasī samēta uppara uṭṭhaṇa lagga pi'ā tāṅ usanē kēvala āpaṇā sṭūla hilā'i'ā tē mōḍhi'āṅ nūṅ jhaṭaki'ā
 # gloss = when priest chair together up rise INF begin PST then he only own stool shake.PFV and shoulders ACC shrug.PFV
@@ -1876,7 +1876,7 @@
 18	ਝਟਕਿਆ	ਝਟਕਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	14	conj	_	Gloss=ACC|Translit=jhaṭaki'ā
 19	।	।	PUNCT	_	_	14	punct	_	Gloss=shrug.PFV
 
-# sent_id = 231
+# sent_id = pa_dyz-ud-train-79
 # text = ਉਹ ਇਸੇ ਹੈਰਾਨੀ ਨਾਲ ਹੀ ਇਹ ਪ੍ਰਸ਼ਨ ਆਪਣੇ-ਆਪ ਨੂੰ ਉਦੋਂ ਵੀ ਪੁੱਛਦਾ ਹੈ , ਜਦੋਂ ਉਹ ਕਿਸੇ ਆਦਮੀ , ਖਿੜੇ ਹੋਏ ਫੁੱਲਾਂ ਨਾਲ ਲੱਦੇ ਹੋਏ ਦਰਖ਼ਤ ਤੇ ਠੰਢੇ ਪਾਣੀ ਦੇ ਗਲਾਸ ਨੂੰ ਦੇਖਦਾ ਹੈ ।
 # translit = Oh ise hairaani naal hi eh prashan aapne-aap nu udon vi puchhda hai, jadon oh kise aadmi, khidhe hoye phullaan naal ladhe hoye darkhat te thandhe paani de galaas nu dekhda hai.
 # gloss = HeSUBJ this-EMPH wonder with EMPH this question himself DAT then also ask-PRES PRES.AUX, when heSUBJ any man, blossomed been flowers with laden been tree and cold water GEN glass OBJ look-PRES PRES.AUX.
@@ -1893,11 +1893,11 @@
 10	ਉਦੋਂ	ਉਦੋਂ	ADV	_	_	12	advmod	_	Gloss=then|Translit=udon
 11	ਵੀ	ਵੀ	PART	_	_	10	advmod:emph	_	Gloss=also|Translit=vi
 12	ਪੁੱਛਦਾ	ਪੁੱਛਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=ask-PRES|Translit=puchhda
-13	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=PRES.AUX,|Translit=hai,
+13	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=,PRES.AUX|Translit=,hai
 14	,	,	PUNCT	_	_	12	punct	_	Gloss=when|Translit=jadon
 15	ਜਦੋਂ	ਜਦੋਂ	ADV	_	ExtPos=ADV	33	mark	_	Gloss=heSUBJ|Translit=oh
 16	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	33	nsubj	_	Gloss=any|Translit=kise
-17	ਕਿਸੇ	ਕੋਈ	DET	_	PronType=Ind	18	det	_	Gloss=man,|Translit=aadmi,
+17	ਕਿਸੇ	ਕੋਈ	DET	_	PronType=Ind	18	det	_	Gloss=,man|Translit=,aadmi
 18	ਆਦਮੀ	ਆਦਮੀ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	33	obj	_	Gloss=blossomed|Translit=khidhe
 19	,	,	PUNCT	_	_	18	punct	_	Gloss=been|Translit=hoye
 20	ਖਿੜੇ	ਖਿੜਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	22	acl	_	Gloss=flowers|Translit=phullaan
@@ -1917,7 +1917,7 @@
 34	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
 35	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 65
+# sent_id = pa_dyz-ud-train-80
 # text = ਰਮੇਦੀਉਸ ਦੀ ਮਾਂ ਤੇ ਭੈਣ ਇਸ ਗੱਲੋਂ ਫਿਕਰਮੰਦ ਸਨ ਕਿ ਬਾਲੜੀ ਨੇ ਰਸਮ ਦੌਰਾਨ ਕੋਈ ਨਾ ਕੋਈ ਗਲਤ ਗੱਲ ਕਰ ਦੇਣੀ ਏ ।
 # translit = Ramēdī'us dī māṅ tē bhaiṇa is gallōṅ phikaramanda sana ki bālaṛī nē rasam daurāna kō'ī nā kō'ī galata galla kara dēṇī ē.
 # gloss = Remedios GEN mother and sister anxious be.PST about fact that little girl ERG ceremony during some wrong thing do or say bound COP
@@ -1946,7 +1946,7 @@
 22	ਏ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	Gloss=bound|Translit=ē
 23	।	।	PUNCT	_	_	8	punct	_	Gloss=COP
 
-# sent_id = 34
+# sent_id = pa_dyz-ud-train-81
 # text = ਮਾਰਚ ਦੇ ਮਹੀਨੇ ਖਾਨਾਬਦੋਸ਼ ਵਾਪਸ ਪਰਤ ਆਏ ।
 # translit = Mārac dē mahīnē khānābadoś vāpas parat āē.
 # gloss = March GEN month nomads return back come.PST
@@ -1960,7 +1960,7 @@
 7	ਆਏ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=come.PST|Translit=āē
 8	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 1
+# sent_id = pa_dyz-ud-train-82
 # text = ਬਹੁਤ ਸਾਲ ਮਗਰੋਂ ਗੋਲੀਮਾਰ ਦਸਤੇ ਅੱਗੇ ਖੜ੍ਹੇ ਕਰਨਲ ਔਰਲਿਆਨੋ ਬੂਇੰਦੀਆ ਨੂੰ ਉਹ ਲੰਦਾ ਵੇਲਾ ਯਾਦ ਆਇਆ ਜਦੋਂ ਆਪਣੇ ਬਾਪ ਨਾਲ ਉਹ ਬਰਫ ਦੀ ਭਾਲ ਵਿੱਚ ਨਿਕਲਿਆ ਸੀ ।
 # translit = Bahut saal magron goolimaar daste agge kharhhe karnal aureliano buendia noon oh laudha vela yaad aaya jadoon aapne baap naal oh baraf dee bhaal vich nikliya see.
 # gloss = after many year POST firing_squad before stand.PTCP Colonel Aureliano Buendía DAT that distant time remember COP.PST when own father with he ice GEN search LOC go_out COP.PST
@@ -1994,7 +1994,7 @@
 27	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	26	aux	_	Gloss=COP.PST|Translit=see
 28	।	।	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 218
+# sent_id = pa_dyz-ud-train-83
 # text = ਫਿਰ ਸਮਾਂ ਆਉਂਦਾ ਹੈ , ਜਦੋਂ ਉਹ ਮੇਰਾ ਇਸ ਸਭ ਕੁਝ ਦਾ ਮੂਲ ਚੁਕਾਉਂਦਾ ਹੈ ਤੇ ਮੈਂ ਉਸ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ "ਕੋਈ ਗੱਲ ਸੁਣਾ!"
 # translit = Phir samay aunda hai, jadon uh mera is sabh kujh da mool chukaunda hai te main usnu kehnda han "koi gall suna!"
 # gloss = Then the time come-PRES when heSUBJ repay-PRES meOBJ for all of thisGEN, and ISUBJ say to himOBJ, "Tell meOBJsomething!"
@@ -2002,7 +2002,7 @@
 1	ਫਿਰ	ਫਿਰ	ADV	_	_	3	advmod	_	Gloss=Then|Translit=Phir
 2	ਸਮਾਂ	ਸਮਾਂ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=the|Translit=samay
 3	ਆਉਂਦਾ	ਆਉਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Part	0	root	_	Gloss=time|Translit=aunda
-4	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=come-PRES|Translit=hai,
+4	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=come-PRES|Translit=,hai
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=when|Translit=jadon
 6	ਜਦੋਂ	ਜਦੋਂ	ADV	_	ExtPos=ADV	14	advmod	_	Gloss=heSUBJ|Translit=uh
 7	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	14	nsubj	_	Gloss=repay-PRES|Translit=mera
@@ -2010,12 +2010,12 @@
 9	ਇਸ	ਇਹ	DET	_	PronType=Dem	11	det	_	Gloss=for|Translit=sabh
 10	ਸਭ	ਸਭ	DET	_	PronType=Ind	11	det	_	Gloss=all|Translit=kujh
 11	ਕੁਝ	ਕੁਝ	PRON	_	Case=Nom|Number=Sing|PronType=Ind	13	nmod:poss	_	Gloss=of|Translit=da
-12	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	11	case	_	Gloss=thisGEN,|Translit=mool
+12	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	11	case	_	Gloss=,thisGEN|Translit=mool
 13	ਮੂਲ	ਮੂਲ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	Gloss=and|Translit=chukaunda
 14	ਚੁਕਾਉਂਦਾ	ਚੁਕਾਉਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	Gloss=ISUBJ|Translit=hai
 15	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Gloss=say|Translit=te
 16	ਤੇ	ਅਤੇ	CCONJ	_	_	20	cc	_	Gloss=to|Translit=main
-17	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	Gloss=himOBJ,|Translit=usnu
+17	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	Gloss=,himOBJ|Translit=usnu
 18	ਉਸ	ਉਹ	PRON	_	PronType=Dem	20	obj	_	Gloss="Tell|Translit=kehnda
 19	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	18	case	_	Gloss=meOBJsomething!"|Translit=han
 20	ਕਹਿੰਦਾ	ਕਹਿਣਾ	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	Translit="koi
@@ -2024,7 +2024,7 @@
 23	ਗੱਲ	ਗੱਲ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	obj	_	_
 24	ਸੁਣਾ!"	ਸੁਣਾਉਣਾ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	20	ccomp	_	_
 
-# sent_id = 203
+# sent_id = pa_dyz-ud-train-84
 # text = ਮੈਂ ਉਸ ਦੇ ਨਾਲ ਜਹਾਜ਼ 'ਚ ਗਿਆ ਸੀ ਤੇ ਉਸ ਦੇ ਕੈਬਿਨ ਵਿਚ ਇਧਰ-ਉਧਰ ਖਿਲਰੇ ਹੋਏ ਸੂਟਕੇਸਾਂ ਦੇ ਦਰਮਿਆਨ ਬੈਠ ਗਿਆ ਸੀ ।
 # translit = Main us de naal jahaaz 'ch gaya si te us de cabin vich idhar-udhar khilre hoye suitcases de darmiyan baith gaya si.
 # gloss = igo.PFV with him on ship and sit.PFV among suitcase.PL scatter.PFV here-there in his cabin
@@ -2053,7 +2053,7 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	Translit=si
 23	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 199
+# sent_id = pa_dyz-ud-train-85
 # text = ਆਪਣੇ ਵਧੀਆ ਦੋਸਤਾਂ ਤੋਂ ਹੌਲੀ-ਹੌਲੀ ਵਿਛੜਨਾ ਕਿੰਨਾ ਔਖਾ ਤਜਰਬਾ ਹੈ !
 # translit = Aapne vadhiya dostan ton hauli-hauli vichharhna kinna aukha tajarba hai!
 # gloss = what a painful experience be.PRES INF slowly part from one’s best friends.
@@ -2070,7 +2070,7 @@
 10	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=one’s|Translit=hai!
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=best
 
-# sent_id = 38
+# sent_id = pa_dyz-ud-train-86
 # text = ਦੂਰਬੀਨ ਵਿਚ ਝਾਕਣ ਦੀ ਫੀਸ ਪੰਜ ਸਿੱਕੇ ਅਦਾ ਕਰਕੇ ਲੋਕ ਔਰਤ ਨੂੰ ਬਿਲਕੁਲ ਨੇੜਿਓਂ ਦੇਖ ਸਕਦੇ ਸੀ ।
 # translit = Dūrabīn vic jhākaṇ dī phīs pañj sikkē adā karakē lōk aurat nūṅ bilkul nēṛi'ōṅ dēkh sakadē sī.
 # gloss = telescope in peep GEN fee five coins pay having people woman ACC completely near-from see can.PST
@@ -2094,7 +2094,7 @@
 17	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	aux	_	Translit=sī
 18	।	।	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 162
+# sent_id = pa_dyz-ud-train-87
 # text = ਮੈਂ ਕਿਸ਼ਤੀ ਰਾਹੀਂ ਕਰੀਟ (ਯੂਨਾਨ ਦਾ ਇੱਕ ਬਹੁਤ ਵੱਡਾ ਟਾਪੂ) ਜਾਣ ਲਈ ਇਥੇ ਬੰਦਰਗਾਹ ’ਤੇ ਆਇਆ ਸਾਂ ।
 # translit = Main kishti raahi Crete (Yunaan da ikk bahut vadda taapu) jaan layi ithe bandargaah 'te aaya saan.
 # gloss = I boat through Crete go INF for here port LOC come.PFV COP.PST.1SG
@@ -2118,7 +2118,7 @@
 17	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	aux	_	Translit=saan
 18	।	।	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 232
+# sent_id = pa_dyz-ud-train-88
 # text = ਜ਼ੋਰਬਾ ਹਰ ਰੋਜ਼ ਹਰ ਚੀਜ਼ ਨੂੰ ਏਦਾਂ ਦੇਖਦਾ ਹੈ , ਜਿਵੇਂ ਪਹਿਲੀ ਵਾਰ ਦੇਖ ਰਿਹਾ ਹੋਵੇ ।
 # translit = Zorba har roz har cheez nu edan dekhda hai, jivein pahli vaar dekh riha hove.
 # gloss = Zorba every day every thing ACC like.thislook.PRESas.if first time see PROG be.SBJV
@@ -2131,7 +2131,7 @@
 6	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	5	case	_	Gloss=ACC|Translit=nu
 7	ਏਦਾਂ	ਏਦਾਂ	ADV	_	_	8	advmod	_	Gloss=like.thislook.PRESas.if|Translit=edan
 8	ਦੇਖਦਾ	ਦੇਖਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=first|Translit=dekhda
-9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	Gloss=time|Translit=hai,
+9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	Gloss=time|Translit=,hai
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=see|Translit=jivein
 11	ਜਿਵੇਂ	ਜਿਵੇਂ	SCONJ	_	_	8	mark	_	Gloss=PROG|Translit=pahli
 12	ਪਹਿਲੀ	ਪਹਿਲਾ	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	Gloss=be.SBJV|Translit=vaar
@@ -2141,7 +2141,7 @@
 16	ਹੋਵੇ	ਹੋਣਾ	AUX	_	Mood=Ind|VerbForm=Fin	14	aux	_	_
 17	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 83
+# sent_id = pa_dyz-ud-train-89
 # text = ਜਿਵੇਂ ਕਿ ਮੈਂ ਕਿਸੇ ਹੋਰ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਨ ਵਿੱਚ ਸਮਰੱਥ ਮੈਂ ਹਾਂ ਤੇ ਮੈਂ ਉਮੀਦ ਕਰਦੀ ਹਾਂ ਕਿ ਤੁਸੀਂ ਆਸਾਨੀ ਅਤੇ ਸਹਾਇਤਾ ਦੇ ਇੱਕ ਵੱਡੇ ਸੋਮੇ ਬਣ ਜਾਵੋਗੇ ।
 # translit = Jivein ki main kise hor utte vishwas karan vich samrath nahi han te main umeed kardi han ki tusi aasani ate sahayata de ik vadde some ban javoge.
 # gloss = as that I any other upon trust do in able not am and I hope do AUX that you ease and help of one big source become FUT.2PL
@@ -2176,7 +2176,7 @@
 28	ਜਾਵੋਗੇ	ਜਾਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	27	compound:svc	_	Gloss=FUT.2PL|Translit=javoge
 29	।	।	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 35
+# sent_id = pa_dyz-ud-train-90
 # text = ਇਸ ਵਾਰ ਉਹ ਦੂਰਬੀਨ ਤੇ ਵਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ਾ ਲੈ ਕੇ ਆਏ ਜਿਸਦਾ ਢੋਲ ਜਿੱਡਾ ਆਕਾਰ ਸੀ ।
 # translit = Is vār uh dūrabīn tē vaḍadarśī śīśā lai kē āē jisadā ਢōl jiḍā ākār sī.
 # gloss = this time they telescope and magnifying glass bring.PST REL drum like size be.PST
@@ -2198,7 +2198,7 @@
 15	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	cop	_	Translit=sī
 16	।	।	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 213
+# sent_id = pa_dyz-ud-train-91
 # text = ਅੱਜ ਇਸ ਕਰੀਟ ਦੇ ਸਮੁੰਦਰੀ ਤੱਟ ’ਤੇ ਮੇਰੇ ਨਾਨੇ ਵਾਲਾ ਜਨੂੰਨ ਮੇਰੇ 'ਤੇ ਸਵਾਰ ਹੈ ।
 # translit = Ajj is crete de samundari tatt 'te mere nane wala janoon mere 'te savar hai
 # gloss = Today this Crete GEN marine coast-POST my maternal-grandfather ASSOC passion me-POST riding PRES.AUX.
@@ -2220,7 +2220,7 @@
 15	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=hai
 16	।	।	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 160
+# sent_id = pa_dyz-ud-train-92
 # text = ਉਹਦੇ ਸਿੱਖਣ ਦਾ ਇਹੋ ਸਮਾਂ ਹੈ ।
 # translit = Ohde sikkhan da iho samay hai.
 # gloss = His/Her learning GEN this very time COP.PRES.3SG.
@@ -2233,7 +2233,7 @@
 6	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=time|Translit=hai
 7	।	।	PUNCT	_	_	6	punct	_	Gloss=COP.PRES.3SG
 
-# sent_id = 112
+# sent_id = pa_dyz-ud-train-93
 # text = ਸੋਮਵਾਰ 15 ਜੂਨ 1942
 # translit = Somvar pândra Giun unii sau batali.
 # gloss = Monday NUM.DAY month June NUM.YEAR
@@ -2243,7 +2243,7 @@
 3	ਜੂਨ	ਜੂਨ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=month|Translit=Giun
 4	1942	1942	NUM	_	_	3	nummod	_	Gloss=June|Translit=unii
 
-# sent_id = 177
+# sent_id = pa_dyz-ud-train-94
 # text = ਪੁਤਲੀਆਂ ਦਿਆਂ ਪਰਛਾਵਿਆਂ ਵਾਲਾ ਤਮਾਸ਼ਾ ਅਰਬ , ਤੁਰਕੀ , ਸੀਰੀਆ ਤੇ ਉੱਤਰੀ ਅਫ਼ਰੀਕਾ ਦੇ ਕੌਫ਼ੀ ਹਾਊਸਾਂ ’ਚ ਅਕਸਰ ਹੀ ਦਿਖਾਇਆ ਜਾਂਦਾ ਸੀ ।
 # translit = Putlian dian parchhavian wala tamasha Arab, Turki, Seeria te uttri Africa de coffee housan 'ch aksar hi dikhaia janda si.
 # gloss = Puppets GEN.PL shadows ASSOC show Arab, Turkey, Syria and North Africa GEN.PL coffee houses-LOC often EMPH shown go.participle PAST.AUX.
@@ -2253,8 +2253,8 @@
 3	ਪਰਛਾਵਿਆਂ	ਪਰਛਾਵਾਂ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	Gloss=shadows|Translit=parchhavian
 4	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	3	case	_	Gloss=ASSOC|Translit=wala
 5	ਤਮਾਸ਼ਾ	ਤਮਾਸ਼ਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj:pass	_	Gloss=show|Translit=tamasha
-6	ਅਰਬ	ਅਰਬ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	16	nmod	_	Gloss=Arab,|Translit=Arab,
-7	,	,	PUNCT	_	_	6	punct	_	Gloss=Turkey,|Translit=Turki,
+6	ਅਰਬ	ਅਰਬ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	16	nmod	_	Gloss=,Arab|Translit=,Arab
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,Turkey|Translit=,Turki
 8	ਤੁਰਕੀ	ਤੁਰਕੀ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	Gloss=Syria|Translit=Seeria
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=and|Translit=te
 10	ਸੀਰੀਆ	ਸੀਰੀਆ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	Gloss=North|Translit=uttri
@@ -2272,12 +2272,12 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	_
 23	।	।	PUNCT	_	_	20	punct	_	_
 
-# sent_id = 107
+# sent_id = pa_dyz-ud-train-95
 # text = ਇਲਸੀ , ਹਨੇਲੀ ਦੀ ਸਭ ਤੋਂ ਅੱਛੀ ਦੋਸਤ ਹੈ ਤੇ ਸ਼ੈਨੀ ਇੱਕ ਹੋਰ ਸਕੂਲ ਜਾਂਦੀ ਹੈ ਤੇ ਉੱਥੇ ਉਸਦੇ ਕਈ ਦੂਜੇ ਦੋਸਤ ਹਨ ।
 # translit = Ilse, Hanneli di sabh ton achhi dost hai te Sanne ik hor school jandi hai te uthe usde kai dooje dost han
 # gloss = Ilse Hanneli GEN most good friend be.PRS and Sanne one other school go.PRS.F
 # translation = Ilse is Hanneli's best friend, and Sanne goes to another school, where she has many other friends.
-1	ਇਲਸੀ	ਇਲਸੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Gloss=Ilse|Translit=Ilse,
+1	ਇਲਸੀ	ਇਲਸੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Gloss=Ilse|Translit=,Ilse
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=Hanneli|Translit=Hanneli
 3	ਹਨੇਲੀ	ਹਨੇਲੀ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	8	nmod:poss	_	Gloss=GEN|Translit=di
 4	ਦੀ	ਦਾ	ADP	_	Gender=Fem	3	case	_	Gloss=most|Translit=sabh
@@ -2302,7 +2302,7 @@
 23	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 24	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 207
+# sent_id = pa_dyz-ud-train-96
 # text = ਫੇਰ ਵਿਛੋੜੇ ਦੀ ਉਦਾਸੀ ਤੋਂ ਬਚਣ ਲਈ ਉਸ ਨੇ ਤਨਜ਼ੀ ਲਹਿਜ਼ੇ ਨਾਲ ਮੁਸਕਰਾ ਕੇ ਪੁੱਛਿਆ , "ਕਿੰਨਾ ਕੁ ਚਿਰ?"
 # translit = Pher vichhorhe di udaasi ton bachan layi us ne tanzi lahze naal muskra ke puchhya, "Kinna ku chir?"
 # gloss = Then separation GEN sadness ABL escape.INF for he ERG sarcastic tone with smile having.doneask.PFV: "for how long?"
@@ -2321,13 +2321,13 @@
 12	ਨਾਲ	ਨਾਲ	ADP	_	_	11	case	_	Gloss=with|Translit=naal
 13	ਮੁਸਕਰਾ	ਮੁਸਕਰਾਉਣਾ	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=smile|Translit=muskra
 14	ਕੇ	ਕੇ	ADP	_	_	13	mark	_	Gloss=having.doneask.PFV:|Translit=ke
-15	ਪੁੱਛਿਆ	ਪੁੱਛਣਾ	VERB	_	Aspect=Perf|Mood=Imp|Tense=Past|VerbForm=Fin	0	root	_	Gloss="for|Translit=puchhya,
+15	ਪੁੱਛਿਆ	ਪੁੱਛਣਾ	VERB	_	Aspect=Perf|Mood=Imp|Tense=Past|VerbForm=Fin	0	root	_	Gloss="for|Translit=,puchhya
 16	,	,	PUNCT	_	_	15	punct	_	Gloss=how|Translit="Kinna
 17	"ਕਿੰਨਾ	ਕਿੰਨਾ	DET	_	PronType=Int	19	det	_	Gloss=long?"|Translit=ku
 18	ਕੁ	ਕੁ	PART	_	_	19	advmod	_	Translit=chir?"
 19	ਚਿਰ?"	ਚਿਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	ccomp	_	_
 
-# sent_id = 239
+# sent_id = pa_dyz-ud-train-97
 # text = ਕੈਸਾ ਜਾਦੂ ਹੈ ਇਹ !
 # translit = Kaisa jaadu hai eh!
 # gloss = what.kind magic be.PRS this
@@ -2338,7 +2338,7 @@
 4	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	Gloss=this|Translit=eh!
 5	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 33
+# sent_id = pa_dyz-ud-train-98
 # text = ਔਰਤ ਦੇ ਵਾਲ ਸਹਾਰੇ ਤਾਂਬੇ ਦਾ ਇਕ ਹਾਰ ਉਸਦੇ ਗਲ ਉਦਾਲੇ ਲਟਕ ਰਿਹਾ ਸੀ ।
 # translit = Aurat dē vāl sahārē tāmbē dā ik hār usdē gal udālē laṭak rihā sī.
 # gloss = woman GEN hair support copper GEN one necklace her neck around hang CONT.PST
@@ -2359,7 +2359,7 @@
 14	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	Translit=sī
 15	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 135
+# sent_id = pa_dyz-ud-train-99
 # text = ਮਿਸਿਜ਼ ਵੈਨ ਦਾਨ ਦੇ ਵਿਸ਼ੇ ਉੱਤੇ ਇੱਕ ਪਲ ਰੁਕੋ , ਤੁਹਾਨੂੰ ਦੱਸ ਦੇਵਾਂ ਕਿ ਪਿਤਾ ਜੀ ਨਾਲ ਇਸ਼ਕਬਾਜ਼ੀ ਕਰਨ ਦੇ ਮੇਰੇ ਯਤਨ ਉਹਦੇ ਲਈ ਜਲਣ ਦਾ ਨਿਰੰਤਰ ਸਰੋਤ ਹੈ ।
 # translit = Mrs. van Daan de vishe utte ikk pal ruko, thahnu dass deva ki pita ji nal ishqbaazi karan de mere yatan uhde lai jalan da nirantar sarot hai.
 # gloss = on the subject of Mrs. van Daan, let me pause.INF for a moment to tell.INF you that my attempts to flirt.INF with Father be.PRS a constant source of jealousy for her.
@@ -2370,9 +2370,9 @@
 4	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	1	case	_	Gloss=of|Translit=de
 5	ਵਿਸ਼ੇ	ਵਿਸ਼ਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Gloss=Mrs.|Translit=vishe
 6	ਉੱਤੇ	ਉੱਤੇ	ADP	_	_	5	case	_	Gloss=van|Translit=utte
-7	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	8	det	_	Gloss=Daan,|Translit=ikk
+7	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	8	det	_	Gloss=,Daan|Translit=ikk
 8	ਪਲ	ਪਲ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl:tmod	_	Gloss=let|Translit=pal
-9	ਰੁਕੋ	ਰੁਕਣਾ	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=me|Translit=ruko,
+9	ਰੁਕੋ	ਰੁਕਣਾ	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=me|Translit=,ruko
 10	,	,	PUNCT	_	_	9	punct	_	Gloss=pause.INF|Translit=thahnu
 11	ਤੁਹਾਨੂੰ	ਤੁਸੀ	PRON	_	Number=Plur|Person=2|PronType=Rel	12	iobj	_	Gloss=for|Translit=dass
 12	ਦੱਸ	ਦੱਸਣਾ	VERB	_	_	9	conj	_	Gloss=a|Translit=deva
@@ -2395,7 +2395,7 @@
 29	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	Gloss=jealousy
 30	।	।	PUNCT	_	_	9	punct	_	Gloss=for
 
-# sent_id = 168
+# sent_id = pa_dyz-ud-train-100
 # text = ਸ਼ੀਸ਼ੇ ਦਾ ਦਰਵਾਜ਼ਾ ਖੁੱਲ੍ਹਿਆ ਤੇ ਅਜਿਹੇ ਮੌਸਮ ਦਾ ਝੰਬਿਆ ਹੋਇਆ ਤੇ ਚਿੱਕੜ ਨਾਲ ਲਿੱਬੜਿਆ ਹੋਇਆ ਇੱਕ ਹੱਟਾ ਕੱਟਾ ਆਦਮੀ ਜੋ ਕਿ ਬੰਦਰਗਾਹ ’ਤੇ ਮਜ਼ਦੂਰੀ ਦਾ ਕੰਮ ਕਰਦਾ ਸੀ , ਨੰਗੇ ਸਿਰ ਤੇ ਨੰਗੇ ਪੈਰੀਂ ਅੰਦਰ ਦਾਖਲ ਹੋਇਆ ।
 # translit = Shishe da darvaza khulhia te ajihe mausam da jhambia hoia te chikkad nal libbadia hoia ikk hatta katta aadmi jo ki bandargah 'te mazduri da kamm karda si, nange sir te nange pairin andar dakhal hoia.
 # gloss = glass GEN door open.PAST and such weather GEN beaten and mud INS smeared one well-built man who port LOC labor GEN work do.IMPF bare head and bare feet inside enter.PAST
@@ -2427,7 +2427,7 @@
 25	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	24	case	_	Gloss=head|Translit=da
 26	ਕੰਮ	ਕੰਮ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	obj	_	Gloss=and|Translit=kamm
 27	ਕਰਦਾ	ਕਰਨਾ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	19	acl:relcl	_	Gloss=bare|Translit=karda
-28	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	Gloss=feet|Translit=si,
+28	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	Gloss=feet|Translit=,si
 29	,	,	PUNCT	_	_	27	punct	_	Gloss=inside|Translit=nange
 30	ਨੰਗੇ	ਨੰਗਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	31	amod	_	Gloss=enter.PAST|Translit=sir
 31	ਸਿਰ	ਸਿਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	obl	_	Translit=te
@@ -2439,7 +2439,7 @@
 37	ਹੋਇਆ	ਹੋਣਾ	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
 38	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 105
+# sent_id = pa_dyz-ud-train-101
 # text = ਜੋ ਲੋਕੀਂ ਸਾਨੂੰ ਇਕੱਠੀਆਂ ਦੇਖਦੇ ਉਹ ਕਹਿੰਦੇ , 'ਐਨੀ , ਹਨੀ ਤੇ ਸ਼ੇਨੀ ਜਾ ਰਹੀਆਂ ਨੇ ।
 # translit = Jo loki sanu ikathian dekhde oh kehnde, ‘Anne, Hanne te Sanne ja rahian ne’
 # gloss = who people us together see.HAB.PL, they say.PST.PL: ‘Anne, Hanne and Sanne go.PROG.FEM.PL COP.PRES.’
@@ -2448,10 +2448,10 @@
 2	ਲੋਕੀਂ	ਲੋਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=people|Translit=loki
 3	ਸਾਨੂੰ	ਅਸੀਂ	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obj	_	Gloss=us|Translit=sanu
 4	ਇਕੱਠੀਆਂ	ਇਕੱਠਾ	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	xcomp	_	Gloss=together|Translit=ikathian
-5	ਦੇਖਦੇ	ਦੇਖਣਾ	VERB	_	Mood=Ind	7	advcl	_	Gloss=see.HAB.PL,|Translit=dekhde
+5	ਦੇਖਦੇ	ਦੇਖਣਾ	VERB	_	Mood=Ind	7	advcl	_	Gloss=,see.HAB.PL|Translit=dekhde
 6	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	7	nsubj	_	Gloss=they|Translit=oh
-7	ਕਹਿੰਦੇ	ਕਹਿਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=say.PST.PL:|Translit=kehnde,
-8	,	,	PUNCT	_	_	7	punct	_	Gloss=‘Anne,|Translit=‘Anne,
+7	ਕਹਿੰਦੇ	ਕਹਿਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=say.PST.PL:|Translit=,kehnde
+8	,	,	PUNCT	_	_	7	punct	_	Gloss=,‘Anne|Translit=,‘Anne
 9	'ਐਨੀ	ਐਨੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	Gloss=Hanne|Translit=Hanne
 10	,	,	PUNCT	_	_	9	punct	_	Gloss=and|Translit=te
 11	ਹਨੀ	ਹਨੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	Gloss=Sanne|Translit=Sanne
@@ -2462,7 +2462,7 @@
 16	ਨੇ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 17	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 49
+# sent_id = pa_dyz-ud-train-102
 # text = ਉਨ੍ਹਾਂ ਨੂੰ ਉਸਨੇ ਆਪਣੀ ਚੱਡੀ ਦਿਖਾਈ ਜਿਹੜੀ ਲਾਖੇ ਰੰਗ ਦੀ ਲੇਵੀ ਨਾਲ ਲਿਬੜੀ ਹੋਈ ਸੀ ।
 # translit = Uṇhāṅ nūṅ usnē āpaṇī caḍḍī dikhā'ī jihaṛī lākhē raṅg dī lēvī nāl libaṛī hō'ī sī.
 # gloss = she ERG them ACC underwear show.PST REL reddish fluid with stain PERF be.PST
@@ -2484,7 +2484,7 @@
 15	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	13	aux	_	Translit=sī
 16	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 175
+# sent_id = pa_dyz-ud-train-103
 # text = ਕੁਝ ਲੋਕ ਆਪਣੇ ਸਿਰ ਹਿਲਾਉਣ ਲੱਗ ਪਏ ਤੇ ਕੁਝ ਉਸ ਨੂੰ ਕੋਸਣ ਲੱਗ ਪਏ ।
 # translit = Kujh lok aapne sir hilaun lagg pae te kujh usnu kosan lagg pae.
 # gloss = some people REFL head shake.INF attach fall.PAST and some 3SG.DAT curse.INF attach fall.PAST
@@ -2505,7 +2505,7 @@
 14	ਪਏ	ਪੈਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	12	aux	_	_
 15	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 176
+# sent_id = pa_dyz-ud-train-104
 # text = "ਇਹ ਦੁਨੀਆ ਇੱਕ ਉਮਰ ਕੈਦ ਹੈ," ਇੱਕ ਮੁੱਛਾਂ ਵਾਲਾ ਆਦਮੀ ਨੇ ਕਿਹਾ ਜਿਸ ਨੇ ਆਪਣੀ ਦਰਸ਼ਨਸ਼ਾਸਤਰ ਦੀ ਸਿੱਖਿਆ Karagiozis Theatre [Karagheus ਜਾਂ Karagoz ਦਾ ਅਰਥ ਹੈ ‘ਕਾਲੀਆਂ ਅੱਖਾਂ ਵਾਲਾ'] ਤੋਂ ਲਿਆ ਸੀ ।
 # translit = Iha dunia ik umar kaid hai," ik mucchan wala aadmi ne kiha jis ne aapni darshanshashtar di sikhia Karagiozis Theatre [Karagheus jaan Karagoz da arth hai 'kalian akkhan wala'] ton lia si.
 # gloss = "DEM world be.3SG.PRES ART life sentence," say.PAST ART man with ART moustache who have.PASTtake.PTCP POSS.3SG.M philosophy education from ART Karagiozis Theatre [Karagheus or Karagoz mean.3SG.PRES 'black-eye-ADJ'].
@@ -2515,7 +2515,7 @@
 3	ਇੱਕ	ਇੱਕ	NUM	_	_	4	nummod	_	Gloss=be.3SG.PRES|Translit=ik
 4	ਉਮਰ	ਉਮਰ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	xcomp	_	Gloss=ART|Translit=umar
 5	ਕੈਦ	ਕੈਦ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	compound	_	Gloss=life|Translit=kaid
-6	ਹੈ,"	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	Gloss=sentence,"|Translit=hai,"
+6	ਹੈ,"	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	Gloss=",sentence|Translit=",hai
 7	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	10	det	_	Gloss=say.PAST|Translit=ik
 8	ਮੁੱਛਾਂ	ਮੁੱਛ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	nmod	_	Gloss=ART|Translit=mucchan
 9	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	8	case	_	Gloss=man|Translit=wala
@@ -2544,7 +2544,7 @@
 32	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	31	aux	_	Translit=si
 33	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 77
+# sent_id = pa_dyz-ud-train-105
 # text = ਉਸਦੇ ਚੇਲੇ ਦਾ ਝੋਲਾ ਮਾਇਆ ਨਾਲ ਐਨਾ ਭਰ ਗਿਆ ਕਿ ਮਹੀਨੇ ਦੇ ਅੰਦਰ ਹੀ ਗਿਰਜੇ ਦੀ ਉਸਾਰੀ ਸ਼ੁਰੂ ਹੋ ਗਈ ।
 # translit = Usdē cēlē dā jhōlā mā'i'ā nāl ainā bhar gi'ā ki mahīnē dē andar hī girajē dī usārī śurū hō ga'ī.
 # gloss = his disciple GEN bag wealth with so fill.PFV that month GEN inside EMPH church GEN construction begin COP.PFV
@@ -2571,13 +2571,13 @@
 20	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	19	compound:svc	_	Translit=ga'ī
 21	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 125
+# sent_id = pa_dyz-ud-train-106
 # text = ਪਿਆਰੀ ਕਿੱਟੀ , ਕੱਲ੍ਹ ਮੈਂ ਬੁਰੀ ਤਰ੍ਹਾਂ ਡਰ ਗਈ
 # translit = Piari Kitty, kallh main buri tarah dar gai
 # gloss = dear Kitty, yesterday I badly fear PST.FEM.1SG
 # translation = dear Kitty, yesterday I was terribly frightened
 1	ਪਿਆਰੀ	ਪਿਆਰਾ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	vocative	_	Gloss=dear|Translit=Piari
-2	ਕਿੱਟੀ	ਕਿੱਟੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	vocative	_	Gloss=Kitty,|Translit=Kitty,
+2	ਕਿੱਟੀ	ਕਿੱਟੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	vocative	_	Gloss=,Kitty|Translit=,Kitty
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=yesterday|Translit=kallh
 4	ਕੱਲ੍ਹ	ਕੱਲ੍ਹ	ADV	_	_	8	advmod	_	Gloss=I|Translit=main
 5	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=badly|Translit=buri
@@ -2586,7 +2586,7 @@
 8	ਡਰ	ਡਰਨਾ	VERB	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Translit=gai
 9	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	8	compound:svc	_	_
 
-# sent_id = 202
+# sent_id = pa_dyz-ud-train-107
 # text = (ਮੈਨੂੰ ਇਸ ਦਾ ਕਾਰਨ ਬਾਅਦ 'ਚ ਸਮਝ ਆਇਆ ਸੀ , ਪਰ ਕਾਸ਼ ! ਉਦੋਂ ਬਹੁਤ ਦੇਰ ਹੋ ਚੁੱਕੀ ਸੀ) ।
 # translit = "(Mainu is da kaaran baad 'ch samajh aaya si, par kaash! Udon bahut der ho chukki si)
 # gloss = me DAT this GEN reason afterwards in understand come.PFV be.PST, but alas then very late happen.PFV complete be.PST
@@ -2599,8 +2599,8 @@
 6	'ਚ	ਵਿੱਚ	ADP	_	_	5	case	_	Gloss=afterwards|Translit='ch
 7	ਸਮਝ	ਸਮਝ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	compound:lvc	_	Gloss=in|Translit=samajh
 8	ਆਇਆ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=understand|Translit=aaya
-9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	Gloss=come.PFV|Translit=si,
-10	,	,	PUNCT	_	_	8	punct	_	Gloss=be.PST,|Translit=par
+9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	Gloss=come.PFV|Translit=,si
+10	,	,	PUNCT	_	_	8	punct	_	Gloss=,be.PST|Translit=par
 11	ਪਰ	ਪਰ	CCONJ	_	_	17	cc	_	Gloss=but|Translit=kaash!
 12	ਕਾਸ਼	ਕਾਸ਼	PART	_	_	17	discourse	_	Gloss=alas|Translit=Udon
 13	!	!	PUNCT	_	_	12	punct	_	Gloss=then|Translit=bahut
@@ -2612,7 +2612,7 @@
 19	ਸੀ)	ਸੀ	AUX	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	aux	_	_
 20	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 134
+# sent_id = pa_dyz-ud-train-108
 # text = ਪ੍ਰਤੱਖ ਰੂਪ ਵਿੱਚ ਪਤੀ ਵੱਲੋਂ ਲਾਲ ਗੁਲਨਾਰ ਪਰਿਵਾਰ ਦੀ ਇੱਕ ਪਰੰਪਰਾ ਹੈ ।
 # translit = Pratakh roop vich pati vallon laal gulnar parivar di ik parampara hai.
 # gloss = apparently red pomegranate flower from husband COP.PRES.3SG family tradition.
@@ -2631,7 +2631,7 @@
 12	ਹੈ	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=hai
 13	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 169
+# sent_id = pa_dyz-ud-train-109
 # text = ਹਾਇ ! ਕੋਸਟੋਂਡੀ !’ ਇੱਕ ਬਜ਼ੁਰਗ ਆਦਮੀ ਨੇ , ਜਿਸ ਨੇ ਕਿ ਅਸਮਾਨੀ ਰੰਗ ਦਾ ਚੋਗਾ ਪਹਿਨਿਆ ਹੋਇਆ ਸੀ , ਉਸ ਨੂੰ ਕਿਹਾ ਤੇ ਉਸ ਦਾ ਹਾਲ-ਚਾਲ ਪੁੱਛਿਆ ।
 # translit = Hae! Kostondi!’ Ikk bazurg aadmi ne, jis ne ki asmani rang da choga pahinia hoia si, us noon kiha te us da haal-chaal puchhia.
 # gloss = hey Kostandis one old man sky-blue color GEN cloak wear.PERFbe.PAST 3SG.DAT say.PAST and then 3SG.DAT ask.PAST 3SG.GEN well-being be.PRES.PAST
@@ -2641,7 +2641,7 @@
 3	ਕੋਸਟੋਂਡੀ	ਕੋਸਟੋਂਡੀ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	23	vocative	_	Gloss=one|Translit=Ikk
 4	!’	!	PUNCT	_	_	3	punct	_	Gloss=old|Translit=bazurg
 5	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	7	det	_	Gloss=man|Translit=aadmi
-6	ਬਜ਼ੁਰਗ	ਬਜ਼ੁਰਗ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Gloss=sky-blue|Translit=ne,
+6	ਬਜ਼ੁਰਗ	ਬਜ਼ੁਰਗ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Gloss=sky-blue|Translit=,ne
 7	ਆਦਮੀ	ਆਦਮੀ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	nsubj	_	Gloss=color|Translit=jis
 8	ਨੇ	ਨੇ	ADP	_	_	7	case	_	Gloss=GEN|Translit=ne
 9	,	,	PUNCT	_	_	7	punct	_	Gloss=cloak|Translit=ki
@@ -2651,7 +2651,7 @@
 13	ਅਸਮਾਨੀ	ਅਸਮਾਨੀ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	14	amod	_	Gloss=and|Translit=choga
 14	ਰੰਗ	ਰੰਗ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	nmod	_	Gloss=then|Translit=pahinia
 15	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	14	case	_	Gloss=3SG.DAT|Translit=hoia
-16	ਚੋਗਾ	ਚੋਗਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obj	_	Gloss=ask.PAST|Translit=si,
+16	ਚੋਗਾ	ਚੋਗਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obj	_	Gloss=ask.PAST|Translit=,si
 17	ਪਹਿਨਿਆ	ਪਹਿਨਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	acl:relcl	_	Gloss=3SG.GEN|Translit=us
 18	ਹੋਇਆ	ਹੋਣਾ	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	17	aux	_	Gloss=well-being|Translit=noon
 19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	aux	_	Gloss=be.PRES.PAST|Translit=kiha
@@ -2666,7 +2666,7 @@
 28	ਪੁੱਛਿਆ	ਪੁੱਛਣਾ	VERB	_	Aspect=Perf|Mood=Imp|Tense=Past|VerbForm=Fin	23	conj	_	_
 29	।	।	PUNCT	_	_	28	punct	_	_
 
-# sent_id = 154
+# sent_id = pa_dyz-ud-train-110
 # text = ਮੇਰੇ ਲਈ ਇਹ ਚੰਗਾ ਹੈ , ਮੈਨੂੰ ਬਦਲਾਅ ਪਸੰਦ ਹੈ ।
 # translit = Mere lai ih changa hai, mainu badlaav pasand hai.
 # gloss = for me this good be.PRES.3SG, me.DAT change like be.PRES.3SG
@@ -2675,7 +2675,7 @@
 2	ਲਈ	ਲਈ	ADP	_	_	1	case	_	Gloss=me|Translit=lai
 3	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Gloss=this|Translit=ih
 4	ਚੰਗਾ	ਚੰਗਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Gloss=good|Translit=changa
-5	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be.PRES.3SG,|Translit=hai,
+5	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=,be.PRES.3SG|Translit=,hai
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=me.DAT|Translit=mainu
 7	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	iobj	_	Gloss=change|Translit=badlaav
 8	ਬਦਲਾਅ	ਬਦਲਾਅ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Gloss=like|Translit=pasand
@@ -2683,7 +2683,7 @@
 10	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 11	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 20
+# sent_id = pa_dyz-ud-train-111
 # text = ਉਸ ਨੂੰ ਲੱਗਿਆ ਕਿ ਧਰਤੀ ਦੇ ਢਿੱਡ 'ਚੋਂ ਸੋਨਾ ਕੱਢਣ ਖਾਤਰ ਇਸ ਵਿਅਰਥ ਕਾਢ ਦੀ ਸੱਚਮੁੱਚ ਹੀ ਵਰਤੋਂ ਹੋ ਸਕਦੀ ਹੈ ।
 # translit = us nūṅ laggiā ki dhartī dē ḍhiḍḍ 'cōṅ sōnā kaḍḍhaṇ khātar is viartha kāḍh dī saccmucc hī vartōṅ hō sakadī hai.
 # gloss = to him feel PST that earth GEN belly ABL gold extract INF for this useless invention GEN truly indeed use happen can COP.PRS.
@@ -2711,7 +2711,7 @@
 21	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	Gloss=happen|Translit=hai
 22	।	।	PUNCT	_	_	3	punct	_	Gloss=can
 
-# sent_id = 145
+# sent_id = pa_dyz-ud-train-112
 # text = ਬੇਪ ਨੇ ਬਿਜ਼ੇਕੋਰਫ ਤੋਂ ਮਾਰਗਰੇਟ ਅਤੇ ਮੇਰੇ ਲਈ ਨਵੇਂ ਸਕਰਟ ਖਰੀਦੇ ਸਨ ।
 # translit = Bep ne Bijenkorf ton Margaret ate mere lai navein skirt khareede san
 # gloss = Bep ERG Bijenkorf from Margaret and me DAT new skirts buy.PFV AUX.PST
@@ -2730,7 +2730,7 @@
 12	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	11	aux	_	Gloss=AUX.PST|Translit=san
 13	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 111
+# sent_id = pa_dyz-ud-train-113
 # text = ਮੈਂ ਉਹਨੂੰ ਰਿਨ ਟਿਨ ਟਿਨ ਬੁਲਾਉਂਦੀ ਤੇ ਉਹਨੂੰ ਆਪਣੇ ਨਾਲ ਸਕੂਲ ਲੈ ਜਾਂਦੀ , ਜਿੱਥੇ ਉਹ ਚੌਕੀਦਾਰ ਦੇ ਕਮਰੇ ਵਿੱਚ ਜਾਂ ਜੇਕਰ ਮੌਸਮ ਠੀਕ ਹੁੰਦਾ ਤਾਂ ਸਾਈਕਲ ਰੈਕ ਨਾਲ ਬੱਝਿਆ ਰਹਿ ਸਕਦਾ ਹੈ ।
 # translit = Main ohnu Rin Tin Tin bulaundi te ohnu apne naal school lai jandi, jithe oh chaukidar de kamre vich ja jekar mausam theek hunda tan bicycle rack naal bajjhia reh sakda hai
 # gloss = I call.COND him Rin Tin Tin and take.COND him with me to school, where he stay.COND in watchman GEN room or by bicycle racks if weather be.PST good.
@@ -2747,7 +2747,7 @@
 10	ਨਾਲ	ਨਾਲ	ADP	_	_	9	case	_	Gloss=with|Translit=naal
 11	ਸਕੂਲ	ਸਕੂਲ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Gloss=me|Translit=school
 12	ਲੈ	ਲੈਣਾ	VERB	_	_	6	conj	_	Gloss=to|Translit=lai
-13	ਜਾਂਦੀ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	12	compound:svc	_	Gloss=school,|Translit=jandi,
+13	ਜਾਂਦੀ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	12	compound:svc	_	Gloss=,school|Translit=,jandi
 14	,	,	PUNCT	_	_	12	punct	_	Gloss=where|Translit=jithe
 15	ਜਿੱਥੇ	ਜਿੱਥੇ	ADV	_	_	32	advmod	_	Gloss=he|Translit=oh
 16	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	32	nsubj	_	Gloss=stay.COND|Translit=chaukidar
@@ -2770,7 +2770,7 @@
 33	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
 34	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 219
+# sent_id = pa_dyz-ud-train-114
 # text = ਮੈਂ ਆਪਣੀ ਪਾਈਪ ਪੀਂਦਿਆਂ ਪੀਂਦਿਆਂ ਉਸ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਦਾ ਹਾਂ ।
 # translit = Main apni pipe peendian peendian usdian gallan sunda han
 # gloss = I SUBJ my-own pipe smoking smoking hisGEN.PL stories listen-PRES PRES.AUX.1SG.
@@ -2787,7 +2787,7 @@
 10	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=PRES.AUX.1SG
 11	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 183
+# sent_id = pa_dyz-ud-train-115
 # text = ਬਿਜਲੀ ਦੀ ਰੌਸ਼ਨੀ ਫਿੱਕੀ ਪੈ ਗਈ ।
 # translit = Bijli di raushni phikki pai gayi
 # gloss = electricity GEN light dim become COP.PFV
@@ -2800,7 +2800,7 @@
 6	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	Gloss=COP.PFV|Translit=gayi
 7	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 173
+# sent_id = pa_dyz-ud-train-116
 # text = ਵਿਹਲ ਹੀ ਵਿਹਲ ਹੈ !
 # translit = Vehal hi vehal hai!
 # gloss = leisure EMPH leisure be.PRES
@@ -2811,7 +2811,7 @@
 4	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be.PRES|Translit=hai!
 5	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 129
+# sent_id = pa_dyz-ud-train-117
 # text = ਇੱਥੇ ਦਿਨ ਬਹੁਤ ਸ਼ਾਂਤ ਹੁੰਦੇ ਹਨ ।
 # translit = Ithe din bahut shant hunde han.
 # gloss = here days very peaceful be.PRES.HAB.PL.
@@ -2824,7 +2824,7 @@
 6	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=han
 7	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 66
+# sent_id = pa_dyz-ud-train-118
 # text = ਇਸ ਕਾਰਨ ਉਨ੍ਹਾਂ ਨੇ ਉਸ ਨੂੰ ਚੁੰਮਣ ਲਈ ਉੱਪਰ ਉਠਾਣ ਦੀ ਆਖਰ ਗੁਸਤਾਖੀ ਕਰ ਹੀ ਲਈ ।
 # translit = Is kārana uṇhāṅ nē us nūṅ cummaṇa la'ī uppara uṭhāṇa dī ākhara gustākhī kara hī la'ī.
 # gloss = for this reason they ERG finally liberty take.PFV of lift INF her ACC up kiss INF
@@ -2847,7 +2847,7 @@
 16	ਲਈ	ਲੈਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	14	compound:svc	_	Gloss=INF|Translit=la'ī
 17	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 233
+# sent_id = pa_dyz-ud-train-119
 # text = ਕੱਲ੍ਹ ਅਸੀਂ ਝੌਂਪੜੀ ਦੇ ਸਾਹਮਣੇ ਬੈਠੇ ਹੋਏ ਸਾਂ ।
 # translit = Kallh asi jhaunpri de saahmne baithe hoye saan.
 # gloss = yesterday 1PL hut GEN front LOC sit.PERFbe.PAST
@@ -2862,7 +2862,7 @@
 8	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	aux	_	Translit=saan
 9	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 242
+# sent_id = pa_dyz-ud-train-120
 # text = ਮੈਂ ਕੋਈ ਜੁਆਬ ਨਾ ਦਿੱਤਾ ।
 # translit = Main koi juaab naa ditta.
 # gloss = I any answer NEG  give.PFV
@@ -2874,7 +2874,7 @@
 5	ਦਿੱਤਾ	ਦਿੱਤਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=give.PFV|Translit=ditta
 6	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 47
+# sent_id = pa_dyz-ud-train-121
 # text = ਬਾਵਜੂਦ ਇਸਦੇ ਕਿ ਉਸ ਦੀ ਮਾਂ ਨੇ ਅੱਲੜ੍ਹ ਉਮਰ ਵਿਚ ਆਉਣ ਵਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਉਸ ਨੂੰ ਦੱਸਿਆ ਹੋਇਆ ਨਹੀਂ ਸੀ ।
 # translit = Bāvajūd isadē ki us dī māṅ nē allhaṛ umar vic āuṇ vālī'āṅ tabadīlī'āṅ bārē us nūṅ dassi'ā hō'i'ā nahīṅ sī
 # gloss = despite fact COMP her mother ERG tell PERF NEG her ACC changes REL come adolescence LOC be.PST
@@ -2901,7 +2901,7 @@
 20	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	aux	_	Translit=sī
 21	।	।	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 52
+# sent_id = pa_dyz-ud-train-122
 # text = ਬਿਸਤਰ ਗਿੱਲਾ ਕਰਨ ਦੀ ਆਦਤ ਤੋਂ ਰੋਕਣ ਲਈ ਉਸ ਨੂੰ ਤੱਤੀਆਂ ਇੱਟਾਂ ਤੇ ਪਿਸ਼ਾਬ ਕਰਵਾਇਆ ਗਿਆ ।
 # translit = Bisatar gillā karan dī ādat tōṅ rōkaṇ la'ī us nūṅ tattī'āṅ iṭṭāṅ tē piśāb karvā'i'ā gi'ā.
 # gloss = bed wet do GEN habit from stop INF for her ACC hot bricks on urine cause.PFV PASS.PST
@@ -2924,7 +2924,7 @@
 16	ਗਿਆ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	aux:pass	_	Gloss=cause.PFV|Translit=gi'ā
 17	।	।	PUNCT	_	_	15	punct	_	Gloss=PASS.PST
 
-# sent_id = 126
+# sent_id = pa_dyz-ud-train-123
 # text = ਅੱਠ ਵਜੇ ਅਚਾਨਕ ਘੰਟੀ ਵੱਜੀ ।
 # translit = Atth vaje achanak ghanti vajji.
 # gloss = eight o’clock suddenly bell ring.PST.3SG
@@ -2936,7 +2936,7 @@
 5	ਵੱਜੀ	ਵੱਜਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=ring.PST.3SG|Translit=vajji
 6	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 210
+# sent_id = pa_dyz-ud-train-124
 # text = ਉਹ ਉਸ ਅਜਨਬੀ ਨੂੰ ਆਪਣੇ ਘਰ ਲੈ ਜਾਂਦਾ ਤੇ ਉਸ ਨੂੰ ਕਾਫ਼ੀ ਮਾਤਰਾ 'ਚ ਖਾਣ ਲਈ ਭੋਜਨ ਤੇ ਪੀਣ ਲਈ ਸ਼ਰਾਬ ਦਿੰਦਾ ।
 # translit = Oh us ajanbi nu aapne ghar lai jaanda te usnu kaafi maatra 'ch khaan layi bhojan te peen layi sharaab dinda.
 # gloss = he that stranger ACC own house take go.PRS and him DAT sufficient quantity in eat.INF for food and drink.INF for wine give.PRS.
@@ -2965,7 +2965,7 @@
 22	ਦਿੰਦਾ	ਦੇਣਾ	VERB	_	Aspect=Imp|Gender=Masc	8	conj	_	Gloss=give.PRS
 23	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 136
+# sent_id = pa_dyz-ud-train-125
 # text = ਉਹ ਉਨ੍ਹਾਂ ਦੀਆਂ ਗੱਲ੍ਹਾਂ ਅਤੇ ਸਿਰ ਉੱਤੇ ਥਪਥਪਾਉਂਦੀ ਹੈ , ਆਪਣੀ ਸਕਰਟ ਉਪਰ ਨੂੰ ਚੁੱਕਦੀ ਹੈ ਅਤੇ ਪਿਮ ਦਾ ਧਿਆਨ ਖਿੱਚਣ ਦੇ ਯਤਨ ਵਿੱਚ ਤਥਾਕਥਿਤ ਹਾਸੋਹੀਣੀਆਂ ਟਿੱਪਣੀਆਂ ਕਰਦੀ ਹੈ ।
 # translit = Uh unha diyan gallhan ate sir utte thapthapaundi hai, apni skirt upar nu chukkdi hai ate Pim da dhian khicchan de yatan vich tathakathit hasohihiyan tippaniyan kardi hai
 # gloss = she their cheeks and head on pat.PROG.F own skirt upward lift.PROG.F and Pim GEN attention attract.GER GEN effort in so-called ridiculous comments do.PRS.F
@@ -2978,7 +2978,7 @@
 6	ਸਿਰ	ਸਿਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Gloss=on|Translit=sir
 7	ਉੱਤੇ	ਉੱਤੇ	ADP	_	_	6	case	_	Gloss=pat.PROG.F|Translit=utte
 8	ਥਪਥਪਾਉਂਦੀ	ਥਪਥਪਾਉਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=own|Translit=thapthapaundi
-9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	Gloss=skirt|Translit=hai,
+9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	Gloss=skirt|Translit=,hai
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=upward|Translit=apni
 11	ਆਪਣੀ	ਆਪਣਾ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	12	nmod:poss	_	Gloss=lift.PROG.F|Translit=skirt
 12	ਸਕਰਟ	ਸਕਰਟ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	Gloss=and|Translit=upar
@@ -3001,7 +3001,7 @@
 29	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 30	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 172
+# sent_id = pa_dyz-ud-train-126
 # text = ਮੈਂ ਤਾਂ ਏਦਾਂ ਹੀ ਦਿਨ-ਕਟੀ ਕਰ ਰਿਹਾ ਹਾਂ ।
 # translit = "Main taan edan hi din-kati kar riha haan."
 # gloss = 1SG EMPH like.this day-cutting do PROG be.PRES
@@ -3016,7 +3016,7 @@
 8	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=haan."
 9	।	_	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 96
+# sent_id = pa_dyz-ud-train-127
 # text = ਉਸੇ ਸਮੇਂ ਹਨੇਲੀ ਮੈਨੂੰ ਲੈਣ ਆਈ ਤੇ ਅਸੀਂ ਸਕੂਲ ਚਲੇ ਗਏ
 # translit = Use samein Hanneli mainu lain aayi te asi school chale gaye
 # gloss = at same time Hanneli me take INF come.PST.FEM.3SG and we school go.PST.MASC.PL.
@@ -3033,7 +3033,7 @@
 10	ਚਲੇ	ਚੱਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	11	compound:svc	_	Gloss=we|Translit=chale
 11	ਗਏ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Part	6	conj	_	Gloss=school|Translit=gaye
 
-# sent_id = 131
+# sent_id = pa_dyz-ud-train-128
 # text = ਤਿੰਨ ਮਹੀਨੇ ਪਹਿਲਾਂ ਕਿਸ ਨੇ ਸੋਚਿਆ ਸੀ ਕਿ ਨਟਖਟ ਐਨੀ ਨੂੰ ਇੱਕ ਖੂੰਜੇ ਵਿੱਚ ਘੰਟਿਆਂ ਬੱਧੀ ਚੁੱਪਚਾਪ ਬੈਠਣਾ ਪਵੇਗਾ , ਤੇ ਇਸਤੋਂ ਵੱਧ ਹੋਰ ਕੀ ਹੋਵੇਗਾ ਤੇ ਉਹ ਇਸਤੋਂ ਵੱਧ ਕੀ ਕਰ ਸਕਦੀ ਸੀ?
 # translit = Tinn maheene pehlan kis ne sochya si ki natkhat Anne nu ik khoonje vich ghanteyan baddhi chupp-chaap baithna pavega, te iston vadh hor ki hovega te oh iston vadh ki kar sakdi si?
 # gloss = three months before who think.PST AUX that naughty Anne ACC one hiding-place LOC hours bound quietly sit.INF must.FUT, and than.this more what happen.FUT and she than.this more what do.PST.COND?
@@ -3055,8 +3055,8 @@
 15	ਘੰਟਿਆਂ	ਘੰਟਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	Gloss=bound|Translit=ghanteyan
 16	ਬੱਧੀ	ਬੱਧੀ	ADJ	_	Degree=Pos	18	amod	_	Gloss=quietly|Translit=baddhi
 17	ਚੁੱਪਚਾਪ	ਚੁੱਪਚਾਪ	ADV	_	_	18	advmod	_	Gloss=sit.INF|Translit=chupp-chaap
-18	ਬੈਠਣਾ	ਬੈਠਣਾ	VERB	_	VerbForm=Inf	6	ccomp	_	Gloss=must.FUT,|Translit=baithna
-19	ਪਵੇਗਾ	ਪੈਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	conj	_	Gloss=and|Translit=pavega,
+18	ਬੈਠਣਾ	ਬੈਠਣਾ	VERB	_	VerbForm=Inf	6	ccomp	_	Gloss=,must.FUT|Translit=baithna
+19	ਪਵੇਗਾ	ਪੈਣਾ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	conj	_	Gloss=and|Translit=,pavega
 20	,	,	PUNCT	_	_	18	punct	_	Gloss=than.this|Translit=te
 21	ਤੇ	ਅਤੇ	CCONJ	_	_	18	cc	_	Gloss=more|Translit=iston
 22	ਇਸਤੋਂ	ਇਹ	DET	_	PronType=Dem	23	det	_	Gloss=what|Translit=vadh
@@ -3073,7 +3073,7 @@
 33	ਸਕਦੀ	ਸਕਣਾ	AUX	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	32	aux	_	Translit=si?
 34	ਸੀ?	ਸੀ	AUX	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	32	aux	_	_
 
-# sent_id = 64
+# sent_id = pa_dyz-ud-train-129
 # text = ਤੇ ਆਪਣੀ ਉਂਗਲ ਨੂੰ ਤਿਆਰ-ਬਰ-ਤਿਆਰ ਕਰੀ ਰੱਖਿਆ ਜਦ ਤੱਕ ਲਾੜੇ ਨੇ ਦਰਵਾਜ਼ੇ ਵਲ ਰਿੜ੍ਹਦੀ ਜਾਂਦੀ ਅੰਗੂਠੀ ਨੂੰ ਆਪਣੇ ਪੈਰ ਨਾਲ ਰੋਕ ਨਾ ਲਿਆ ਤੇ ਸ਼ਰਮਾਉਂਦਾ ਹੋਇਆ ਵੇਦੀ ਤੱਕ ਨਾ ਆ ਗਿਆ ।
 # translit = Tē āpaṇī uṅgal nūṅ tiyār-bar-tiyār karī rakkhi'ā jad tak lāṛē nē darvāzē val riṛhdī jāndī aṅgūṭhī nūṅ āpaṇē pair nāl rōk nā li'ā tē śarmā'undā hō'i'ā vēdī tak nā ā gi'ā.
 # gloss = and she finger ACC absolutely ready keep.PFV until bridegroom ERG door toward roll PROG ring ACC foot with stop.PFV and altar back come.PFV blush PROG shame LOC
@@ -3111,14 +3111,14 @@
 31	ਗਿਆ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	30	compound:svc	_	Translit=gi'ā
 32	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 236
+# sent_id = pa_dyz-ud-train-130
 # text = ਸਮਾਂ ਬੀਤਣ ਨਾਲ , ਸੂਰਜ ਦੀ ਗਰਮੀ ਨਾਲ ਉਹ ਪੱਕ ਕੇ ਸ਼ਹਿਦ ਵਾਂਗ ਮਿੱਠੇ ਹੋ ਜਾਂਦੇ ਹਨ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਅਸੀਂ ਅੰਗੂਰ ਕਹਿੰਦੇ ਹਾਂ ।
 # translit = Samay beetan naal, sooraj di garmi naal oh pakk ke shahad vaang mitthe ho jaande han ate ohnaan nu asi angoor kahnde haan.
 # gloss = time pass.INF INS sun GEN heat INS 3PL ripen CP honey like sweet become.PRES and 3PL.ACC 1PL grapes call.PRES
 # translation = With the passage of time, they ripen under the sun's heat, becoming as sweet as honey, and we call them grapes.
 1	ਸਮਾਂ	ਸਮਾਂ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Gloss=time|Translit=Samay
 2	ਬੀਤਣ	ਬੀਤਣਾ	VERB	_	Case=Acc|VerbForm=Inf	16	advcl	_	Gloss=pass.INF|Translit=beetan
-3	ਨਾਲ	ਨਾਲ	ADP	_	_	2	case	_	Gloss=INS|Translit=naal,
+3	ਨਾਲ	ਨਾਲ	ADP	_	_	2	case	_	Gloss=INS|Translit=,naal
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=sun|Translit=sooraj
 5	ਸੂਰਜ	ਸੂਰਜ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nmod:poss	_	Gloss=GEN|Translit=di
 6	ਦੀ	ਦਾ	ADP	_	Gender=Fem	5	case	_	Gloss=heat|Translit=garmi
@@ -3142,7 +3142,7 @@
 24	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 25	।	।	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 235
+# sent_id = pa_dyz-ud-train-131
 # text = ਇੱਕ ਪੁਰਾਣੇ ਦਰਖ਼ਤ ਦੇ ਤਣੇ ’ਤੇ ਟਹਿਣੀਆਂ ਲੱਗਦੀਆਂ ਹਨ ਤੇ ਪਹਿਲਾਂ ਉਹਨਾਂ 'ਤੇ ਹੋਰ ਕੁਝ ਨਹੀਂ , ਸਿਰਫ਼ ਮੋਤੀਆਂ ਵਰਗੇ ਖਟਾਸ ਭਰੇ ਗੁੱਛੇ ਹੀ ਥੱਲੇ ਲਟਕਦੇ ਦਿਸਦੇ ਹਨ ।
 # translit = Ikk puraane darkhat de tane ’te tahniyaan laggdiyaan han te pahilaan ohnaan 'te hor kujh nahi, siraf motiyaan varge khataas bhare guchhe hi thalle latakde disde han.
 # gloss = one old tree GEN trunk LOC twigs attach.PRES and first 3PL LOC other something NEG only pearls like sourness filled clusters EMPH down hang.PROGappear.PRES
@@ -3162,7 +3162,7 @@
 13	'ਤੇ	ਉੱਤੇ	ADP	_	_	12	case	_	Gloss=other|Translit='te
 14	ਹੋਰ	ਹੋਰ	DET	_	PronType=Ind	15	det	_	Gloss=something|Translit=hor
 15	ਕੁਝ	ਕੁਝ	PRON	_	Case=Nom|Number=Sing|PronType=Ind	16	nsubj	_	Gloss=NEG|Translit=kujh
-16	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	27	advmod	_	Gloss=only|Translit=nahi,
+16	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	27	advmod	_	Gloss=only|Translit=,nahi
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=pearls|Translit=siraf
 18	ਸਿਰਫ਼	ਸਿਰਫ਼	PART	_	_	23	advmod	_	Gloss=like|Translit=motiyaan
 19	ਮੋਤੀਆਂ	ਮੋਤੀ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	obl	_	Gloss=sourness|Translit=varge
@@ -3177,7 +3177,7 @@
 28	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
 29	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 37
+# sent_id = pa_dyz-ud-train-132
 # text = ਖਾਨਾਬਦੋਸ਼ ਔਰਤ ਨੂੰ ਪਿੰਡ ਦੇ ਕੋਨੇ ਤੇ ਖਲਾਰ ਕੇ ਦੂਰਬੀਨ ਉਨ੍ਹਾਂ ਤੰਬੂ ਦੇ ਦਰ ਤੇ ਟਿਕਾ ਦਿੱਤੀ ।
 # translit = Khānābadoś aurat nūṅ piṇḍ dē kōnē tē khalār kē dūrabīn uṇhāṅ tambū dē dar tē ṭikā dittī.
 # gloss = nomad woman ACC village GEN corner LOC stand having telescope they tent GEN entrance LOC place give.PST
@@ -3201,7 +3201,7 @@
 17	ਦਿੱਤੀ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Part	16	compound:svc	_	Gloss=give.PST|Translit=dittī
 18	।	।	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 186
+# sent_id = pa_dyz-ud-train-133
 # text = ਬਾਹਰ ਲਹਿਰਾਂ ਦਾ ਸ਼ੋਰ ਹੋ ਰਿਹਾ ਸੀ ਤੇ ਕੌਫ਼ੀ ਹਾਊਸ ਦੇ ਅੰਦਰ , ਕੁਝ ਹੁੱਕਿਆਂ ਤੋਂ ਗੁੜਗੁੜ ਦੀ ਆਵਾਜ਼ ਆ ਰਹੀ ਸੀ ।
 # translit = Baahar lahiran da shor ho riha si te coffee house de andar, kujh hukkian ton gurgur di aavaaz aa rahi si
 # gloss = outside  there be.PST DET roar GEN waves and inside DET coffee house DET sound GEN gurgling AUX.PST come.PROG PREP DET few hookahs
@@ -3217,7 +3217,7 @@
 9	ਕੌਫ਼ੀ	ਕੌਫ਼ੀ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	Gloss=inside|Translit=coffee
 10	ਹਾਊਸ	ਹਾਊਸ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	Gloss=DET|Translit=house
 11	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	9	case	_	Gloss=coffee|Translit=de
-12	ਅੰਦਰ	ਅੰਦਰ	ADV	_	_	20	obl	_	Gloss=house|Translit=andar,
+12	ਅੰਦਰ	ਅੰਦਰ	ADV	_	_	20	obl	_	Gloss=house|Translit=,andar
 13	,	,	PUNCT	_	_	12	punct	_	Gloss=DET|Translit=kujh
 14	ਕੁਝ	ਕੁਝ	DET	_	PronType=Ind	15	det	_	Gloss=sound|Translit=hukkian
 15	ਹੁੱਕਿਆਂ	ਹੁੱਕਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	20	obl	_	Gloss=GEN|Translit=ton
@@ -3230,7 +3230,7 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	Gloss=hookahs
 23	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 102
+# sent_id = pa_dyz-ud-train-134
 # text = ਜਦੋਂ ਮੈਂ ਘਰ ਪੁੱਜੀ ਤਾਂ ਸ਼ੈਨੀ ਲੈਂਡਰਮੈਨ ਉੱਥੇ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਸੀ ।
 # translit = Jadon main ghar pujji tan Sanne Ledermann uthe pehlan hi maujud si
 # gloss = When I home reach.PFV.FEM then Sanne Landerman there already present be.PST.
@@ -3249,7 +3249,7 @@
 12	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	cop	_	Translit=si
 13	।	।	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 128
+# sent_id = pa_dyz-ud-train-135
 # text = ਪਰ ਜਦੋਂ ਸਭ ਨੇ ਮੈਨੂੰ ਇਹ ਵਿਸ਼ਵਾਸ ਦਿਵਾਇਆ ਇਹ ਕੋਈ ਮਜ਼ਾਕ ਕਰਨ ਵਾਲਾ ਜਾਂ ਡਾਕੀਆ ਹੋਵੇਗਾ ਤਾਂ ਮੈਂ ਸ਼ਾਂਤ ਹੋ ਗਈ ।
 # translit = Par jadon sabh ne mainu ih vishwas divaya ih koi mazak karan wala ja dakiya hovega tan main shant ho gai.
 # gloss = But when everyone reassure.PST me that it must be.PRS a prankster or mailman,
@@ -3266,7 +3266,7 @@
 10	ਕੋਈ	ਕੋਈ	DET	_	PronType=Ind	11	det	_	Gloss=a|Translit=koi
 11	ਮਜ਼ਾਕ	ਮਜ਼ਾਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	Gloss=prankster|Translit=mazak
 12	ਕਰਨ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	16	xcomp	_	Gloss=or|Translit=karan
-13	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	12	case	_	Gloss=mailman,|Translit=wala
+13	ਵਾਲਾ	ਵਾਲਾ	ADP	_	Gender=Masc|Number=Sing	12	case	_	Gloss=,mailman|Translit=wala
 14	ਜਾਂ	ਜਾਂ	CCONJ	_	_	15	cc	_	Translit=ja
 15	ਡਾਕੀਆ	ਡਾਕੀਆ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	Translit=dakiya
 16	ਹੋਵੇਗਾ	ਹੋਣਾ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Fut|VerbForm=Fin	20	ccomp	_	Translit=hovega
@@ -3277,7 +3277,7 @@
 21	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	20	compound:svc	_	Translit=gai
 22	।	।	PUNCT	_	_	20	punct	_	_
 
-# sent_id = 185
+# sent_id = pa_dyz-ud-train-136
 # text = ਇੱਕ ਪਲ ਵਾਸਤੇ ਚੁੱਪੀ ਛਾ ਗਈ । ਸਾਰੇ ਜਣੇ ਬਾਹਰ ਅਸਮਾਨ ਵੱਲ ਦੇਖਣ ਲੱਗ ਪਏ , ਜਿਹੜਾ ਮਟਮੈਲਾ ਜਿਹਾ ਜਾਪ ਰਿਹਾ ਸੀ ।
 # translit = Ik pal vaaste chuppi chha gayi. Saare jane baahar asmaan vall dekhan lagg paye, jihra matmaila jiha jaap riha si."
 # gloss = for   a   moment   silence descend.PST everyone start.PST look.PROG out toward sky which  AUX.PST appear.PROG somewhat murky
@@ -3295,7 +3295,7 @@
 11	ਅਸਮਾਨ	ਅਸਮਾਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	Gloss=sky|Translit=vall
 12	ਵੱਲ	ਵੱਲ	ADP	_	_	11	case	_	Gloss=which|Translit=dekhan
 13	ਦੇਖਣ	ਦੇਖਣਾ	VERB	_	VerbForm=Inf	0	root	_	Gloss=AUX.PST|Translit=lagg
-14	ਲੱਗ	ਲੱਗਣਾ	VERB	_	Mood=Ind	13	compound:svc	_	Gloss=appear.PROG|Translit=paye,
+14	ਲੱਗ	ਲੱਗਣਾ	VERB	_	Mood=Ind	13	compound:svc	_	Gloss=appear.PROG|Translit=,paye
 15	ਪਏ	ਪੈਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	13	aux	_	Gloss=somewhat|Translit=jihra
 16	,	,	PUNCT	_	_	20	punct	_	Gloss=murky|Translit=matmaila
 17	ਜਿਹੜਾ	ਜਿਹੜਾ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	Translit=jiha
@@ -3306,13 +3306,13 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	cop	_	_
 23	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 181
+# sent_id = pa_dyz-ud-train-137
 # text = ਇੱਕ ਪੀਲੇ , ਨੀਲੇ ਤੇ ਹਰੇ ਰੰਗ ਦੀ ਭਾਅ ਮਾਰਦਾ ਚਾਨਣ ਕੌਫ਼ੀ ਹਾਊਸ ਦੀਆਂ ਬਾਰੀਆਂ ਦੇ ਅੰਦਰ ਲੰਘ ਕੇ ਲੋਕਾਂ ਦੇ ਹੱਥਾਂ , ਨੱਕਾਂ ਤੇ ਮੱਥਿਆਂ ’ਤੇ ਪੈਣ ਲੱਗਾ ।
 # translit = "Ik peele, neele te hare rang di bhaa marda chanan coffee house dian baarian de andar langh ke lokan de hathan, nakkan te matthian 'te pain lagga.
 # gloss = one yellow, blue and green color GEN shimmering strike-PROG light coffee house GEN windows through inside passing people GEN hands, noses and foreheads on fall.INF begin.PST
 # translation = A shimmering light of yellow, blue, and green passed through the coffee house windows, casting itself upon the hands, noses, and foreheads of the people inside.
 1	ਇੱਕ	ਇੱਕ	NUM	_	_	11	nummod	_	Gloss=one|Translit="Ik
-2	ਪੀਲੇ	ਪੀਲਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Gloss=yellow,|Translit=peele,
+2	ਪੀਲੇ	ਪੀਲਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	Gloss=,yellow|Translit=,peele
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=blue|Translit=neele
 4	ਨੀਲੇ	ਨੀਲਾ	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	Gloss=and|Translit=te
 5	ਤੇ	ਅਤੇ	ADP	_	_	4	cc	_	Gloss=green|Translit=hare
@@ -3330,8 +3330,8 @@
 17	ਅੰਦਰ	ਅੰਦਰ	ADV	_	_	18	advmod	_	Gloss=passing|Translit=langh
 18	ਲੰਘ	ਲੰਘਣਾ	VERB	_	VerbForm=Conv	28	advcl	_	Gloss=people|Translit=ke
 19	ਕੇ	ਕੇ	ADP	_	_	18	mark	_	Gloss=GEN|Translit=lokan
-20	ਲੋਕਾਂ	ਲੋਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	22	nmod	_	Gloss=hands,|Translit=de
-21	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	20	case	_	Gloss=noses|Translit=hathan,
+20	ਲੋਕਾਂ	ਲੋਕ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	22	nmod	_	Gloss=,hands|Translit=de
+21	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	20	case	_	Gloss=noses|Translit=,hathan
 22	ਹੱਥਾਂ	ਹੱਥ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	28	obl	_	Gloss=and|Translit=nakkan
 23	,	,	PUNCT	_	_	22	punct	_	Gloss=foreheads|Translit=te
 24	ਨੱਕਾਂ	ਨੱਕ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	conj	_	Gloss=on|Translit=matthian
@@ -3342,7 +3342,7 @@
 29	ਲੱਗਾ	ਲੱਗਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 30	।	।	PUNCT	_	_	29	punct	_	_
 
-# sent_id = 55
+# sent_id = pa_dyz-ud-train-138
 # text = ਇਹ ਚੂਰ-ਚੂਰ ਕਰ ਦੇਣ ਵਾਲਾ ਕੰਮ ਸੀ ਪਰ ਰਸਮ ਲਈ ਨੀਯਤ ਹੋਈ ਮਿਤੀ ਤੱਕ ਉਹ ਬਾਲੜੀ ਦੁਨੀਆਂਦਾਰੀ ਦੇ ਮਾਮਲਿਆਂ ਵਿਚ ਆਪਣੀਆਂ ਭੈਣਾਂ ਜਿੰਨੀ ਹੀ ਨਿਪੁੰਨ ਹੋ ਗਈ ਸੀ ।
 # translit = Ih cūr-cūr kar dēṇa vālā kamm sī par rasam la'ī nīyat hō'ī mitī tak uh bālaṛī dunī'āṅdārī dē māmli'āṅ vic āpaṇī'āṅ bhaiṇāṅ jinnī hī nipuň d hō ga'ī sī.
 # gloss = it be.PST exhausting task but ceremony for fix.PFV date until she sisters GEN as much proficient become.PFV be.PST worldly affairs GEN matters LOC
@@ -3377,7 +3377,7 @@
 28	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	26	aux	_	Translit=ga'ī
 29	।	।	PUNCT	_	_	26	punct	_	Translit=sī
 
-# sent_id = 17
+# sent_id = pa_dyz-ud-train-139
 # text = ‘ਵਸਤਾਂ ਵਿੱਚ ਵੀ ਜਿੰਦ ਜਾਨ ਹੁੰਦੀ ਐ' , ਖਾਨਾਬਦੋਸ਼ ਨੇ ਖਰਵੀ ਸੁਰ ਵਿੱਚ ਆਖਿਆ ।
 # translit = ‘vastāṅ vic vī jind jān hundī ai’, khānābadōś nē kharvī sur vic ākhia
 # gloss = things-PL LOC also life soul be-IPFV COP.PRES gypsy ERG harsh-F voice LOC say-PST
@@ -3388,7 +3388,7 @@
 4	ਜਿੰਦ	ਜਿੰਦ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	compound	_	Gloss=life|Translit=jind
 5	ਜਾਨ	ਜਾਨ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Gloss=soul|Translit=jān
 6	ਹੁੰਦੀ	ਹੋਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	Gloss=be-IPFV|Translit=hundī
-7	ਐ'	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Gloss=COP.PRES|Translit=ai’,
+7	ਐ'	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Gloss=COP.PRES|Translit=,ai’
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=gypsy|Translit=khānābadōś
 9	ਖਾਨਾਬਦੋਸ਼	ਖਾਨਾਬਦੋਸ਼	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	nsubj	_	Gloss=ERG|Translit=nē
 10	ਨੇ	ਨੇ	ADP	_	_	9	case	_	Gloss=harsh-F|Translit=kharvī
@@ -3398,7 +3398,7 @@
 14	ਆਖਿਆ	ਆਖਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Imp|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 15	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 157
+# sent_id = pa_dyz-ud-train-140
 # text = ਹੁਣ ਮਾਰਗਰੇਟ ਨੂੰ ਇਹਦਾ ਖ਼ਮਿਆਜ਼ਾ ਉਠਾਉਣਾ ਪਵੇਗਾ ਜਾਂ ਫਿਰ ਨਾ ਉਠਾਵੇ ਕਿਉਂਕਿ ਮਾਂ ਉਸ ਉੱਤੇ ਇਸ ਤਰ੍ਹਾਂ ਦੀ ਵਿਅੰਗਾਤਮਕ ਟਿੱਪਣੀ ਨਹੀਂ ਕਰਦੀ ।
 # translit = Hun Margaret nu ihda khamiaza uthauna pavega jaan phir na uthave kyunki maan us utte is tarah dee viangaatmak tippani nahi kardi
 # gloss = Now Margaret will have to suffer.PRS the consequences of this, or maybe she will not have to suffer.PRS because the mother not make.PRS this kind of sarcastic comment on her.
@@ -3412,7 +3412,7 @@
 7	ਪਵੇਗਾ	ਪੈਣਾ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	Gloss=the|Translit=pavega
 8	ਜਾਂ	ਜਾਂ	CCONJ	_	_	11	cc	_	Gloss=consequences|Translit=jaan
 9	ਫਿਰ	ਫਿਰ	ADV	_	_	11	advmod	_	Gloss=of|Translit=phir
-10	ਨਾ	ਨਾ	PART	_	_	11	advmod	_	Gloss=this,|Translit=na
+10	ਨਾ	ਨਾ	PART	_	_	11	advmod	_	Gloss=,this|Translit=na
 11	ਉਠਾਵੇ	ਉਠਾਉਣਾ	VERB	_	Number=Sing|Person=3	6	conj	_	Gloss=or|Translit=uthave
 12	ਕਿਉਂਕਿ	ਕਿਉਂਕਿ	SCONJ	_	_	22	mark	_	Gloss=maybe|Translit=kyunki
 13	ਮਾਂ	ਮਾਂ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	Gloss=she|Translit=maan
@@ -3427,13 +3427,13 @@
 22	ਕਰਦੀ	ਕਰਨਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	11	advcl	_	Gloss=not|Translit=kardi
 23	।	।	PUNCT	_	_	6	punct	_	Gloss=make.PRS
 
-# sent_id = 103
+# sent_id = pa_dyz-ud-train-141
 # text = ਇਲਸੀ ਵੈਗਨਰ , ਹਨੇਲੀ ਗੋਸਲਰ ਅਤੇ ਜੈਕਲਿਨ ਵੈਨ ਮਰਸੇਨ ਜਿਮ ਪਿੱਛੋਂ ਮੇਰੇ ਨਾਲ ਘਰ ਆਏ ਸਨ , ਕਿਉਂਕਿ ਅਸੀਂ ਇੱਕ ਹੀ ਕਲਾਸ ਵਿੱਚ ਸਾਂ ।
 # translit = Ilse Wagner, Hanneli Goslar ate Jacqueline van Maarsen gym pichhon mere naal ghar aaye san, kyunki asi ik hi class vich san
 # gloss = Ilse Wagner, Hanneli Goslar and Jacqueline van Maarsen gym after with-me home come.PFV.PL be.PST, because we one same class LOC be.PST.
 # translation = Ilse Wagner, Hanneli Goslar and Jacqueline van Maarsen came home with me after gym, since we were in the same class.
 1	ਇਲਸੀ	ਇਲਸੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	Gloss=Ilse|Translit=Ilse
-2	ਵੈਗਨਰ	ਵੈਗਨਰ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	Gloss=Wagner,|Translit=Wagner,
+2	ਵੈਗਨਰ	ਵੈਗਨਰ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	Gloss=,Wagner|Translit=,Wagner
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=Hanneli|Translit=Hanneli
 4	ਹਨੇਲੀ	ਹਨੇਲੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Gloss=Goslar|Translit=Goslar
 5	ਗੋਸਲਰ	ਗੋਸਲਰ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	flat	_	Gloss=and|Translit=ate
@@ -3445,8 +3445,8 @@
 11	ਪਿੱਛੋਂ	ਪਿੱਛੋਂ	ADP	_	_	10	case	_	Gloss=with-me|Translit=mere
 12	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nmod:poss	_	Gloss=home|Translit=naal
 13	ਨਾਲ	ਨਾਲ	ADP	_	_	12	case	_	Gloss=come.PFV.PL|Translit=ghar
-14	ਘਰ	ਘਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Gloss=be.PST,|Translit=aaye
-15	ਆਏ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=because|Translit=san,
+14	ਘਰ	ਘਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Gloss=,be.PST|Translit=aaye
+15	ਆਏ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	Gloss=because|Translit=,san
 16	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	15	aux	_	Gloss=we|Translit=kyunki
 17	,	,	PUNCT	_	_	15	punct	_	Gloss=one|Translit=asi
 18	ਕਿਉਂਕਿ	ਕਿਉਂਕਿ	SCONJ	_	_	24	mark	_	Gloss=same|Translit=ik
@@ -3458,7 +3458,7 @@
 24	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	ccomp	_	_
 25	।	।	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 81
+# sent_id = pa_dyz-ud-train-142
 # text = 12 ਜੂਨ 1942
 # translit = Barah Jun Unni Sau Biaali
 # gloss = NUM.DAY month June NUM.YEAR.
@@ -3467,7 +3467,7 @@
 2	ਜੂਨ	ਜੂਨ	PROPN	_	Number=Sing	0	root	_	Gloss=month|Translit=Jun
 3	1942	1942	NUM	_	NumType=Card	2	nmod:tmod	_	Gloss=June|Translit=Unni
 
-# sent_id = 226
+# sent_id = pa_dyz-ud-train-143
 # text = ਅਸੀਂ ਜਿਨ੍ਹਾਂ ਚੀਜ਼ਾਂ ਦੇ ਆਦੀ ਹੋ ਚੁੱਕੇ ਹਾਂ ਤੇ ਜਿਹਨਾਂ ਲਾਗਿਉ ਅਸੀਂ ਬੇਲਾਗ ਹੋ ਕੇ ਲੰਘ ਜਾਂਦੇ ਹਾਂ , ਉਹ ਚੀਜ਼ਾਂ ਜ਼ੋਰਬਾ ਸਾਹਮਣੇ ਡਰਾਉਣੇ ਰਹੱਸ ਵਾਂਗਰ ਉੱਭਰ ਆਉਂਦੀਆਂ ਹਨ ।
 # translit = Asi jinhaan cheezan de aadi ho chukke haan te jihannaan laagio asi belaag ho ke langh jaande haan, uh cheezan Zorba saahmane daraune rahas vaangar ubbhar aundiaan han.
 # gloss = WeSUBJ which things GEN accustomed be PERF.PL PRES.AUX.1PL and which past-ABL weSUBJ indifferent be CONJ pass go-PRES PRES.AUX.1PL, those thingsSUBJ Zorba front-LOC terrifying mystery like rise come-PRES PRES.AUX.3PL.
@@ -3489,7 +3489,7 @@
 15	ਕੇ	ਕੇ	PART	_	_	14	case	_	Gloss=CONJ|Translit=ke
 16	ਲੰਘ	ਲੰਘਣਾ	VERB	_	_	17	compound:svc	_	Gloss=pass|Translit=langh
 17	ਜਾਂਦੇ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	6	acl:relcl	_	Gloss=go-PRES|Translit=jaande
-18	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	Gloss=PRES.AUX.1PL,|Translit=haan,
+18	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	Gloss=,PRES.AUX.1PL|Translit=,haan
 19	,	,	PUNCT	_	_	17	punct	_	Gloss=those|Translit=uh
 20	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	21	det	_	Gloss=thingsSUBJ|Translit=cheezan
 21	ਚੀਜ਼ਾਂ	ਚੀਜ਼	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	27	nsubj	_	Gloss=Zorba|Translit=Zorba
@@ -3503,7 +3503,7 @@
 29	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
 30	।	।	PUNCT	_	_	27	punct	_	_
 
-# sent_id = 171
+# sent_id = pa_dyz-ud-train-144
 # text = ਤੇ ਰਾਤ ਨੂੰ ਕਿਰਾਏ ਦੇ ਮਕਾਨ 'ਚ ਚਲੇ ਜਾਈਦਾ !
 # translit = Te raat nu kiraye de makaan 'ch chale jaaida!
 # gloss = and night DAT rented house LOC go HAB
@@ -3519,7 +3519,7 @@
 9	ਜਾਈਦਾ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	8	compound:svc	_	Translit=jaaida!
 10	!	!	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 15
+# sent_id = pa_dyz-ud-train-145
 # text = ਬਹੁਤ ਚਿਰ ਤੋਂ ਅਲੱਭ ਹੋ ਚੁੱਕੀਆਂ ਵਸਤਾਂ ਉਨ੍ਹਾਂ ਥਾਵਾਂ ਤੇ ਦਿਖਣ ਲੱਗ ਪੈਂਦੀਆਂ ਸਨ ਜਿਥੇ ਉਨ੍ਹਾਂ ਨੂੰ ਸਾਲਾਂ ਬੱਧੀ ਭਾਲਣ ਦਾ ਯਤਨ ਹੋਇਆ ਸੀ ।
 # translit = bahut cir tōṅ alabbh hō cukkīāṅ vastāṅ unhāṅ thāvāṅ tē dikkhaṇ lagg paiṇdīāṅ san jithē unhāṅ nūṅ sālāṅ baddhī bhālaṇ dā yatan hoiā sī
 # gloss = long.time since rare become.PTCP objects those places LOC appear begin AUX.PST where them years many search GEN effort happen PST
@@ -3550,18 +3550,18 @@
 24	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	23	aux	_	Translit=sī
 25	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 84
+# sent_id = pa_dyz-ud-train-146
 # text = ਐਤਵਾਰ , 14 ਜੂਨ 1942
 # translit = Aitwar, Chodah Jun Unni Sau Biaali
 # gloss = Sunday NUM.DAY month June NUM.YEAR.
 # translation = sunday, 14th June 1942
-1	ਐਤਵਾਰ	ਐਤਵਾਰ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod:tmod	_	Gloss=Sunday|Translit=Aitwar,
+1	ਐਤਵਾਰ	ਐਤਵਾਰ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod:tmod	_	Gloss=Sunday|Translit=,Aitwar
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=NUM.DAY|Translit=Chodah
 3	14	14	NUM	_	_	4	nummod	_	Gloss=month|Translit=Jun
 4	ਜੂਨ	ਜੂਨ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=June|Translit=Unni
 5	1942	1942	NUM	_	_	4	nummod	_	Gloss=NUM.YEAR|Translit=Sau
 
-# sent_id = 211
+# sent_id = pa_dyz-ud-train-147
 # text = ਉਸ ਤੋਂ ਬਾਅਦ ਉਹ ਆਪਣੇ ਦੀਵਾਨ ’ਤੇ ਬੈਠ ਕੇ , ਆਪਣਾ ਲੰਬੀ ਨੜੀ ਵਾਲਾ ਤੁਰਕੀ ਹੁੱਕਾ ਸੁਲਘਾ ਲੈਂਦਾ ਅਤੇ ਆਪਣੇ ਮਹਿਮਾਨ ਵੱਲ ਮੂੰਹ ਕਰਦਾ—ਜਿਸ ਦਾ ਹੁਣ ਉਸ ਦੀ ਮਹਿਮਾਨ ਨਿਵਾਜ਼ੀ ਦੀ ਸੇਵਾ ਦਾ ਬਦਲਾ ਚੁਕਾਉਣ ਦਾ ਸਮਾਂ ਆ ਜਾਂਦਾ ਸੀ ਤੇ ਰੋਅਬ ਪਾਉਣ ਦੇ ਲਹਿਜ਼ੇ 'ਚ ਕਹਿੰਦਾ : ਗੱਲ ਕਰ ਕੋਈ !
 # translit = Us ton baad uh aapne deevan 'te baith ke, aapna lambi nari wala turki hukka sulgha lainda ate aapne mehman vall munh karda—jis da hun usdi mehmannawazi di seva da badla chukaun da samay aa janda si te roab paun de lahze 'ch kehnda: gall kar koi!
 # gloss = then   seat.PTCP on his divan he AUX.COND light DET long-piped Turkish hookah and face.PST DET guest whose time AUX.PST now come.PST INF repay DET hospitality and say.PST PREP DET commanding tone  tell IMP PRON something
@@ -3574,7 +3574,7 @@
 6	ਦੀਵਾਨ	ਦੀਵਾਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	Gloss=he|Translit=deevan
 7	’ਤੇ	ਉੱਤੇ	ADP	_	_	6	case	_	Gloss=AUX.COND|Translit='te
 8	ਬੈਠ	ਬੈਠਣਾ	VERB	_	VerbForm=Conv	17	advcl	_	Gloss=light|Translit=baith
-9	ਕੇ	ਕੇ	SCONJ	_	_	8	mark	_	Gloss=DET|Translit=ke,
+9	ਕੇ	ਕੇ	SCONJ	_	_	8	mark	_	Gloss=DET|Translit=,ke
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=long-piped|Translit=aapna
 11	ਆਪਣਾ	ਆਪਣਾ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	16	nmod:poss	_	Gloss=Turkish|Translit=lambi
 12	ਲੰਬੀ	ਲੰਬਾ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	Gloss=hookah|Translit=nari
@@ -3619,16 +3619,16 @@
 51	ਕੋਈ	ਕੋਈ	DET	_	PronType=Ind	49	det	_	_
 52	!	!	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 143
+# sent_id = pa_dyz-ud-train-148
 # text = ਉਹਨੇ ਇੱਕ ਟੋਪ ਪਹਿਨਿਆ ਸੀ , ਮੈਂ ਇੱਕ ਟੋਪੀ ਪਹਿਨੀ ਸੀ ।
 # translit = Ohne ik top pehnia si, main ik topi pehni si.
 # gloss = He/She wear.PST.3SG hat, I wear.PST.1SG cap.
 # translation = He/She wore a hat, I wore a cap.
 1	ਉਹਨੇ	ਉਹ	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=He/She|Translit=Ohne
 2	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	3	det	_	Gloss=wear.PST.3SG|Translit=ik
-3	ਟੋਪ	ਟੋਪ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	Gloss=hat,|Translit=top
+3	ਟੋਪ	ਟੋਪ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	Gloss=,hat|Translit=top
 4	ਪਹਿਨਿਆ	ਪਹਿਨਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=I|Translit=pehnia
-5	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux	_	Gloss=wear.PST.1SG|Translit=si,
+5	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux	_	Gloss=wear.PST.1SG|Translit=,si
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=cap|Translit=main
 7	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Translit=ik
 8	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	9	det	_	Translit=topi
@@ -3637,7 +3637,7 @@
 11	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	_
 12	।	।	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 70
+# sent_id = pa_dyz-ud-train-149
 # text = ਸ਼ੋਰ ਵਾਲੇ ਇਸ ਜਸ਼ਨ ਵਿਚ ਜੋ ਸੋਮਵਾਰ ਤੜਕੇ ਸਵੇਰ ਤੱਕ ਚੱਲਦਾ ਰਿਹਾ ਜੇ ਕੋਈ ਨਾਖੁਸ਼ ਸੀ ਤਾਂ ਉਹ ਰੈਬੇਕਾ ਸੀ ।
 # translit = Śōra vālē isa jaśana vica jō sōmavāra taṛakē savēra tak caladā rihā jē kō'ī nākhuśa sī tāṅ uh raibēkā sī.
 # gloss = noise with this celebration LOC REL Monday dawn morning until continue PROG PST if someone unhappy COP.PST then that Rebecca COP.PST
@@ -3664,19 +3664,19 @@
 20	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=Rebecca|Translit=sī
 21	।	।	PUNCT	_	_	20	punct	_	Gloss=COP.PST
 
-# sent_id = 166
+# sent_id = pa_dyz-ud-train-150
 # text = ਪੰਜ-ਛੇ ਆਦਮੀਆਂ , ਜਿਨ੍ਹਾਂ ਨੇ ਇਥੇ ਰਾਤ ਬਿਤਾਈ ਸੀ , ਉਹ ਬੱਕਰੀ ਦੀ ਖੱਲ ਤੋਂ ਬਣੀਆਂ ਘੁਟਵੀਆਂ ਜੈਕਟਾਂ ਪਾਈ ਕੌਫ਼ੀ ਜਾਂ ਕਾਹੜਾ ਪੀ ਰਹੇ ਸਨ ਅਤੇ ਧੁੰਦਲੀਆਂ ਬਾਰੀਆਂ ਰਾਹੀਂ ਬਾਹਰ ਸਮੁੰਦਰ ਵੱਲ ਦੇਖ ਰਹੇ ਸਨ ।
 # translit = Panj-chhe aadmiyaan, jinhaan ne ithe raat bitaayi si, oh bakri di khall ton baniyaan ghutviyaan jacketaan paayi coffee jaan kaahrha pee rahe san ate dhundliyaan baariyaan raahi baahar samundar vall dekh rahe san
 # gloss = five-six   men.PL,  who  ERG  here  night  spent  AUX.PST they goat GEN  skin   from made.PL tight  jackets   wear.PFV coffee   or   decoction drink PROG  AUX.PST.PL and foggy .PL windows through outside sea  toward look  PROG  AUX.PST.PL
 # translation = Five or six men, who had spent the night here, wearing tight-fitting jackets made of goatskin, were drinking coffee or decoction and looking out through the foggy windows towards the sea.
 1	ਪੰਜ-ਛੇ	ਪੰਜ-ਛੇ	NUM	_	_	2	nummod	_	Gloss=five-six|Translit=Panj-chhe
-2	ਆਦਮੀਆਂ	ਆਦਮੀ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	23	nsubj	_	Gloss=men.PL,|Translit=aadmiyaan,
+2	ਆਦਮੀਆਂ	ਆਦਮੀ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	23	nsubj	_	Gloss=,men.PL|Translit=,aadmiyaan
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=who|Translit=jinhaan
 4	ਜਿਨ੍ਹਾਂ	ਜੋ	PRON	_	PronType=Dem	8	nsubj	_	Gloss=ERG|Translit=ne
 5	ਨੇ	ਨੇ	ADP	_	_	4	case	_	Gloss=here|Translit=ithe
 6	ਇਥੇ	ਇੱਥੇ	ADV	_	_	8	advmod	_	Gloss=night|Translit=raat
 7	ਰਾਤ	ਰਾਤ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Gloss=spent|Translit=bitaayi
-8	ਬਿਤਾਈ	ਬਿਤਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	23	acl:relcl	_	Gloss=AUX.PST|Translit=si,
+8	ਬਿਤਾਈ	ਬਿਤਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	23	acl:relcl	_	Gloss=AUX.PST|Translit=,si
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	Gloss=they|Translit=oh
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=goat|Translit=bakri
 11	ਉਹ	ਉਹ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	2	appos	_	Gloss=GEN|Translit=di
@@ -3706,7 +3706,7 @@
 35	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	33	aux	_	_
 36	।	।	PUNCT	_	_	23	punct	_	_
 
-# sent_id = 119
+# sent_id = pa_dyz-ud-train-151
 # text = ਉਹ ਸਕੂਲ ਵਿੱਚ ਬਹੁਤ ਚੰਗਾ ਕੰਮ ਕਰਦੀ ਹੈ ਪਰ ਇਸ ਕਰਕੇ ਕਿਉਂਕਿ ਉਹ ਬਹੁਤ ਮਿਹਨਤ ਨਾਲ ਕੰਮ ਕਰਦੀ ਹੈ ।
 # translit = Oh school vich bahut changa kamm kardi hai par is karke kyunki oh bahut mihnat naal kamm kardi hai.
 # gloss = she do.PRS very good work at school, but that be.PRS because she work.PRS so hard.
@@ -3717,7 +3717,7 @@
 4	ਬਹੁਤ	ਬਹੁਤ	ADV	_	_	5	advmod	_	Gloss=good|Translit=bahut
 5	ਚੰਗਾ	ਚੰਗਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Gloss=work|Translit=changa
 6	ਕੰਮ	ਕੰਮ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Gloss=at|Translit=kamm
-7	ਕਰਦੀ	ਕਰਨਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=school,|Translit=kardi
+7	ਕਰਦੀ	ਕਰਨਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=,school|Translit=kardi
 8	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Gloss=but|Translit=hai
 9	ਪਰ	ਪਰ	CCONJ	_	_	7	cc	_	Gloss=that|Translit=par
 10	ਇਸ	ਇਸ	DET	_	PronType=Dem	18	obl	_	Gloss=be.PRS|Translit=is
@@ -3732,7 +3732,7 @@
 19	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	Translit=hai
 20	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 204
+# sent_id = pa_dyz-ud-train-152
 # text = ਇੱਕ ਵਾਰੀ ਉਸ ਨੇ ਮੈਨੂੰ ਆਪਣੇ ਵੱਲ ਕਾਫ਼ੀ ਸਮੇਂ ਤੋਂ ਅਤੇ ਉਤਸੁਕਤਾ ਨਾਲ ਦੇਖਦਿਆਂ ਹੋਇਆਂ ਦੇਖ ਵੀ ਲਿਆ ਸੀ ।
 # translit = Ikk vaari us ne mainu aapne vall kaafi samay ton ate utsukta naal dekhdiyan hoiyan dekh vi liya si
 # gloss = once he AUX.PAST.PERF even catch.PFV 1SG.ACC look.PROG PREP 3SG.MASC.OBJ for long time and with great curiosity.
@@ -3758,7 +3758,7 @@
 19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	aux	_	Translit=si
 20	।	।	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 238
+# sent_id = pa_dyz-ud-train-153
 # text = ਇਹ ਆਪਣੇ ਆਪ ਖਮੀਰਾ ਹੋ ਜਾਂਦਾ ਹੈ ਤੇ ਇਸ ਨੂੰ ਅਸੀਂ St . John-the-Drinker (ਚਾਰ ਅੰਜੀਲਾਂ ਦੇ ਲੇਖਕਾਂ ਵਿਚੋਂ ਇੱਕ ਲੇਖਕ) ਦਾ ਤਿਉਹਾਰ ਮਨਾਉਣ ਵਾਲੇ ਦਿਨ ਖੋਲ੍ਹਦੇ ਹਾਂ , ਇਹ ਤਾਂ ਸ਼ਰਾਬ ਬਣੀ ਹੁੰਦੀ ਹੈ !
 # translit = Eh aapne aap khameera ho jaanda hai te is nu asi St. John-the-Drinker (chaar anjeelaan de lekhaan vichon ikk lekhak) da tihar manaun vaale din kholhde haan, eh taan sharaab bani hundi hai!
 # gloss = 3SG REFL EMPH ferment become.PRES and 1PL 3SG.ACC Saint John-the-Drinker GEN festival GEN day LOC open.PRES 3SG.GEN author GEN four Gospels by.then 3SG wine become.PERFbe.PRES
@@ -3789,7 +3789,7 @@
 24	ਮਨਾਉਣ	ਮਨਾਉਣਾ	VERB	_	VerbForm=Inf	26	acl	_	Gloss=wine|Translit=vaale
 25	ਵਾਲੇ	ਵਾਲਾ	ADP	_	Case=Acc|Gender=Masc|Number=Sing	24	case	_	Gloss=become.PERFbe.PRES|Translit=din
 26	ਦਿਨ	ਦਿਨ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	obl	_	Translit=kholhde
-27	ਖੋਲ੍ਹਦੇ	ਖੋਲ੍ਹਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	5	conj	_	Translit=haan,
+27	ਖੋਲ੍ਹਦੇ	ਖੋਲ੍ਹਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	5	conj	_	Translit=,haan
 28	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	Translit=eh
 29	,	,	PUNCT	_	_	27	punct	_	Translit=taan
 30	ਇਹ	ਇਹ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	33	nsubj	_	Translit=sharaab
@@ -3800,7 +3800,7 @@
 35	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
 36	!	!	PUNCT	_	_	27	punct	_	_
 
-# sent_id = 137
+# sent_id = pa_dyz-ud-train-154
 # text = ਖੁਸ਼ਕਿਸਮਤੀ ਨਾਲ ਉਹ ਨਾ ਤਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਸੋਹਣੀ ਲੱਗਦੀ ਹੈ ਅਤੇ ਨਾ ਹੀ ਆਕਰਸ਼ਕ ਇਸ ਲਈ ਉਸ ਦੀਆਂ ਠਰਕੀ ਗੱਲਾਂ ਦਾ ਜਵਾਬ ਨਹੀਂ ਦਿੰਦੇ ।
 # translit = Khushkismati nal uh na ta unha nu sohni laggdi hai ate na hi aakarshak is lai us diyan tharki gallan da jawab nahi dinde
 # gloss = fortunately he find.PRS her neither beautiful nor attractive, so he do.PRS not respond to her flirtatious advances.
@@ -3812,7 +3812,7 @@
 5	ਤਾਂ	ਤਾਂ	PART	_	_	9	discourse	_	Gloss=neither|Translit=ta
 6	ਉਨ੍ਹਾਂ	ਉਹ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	Gloss=beautiful|Translit=unha
 7	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	6	case	_	Gloss=nor|Translit=nu
-8	ਸੋਹਣੀ	ਸੋਹਣਾ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	xcomp	_	Gloss=attractive,|Translit=sohni
+8	ਸੋਹਣੀ	ਸੋਹਣਾ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	xcomp	_	Gloss=,attractive|Translit=sohni
 9	ਲੱਗਦੀ	ਲੱਗਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=so|Translit=laggdi
 10	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=he|Translit=hai
 11	ਅਤੇ	ਅਤੇ	CCONJ	_	_	14	cc	_	Gloss=do.PRS|Translit=ate
@@ -3831,7 +3831,7 @@
 24	ਦਿੰਦੇ	ਦੇਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	9	conj	_	Translit=dinde
 25	।	।	PUNCT	_	_	24	punct	_	_
 
-# sent_id = 44
+# sent_id = pa_dyz-ud-train-155
 # text = ਸ਼ਾਦੀ ਉਸ ਵੇਦੀ ਦੇ ਸਾਹਮਣੇ ਹੋਈ ਜੋ ਨਿਕਾਨੌਰ ਰੇਨਾ ਨਾਮੀਂ ਪਾਦਰੀ ਦੇ ਵਰਾਂਡੇ ਵਿਚ ਬਣਾਈ ਗਈ ਸੀ ।
 # translit = Śādī us vēdī dē sāhmaṇē hō'ī jō nikānaur rēnā nāmīṅ pādarī dē varāṇḍē vic baṇā'ī ga'ī sī.
 # gloss = marriage that altar GEN front happen.PST REL Nicanor Rena named priest GEN veranda in make PASS.PST be.PST
@@ -3855,7 +3855,7 @@
 17	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	aux	_	Gloss=be.PST|Translit=sī
 18	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 19
+# sent_id = pa_dyz-ud-train-156
 # text = ਹੋਸਿ ਆਰਕੇਦੀਓ ਬੂਇੰਦੀਆ ਦਾ ਬੇਮੁਹਾਰਾ ਤਸੱਵਰ ਕੁਦਰਤ ਦੇ ਜਲਵੇ , ਏਥੋਂ ਤੱਕ ਕਿ ਜਾਦੂ ਤੇ ਕਰਾਮਾਤਾਂ ਤੋਂ ਵੀ ਪਾਰ ਜਾਂਦਾ ਸੀ ।
 # translit = hōsi ārkēdīō būindīā dā bēmuhārā tasavvar kudarat dē jalavē, ēthōṅ takk ki jādū tē karāmātāṅ tōṅ vī pār jāndā sī.
 # gloss = José Arcadio Buendía GEN unbridled imagination nature GEN wonders even until that magic and miracles ABL also beyond go IPFV COP.PST.
@@ -3868,7 +3868,7 @@
 6	ਤਸੱਵਰ	ਤਸੱਵਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	Gloss=imagination|Translit=tasavvar
 7	ਕੁਦਰਤ	ਕੁਦਰਤ	NOUN	_	Gender=Fem|Number=Sing	9	nmod:poss	_	Gloss=nature|Translit=kudarat
 8	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	7	case	_	Gloss=GEN|Translit=dē
-9	ਜਲਵੇ	ਜਲਵਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	20	obl	_	Gloss=wonders|Translit=jalavē,
+9	ਜਲਵੇ	ਜਲਵਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	20	obl	_	Gloss=wonders|Translit=,jalavē
 10	,	,	PUNCT	_	_	9	punct	_	Gloss=even|Translit=ēthōṅ
 11	ਏਥੋਂ	ਏਥੋਂ	ADV	_	ExtPos=ADV	14	advmod	_	Gloss=until|Translit=takk
 12	ਤੱਕ	ਤੱਕ	ADP	_	_	11	fixed	_	Gloss=that|Translit=ki
@@ -3883,7 +3883,7 @@
 21	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	Gloss=COP.PST
 22	।	।	PUNCT	_	_	20	punct	_	_
 
-# sent_id = 69
+# sent_id = pa_dyz-ud-train-157
 # text = ਦਰੱਖਤ ਦੇ ਤਣੇ ਨਾਲ ਨੂੜਿਆ ਦਿਉ-ਕੱਦ ਬਜ਼ੁਰਗ , ਜਿਸ ਨੂੰ ਧੁੱਪ ਤੇ ਮੀਂਹ ਨੇ ਬੇਰੰਗ ਕਰ ਛੱਡਿਆ ਸੀ , ਅਹਿਸਾਨ ਵਜੋਂ ਮੱਧਮ ਜਿਹਾ ਮੁਸਕਾਇਆ ਤੇ ਵਚਿੱਤਰ ਭਜਨ ਬੁੜਬੁੜਾਉਂਦੇ ਨੇ ਉਂਗਲੀਆਂ ਨਾਲ ਹੀ ਕੇਕ ਦਾ ਟੁਕੜਾ ਖਾ ਲਿਆ ।
 # translit = Darakkhata dē taṇē nāl nūṛi'ā diu-kadda bazuraga, jisa nūṅ dhupp tē mīṅha nē bēraṅga kara chaḍḍi'ā sī, ahisāna vajōṅ maddhama jihā musakā'i'ā tē vacittara bhajana buṛabuṛā'undē nē uṅgalī'āṅ nāl hī kēka dā ṭukaṛā khā li'ā.
 # gloss = giant-statured old man tree trunk with tie.PFV sun and rain ERG weather-beat.PFV COP.PST gratitude as faint smile.PFV and bizarre hymn mutter PROG cake GEN piece fingers with EMPH eat.PFV
@@ -3894,7 +3894,7 @@
 4	ਨਾਲ	ਨਾਲ	ADP	_	_	3	case	_	Gloss=tree|Translit=nāl
 5	ਨੂੜਿਆ	ਨੂੜਨਾ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Gloss=trunk|Translit=nūṛi'ā
 6	ਦਿਉ-ਕੱਦ	ਦਿਉ-ਕੱਦ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Gloss=with|Translit=diu-kadda
-7	ਬਜ਼ੁਰਗ	ਬਜ਼ੁਰਗ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	Gloss=tie.PFV|Translit=bazuraga,
+7	ਬਜ਼ੁਰਗ	ਬਜ਼ੁਰਗ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	Gloss=tie.PFV|Translit=,bazuraga
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=sun|Translit=jisa
 9	ਜਿਸ	ਜੋ	PRON	_	Number=Sing|PronType=Rel	17	obj	_	Gloss=and|Translit=nūṅ
 10	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	9	case	_	Gloss=rain|Translit=dhupp
@@ -3904,7 +3904,7 @@
 14	ਨੇ	ਨੇ	ADP	_	_	13	case	_	Gloss=gratitude|Translit=bēraṅga
 15	ਬੇਰੰਗ	ਬੇਰੰਗ	ADJ	_	Degree=Pos	16	compound:lvc	_	Gloss=as|Translit=kara
 16	ਕਰ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	17	compound	_	Gloss=faint|Translit=chaḍḍi'ā
-17	ਛੱਡਿਆ	ਛੱਡਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	acl:relcl	_	Gloss=smile.PFV|Translit=sī,
+17	ਛੱਡਿਆ	ਛੱਡਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	acl:relcl	_	Gloss=smile.PFV|Translit=,sī
 18	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	aux	_	Gloss=and|Translit=ahisāna
 19	,	,	PUNCT	_	_	17	punct	_	Gloss=bizarre|Translit=vajōṅ
 20	ਅਹਿਸਾਨ	ਅਹਿਸਾਨ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	24	obl	_	Gloss=hymn|Translit=maddhama
@@ -3927,7 +3927,7 @@
 37	ਲਿਆ	ਲੈਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	36	compound:svc	_	_
 38	।	।	PUNCT	_	_	36	punct	_	_
 
-# sent_id = 54
+# sent_id = pa_dyz-ud-train-158
 # text = ਇਸ ਚਮਤਕਾਰ ਨੇ ਰਮੇਦੀਉਸ ਨੂੰ ਐਨਾ ਦੁਚਿੱਤੀ ਵਿਚ ਪਾਇਆ ਤੇ ਨਾਲ ਹੀ ਹੈਰਾਨ ਪ੍ਰੇਸ਼ਾਨ ਕੀਤਾ ਕਿ ਸੁਹਾਗ ਰਾਤ ਦਾ ਵੇਰਵਾ ਉਹ ਹਰ ਕਿਸੇ ਨਾਲ ਸਾਂਝਾ ਕਰਨਾ ਚਾਹੁੰਦੀ ਸੀ ।
 # translit = Is camatkār nē ramēdī'us nūṅ ainā ducittī vic pā'i'ā tē nāl hī hairān prēśān kītā ki suhāg rāt dā vēravā uh har kisē nāl sāñjhā karanā cāhundī sī.
 # gloss = this miracle ERG Remedios ACC great dilemma LOC put.PFV and simultaneously astonish disturb do.PFV COMP wedding night GEN details she every person with share INF want IMPF be.PST
@@ -3962,7 +3962,7 @@
 28	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	Gloss=be.PST|Translit=sī
 29	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 91
+# sent_id = pa_dyz-ud-train-159
 # text = ਕਿਉਂਕਿ ਇਹ ਮੇਰਾ ਜਨਮ ਦਿਨ ਸੀ ।
 # translit = Kyunki ih mera janam din si
 # gloss = because this my birthday be.PST.3SG.
@@ -3975,7 +3975,7 @@
 6	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Translit=si
 7	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 95
+# sent_id = pa_dyz-ud-train-160
 # text = ਫੇਰ ਗੁਲਾਬਾਂ ਦਾ ਇੱਕ ਗੁਲਦਸਤਾ , ਕੁੱਝ ਪਿਓਨੀ ਅਤੇ ਗਮਲੇ ਵਿੱਚ ਲੱਗਾ ਇੱਕ ਪੌਦਾ ।
 # translit = Pher gulaban da ik guldasta, kujh peony ate gamle vich lagga ik pauda
 # gloss = then roses GEN one bouquet, some peonies and one plant pot-LOC
@@ -3984,7 +3984,7 @@
 2	ਗੁਲਾਬਾਂ	ਗੁਲਾਬ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	Gloss=roses|Translit=gulaban
 3	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	2	case	_	Gloss=GEN|Translit=da
 4	ਇੱਕ	ਇੱਕ	DET	_	PronType=Ind	5	det	_	Gloss=one|Translit=ik
-5	ਗੁਲਦਸਤਾ	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=bouquet,|Translit=guldasta,
+5	ਗੁਲਦਸਤਾ	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=,bouquet|Translit=,guldasta
 6	,	_	PUNCT	_	_	5	punct	_	Gloss=some|Translit=kujh
 7	ਕੁੱਝ	_	DET	_	PronType=Ind	8	det	_	Gloss=peonies|Translit=peony
 8	ਪਿਓਨੀ	_	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	Gloss=and|Translit=ate
@@ -3996,7 +3996,7 @@
 14	ਪੌਦਾ	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 15	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 42
+# sent_id = pa_dyz-ud-train-161
 # text = ਗਲੀ ਵਿੱਚ ਸੁੱਕੇ ਘਾਹ ਦਾ ਇਕ ਢੇਰ ਲਾ ਦਿੱਤਾ ਗਿਆ ਅਤੇ ਸੂਰਜ ਦੀਆਂ ਕਿਰਨਾਂ ਨੂੰ ਇਕ ਥਾਂ ਜੋੜ ਕੇ ਉਸ ਨੂੰ ਅੱਗ ਲਗਾ ਦਿੱਤੀ ਗਈ ।
 # translit = Galī vic sukkē ghāh dā ik ḍhēr lā dittā gi'ā atē sūraj dī'āṅ kirnāṅ nūṅ ik thāṅ jōṛ kē us nūṅ agg lagā dittī ga'ī.
 # gloss = street in dry grass GEN one heap place give.PASS.PST and sun GEN rays ACC one place join having it ACC fire set give.PASS.PST
@@ -4028,7 +4028,7 @@
 25	ਗਈ	ਜਾਣਾ	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	23	aux:pass	_	Translit=ga'ī
 26	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 94
+# sent_id = pa_dyz-ud-train-162
 # text = ਸੱਤ ਵੱਜਣ ਤੋਂ ਥੋੜ੍ਹਾ ਪਿੱਛੋਂ ਮੈਂ ਪਾਪਾ ਮੰਮੀ ਕੋਲ ਅਤੇ ਫੇਰ ਆਪਣੇ ਤੋਹਫ਼ਿਆ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਡਰਾਇੰਗ ਰੂਮ ਵਿੱਚ ਗਈ ਸਭ ਤੋਂ ਪਹਿਲੀ ਚੀਜ਼ ਮੈਂ ਤੈਨੂੰ ਦੇਖਿਆ , ਸ਼ਾਇਦ ਮੇਰਾ ਇੱਕ ਸਭ ਤੋਂ ਚੰਗਾ ਤੋਹਫ਼ਾ ।
 # translit = Satt vajjan ton thodha pichhon main papa mammy kol ate pher apne tohfian nu kholhan lai drawing room vich gai sabh ton pehli cheez main tainu dekhia, shayad mera ik sabh ton changa tohfa.
 # gloss = seven strike INF from little after I papa mummy near and then my gifts ACC open INF for drawing room in go.PST.FEM.1SG, first thing I you saw.PST.FEM.1SG, perhaps my one most good gift
@@ -4054,12 +4054,12 @@
 19	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	18	case	_	Gloss=drawing|Translit=vich
 20	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	27	parataxis	_	Gloss=room|Translit=gai
 21	ਸਭ	_	DET	_	PronType=Ind	24	det	_	Gloss=in|Translit=sabh
-22	ਤੋਂ	_	ADP	_	Case=Abl	21	case	_	Gloss=go.PST.FEM.1SG,|Translit=ton
+22	ਤੋਂ	_	ADP	_	Case=Abl	21	case	_	Gloss=,go.PST.FEM.1SG|Translit=ton
 23	ਪਹਿਲੀ	ਪਹਿਲਾ	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	Gloss=first|Translit=pehli
 24	ਚੀਜ਼	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	obl	_	Gloss=thing|Translit=cheez
 25	ਮੈਂ	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	Gloss=I|Translit=main
 26	ਤੈਨੂੰ	ਤੂੰ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	27	obj	_	Gloss=you|Translit=tainu
-27	ਦੇਖਿਆ	ਦੇਖਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=saw.PST.FEM.1SG,|Translit=dekhia,
+27	ਦੇਖਿਆ	ਦੇਖਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=,saw.PST.FEM.1SG|Translit=,dekhia
 28	,	_	PUNCT	_	_	27	punct	_	Gloss=perhaps|Translit=shayad
 29	ਸ਼ਾਇਦ	_	ADV	_	_	35	advmod	_	Gloss=my|Translit=mera
 30	ਮੇਰਾ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	35	nmod:poss	_	Gloss=one|Translit=ik
@@ -4070,7 +4070,7 @@
 35	ਤੋਹਫ਼ਾ	ਤੋਹਫ਼ਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	parataxis	_	_
 36	।	_	PUNCT	_	_	27	punct	_	_
 
-# sent_id = 163
+# sent_id = pa_dyz-ud-train-163
 # text = ਲਗਭਗ ਦਿਨ ਚੜ੍ਹਨ ਵਾਲਾ ਸੀ ਤੇ ਮੀਂਹ ਪੈ ਰਿਹਾ ਸੀ ।
 # translit = Lagbhag din charhan vaala si te meenh pai riha si
 # gloss = almost day rise about COP.PST and rain fall PROG COP.PST
@@ -4087,17 +4087,17 @@
 10	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	Gloss=COP.PST|Translit=si
 11	।	।	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 117
+# sent_id = pa_dyz-ud-train-164
 # text = ਬਲੈਟੀ ਬਲੋਏਮੇਂਦਾਲ ਬਲਕਿ ਬਹੁਤ ਬੇਕਾਰ ਜਿਹੀ ਲੱਗ ਰਹੀ ਸੀ ਤੇ ਮੈਨੂੰ ਲੱਗਦਾ ਸੀ ਕਿ ਸ਼ਾਇਦ ਉਹ ਅਜਿਹੀ ਹੀ ਹੈ ।
 # translit = Betty Bloemendal balki bahut bekaar jihi lagg rahi si te mainu laggda si ki shayad oh ajihi hi hai.
 # gloss = Betty Bloemendal, on.the.contrary, seem.PST quite useless, and I think.PST she probably be.PST.
 # translation = Betty Bloemendal, on the contrary, seemed quite useless, and I thought she probably was.
 1	ਬਲੈਟੀ	ਬਲੈਟੀ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Gloss=Betty|Translit=Betty
-2	ਬਲੋਏਮੇਂਦਾਲ	ਬਲੋਏਮੇਂਦਾਲ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	Gloss=Bloemendal,|Translit=Bloemendal
-3	ਬਲਕਿ	ਬਲਕਿ	ADV	_	_	9	advmod	_	Gloss=on.the.contrary,|Translit=balki
+2	ਬਲੋਏਮੇਂਦਾਲ	ਬਲੋਏਮੇਂਦਾਲ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	Gloss=,Bloemendal|Translit=Bloemendal
+3	ਬਲਕਿ	ਬਲਕਿ	ADV	_	_	9	advmod	_	Gloss=,on.the.contrary|Translit=balki
 4	ਬਹੁਤ	ਬਹੁਤ	ADV	_	_	6	advmod	_	Gloss=seem.PST|Translit=bahut
 5	ਬੇਕਾਰ	ਬੇਕਾਰ	ADJ	_	Degree=Pos	6	amod	_	Gloss=quite|Translit=bekaar
-6	ਜਿਹੀ	ਜਿਹਾ	ADJ	_	_	9	xcomp	_	Gloss=useless,|Translit=jihi
+6	ਜਿਹੀ	ਜਿਹਾ	ADJ	_	_	9	xcomp	_	Gloss=,useless|Translit=jihi
 7	ਲੱਗ	ਲੱਗਣਾ	VERB	_	Mood=Ind	9	compound	_	Gloss=and|Translit=lagg
 8	ਰਹੀ	ਰਹਿਣਾ	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	Gloss=I|Translit=rahi
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=think.PST|Translit=si
@@ -4113,14 +4113,14 @@
 19	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	Translit=hai
 20	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 201
+# sent_id = pa_dyz-ud-train-165
 # text = ਅਤੇ ਫੇਰ ਵੀ , ਅਜਿਹੀ ਬਾਰਸ਼ ਵਾਲੀ ਸਵੇਰ ਨੂੰ ਮੈਂ ਆਪਣੇ ਦੋਸਤ ਨੂੰ ਵਿਦਾ ਨਹੀਂ ਸਾਂ ਕਰ ਸਕਿਆ ।
 # translit = Ate pher vi, ajihi baarish vaali saver nu main aapne dost nu vida nahi saan kar sakya
 # gloss = and even then such rain GEN morning DAT I my friend ACC goodbye not could do able.PFV.
 # translation = and yet, on such a rainy morning, I could not bid goodbye to my friend.
 1	ਅਤੇ	ਅਤੇ	CCONJ	_	_	17	cc	_	Gloss=and|Translit=Ate
 2	ਫੇਰ	ਫੇਰ	ADV	_	_	17	advmod	_	Gloss=even|Translit=pher
-3	ਵੀ	ਵੀ	PART	_	_	2	advmod:emph	_	Gloss=then|Translit=vi,
+3	ਵੀ	ਵੀ	PART	_	_	2	advmod:emph	_	Gloss=then|Translit=,vi
 4	,	,	PUNCT	_	_	17	punct	_	Gloss=such|Translit=ajihi
 5	ਅਜਿਹੀ	ਅਜਿਹਾ	DET	_	PronType=Dem	6	det	_	Gloss=rain|Translit=baarish
 6	ਬਾਰਸ਼	ਬਾਰਸ਼	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	Gloss=GEN|Translit=vaali
@@ -4138,7 +4138,7 @@
 18	ਸਕਿਆ	ਸਕਣਾ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Part	17	aux	_	_
 19	।	।	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 194
+# sent_id = pa_dyz-ud-train-166
 # text = ਕੀ ਕਿਸੇ ਹੋਰ ਜ਼ਿੰਦਗੀ 'ਚ ਵਾਪਰੀ ਕੋਈ ਘਟਨਾ ਸੀ ?
 # translit = Kee kise hor zindagi 'ch vaapri koi ghatna si?
 # gloss = any other  life     in    happen.PFV some event be.PST
@@ -4154,7 +4154,7 @@
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Translit=si?
 10	?	?	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 26
+# sent_id = pa_dyz-ud-train-167
 # text = ਆਪਣੇ ਅਕੀਦੇ ਨੂੰ ਸੱਚਾ ਸਿੱਧ ਕਰਨ ਲਈ ਉਸਨੇ ਕਈ ਮਹੀਨੇ ਜਾਨ ਮਾਰ ਕੇ ਮਿਹਨਤ ਕੀਤੀ ।
 # translit = Āpaṇē akīdē nūṅ saccā siddh karan la'ī usnē ka'ī mahīnē jān mār kē mihanat kītī.
 # gloss = own belief ACC true prove do.INF for he-ERG many months life exert having effort do.PST
@@ -4176,14 +4176,14 @@
 15	ਕੀਤੀ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=do.PST|Translit=kītī
 16	।	।	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 222
+# sent_id = pa_dyz-ud-train-168
 # text = ਕੋਈ ਗੱਲ ਸੁਣਾ , ਜ਼ੋਰਬਾ ਕੋਈ ਗੱਲ ਸੁਣਾ !
 # translit = "'Koi gall suna, Zorba koi gall suna!'
 # gloss = Any story cause-hear.IMP, Zorba any story cause-hear.IMP!
 # translation = 'Tell me a story, Zorba, tell me a story!'
 1	ਕੋਈ	ਕੋਈ	DET	_	PronType=Ind	2	det	_	Gloss=Any|Translit="'Koi
 2	ਗੱਲ	ਗੱਲ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	Gloss=story|Translit=gall
-3	ਸੁਣਾ	ਸੁਣਨਾ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=cause-hear.IMP,|Translit=suna,
+3	ਸੁਣਾ	ਸੁਣਨਾ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=,cause-hear.IMP|Translit=,suna
 4	,	,	PUNCT	_	_	8	punct	_	Gloss=Zorba|Translit=Zorba
 5	ਜ਼ੋਰਬਾ	ਜ਼ੋਰਬਾ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	vocative	_	Gloss=any|Translit=koi
 6	ਕੋਈ	ਕੋਈ	DET	_	PronType=Ind	7	det	_	Gloss=story|Translit=gall
@@ -4191,7 +4191,7 @@
 8	ਸੁਣਾ	ਸੁਣਨਾ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
 9	!	!	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 182
+# sent_id = pa_dyz-ud-train-169
 # text = ਕਾਊਂਟਰ 'ਤੇ ਪਈਆਂ ਬੋਤਲਾਂ ਉੱਪਰ ਵੀ ਇਹ ਚਾਨਣ ਪਿਆ ।
 # translit = Counter 'te paiyaan botalaan uppar vi eh chanan pya
 # gloss = counter LOC lying bottles on also this light fall.PFV
@@ -4207,7 +4207,7 @@
 9	ਪਿਆ	ਪੈਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=fall.PFV|Translit=pya
 10	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 75
+# sent_id = pa_dyz-ud-train-170
 # text = ਫਲਸਰੂਪ ਪਾਦਰੀ ਧਰਤੀ ਤੋਂ ਛੇ ਇੰਚ ਉੱਪਰ ਉਠ ਗਿਆ ।
 # translit = Phalasarūpa pādarī dharatī tōṅ chē iñca uppara uṭha gi'ā.
 # gloss = as a result priest ground from six inch above rise.PFV
@@ -4223,7 +4223,7 @@
 9	ਗਿਆ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	compound:svc	_	Gloss=above|Translit=gi'ā
 10	।	।	PUNCT	_	_	8	punct	_	Gloss=rise.PFV
 
-# sent_id = 59
+# sent_id = pa_dyz-ud-train-171
 # text = ਕਾਲਾ ਸੂਟ ਤੇ ਚਮੜੇ ਦੇ ਧਾਤਨੁਮਾ ਫੀਤਿਆਂ ਵਾਲੇ ਬੂਟ ਪਹਿਣ ਕੇ ਜੋ ਗੋਲੀਮਾਰ ਦਸਤੇ ਦੇ ਸਾਹਮਣੇ ਪੇਸ਼ ਹੋਣ ਵੇਲੇ ਕਈ ਸਾਲ ਬਾਅਦ ਵੀ ਉਸਨੇ ਪਹਿਣਨੇ ਸਨ , ਔਰਲਿਆਨੋ ਪੀਲਾਭੂਕ ਨਜ਼ਰ ਆ ਰਿਹਾ ਸੀ ।
 # translit = Kālā sūṭ tē camaṛē dē dhātanumā phītī'āṅ vālē būṭ pahina kē jō gōlīmār dastasē dē sāhmaṇē pēśa hōṇa vēlē ka'ī sāl bā'ada vī usnē pahinaṇē sana, aurali'ānō pīlābhūka nazara ā rihā sī.
 # gloss = wear black suit and leather GEN metallic laces REL boots she ERG years later firing squad GEN front appear INF time also wear.PFV be.PST Aureliano pale-faced appear PROG be.PST
@@ -4253,7 +4253,7 @@
 23	ਵੀ	ਵੀ	PART	_	_	22	advmod	_	Gloss=wear.PFV|Translit=vī
 24	ਉਸਨੇ	ਉਹ	PRON	_	PronType=Dem	25	nsubj	_	Gloss=be.PST|Translit=usnē
 25	ਪਹਿਣਨੇ	ਪਹਿਨਣਾ	VERB	_	Gender=Masc|Number=Plur|VerbForm=Inf	10	acl:relcl	_	Gloss=Aureliano|Translit=pahinaṇē
-26	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	25	aux	_	Gloss=pale-faced|Translit=sana,
+26	ਸਨ	ਸੀ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	25	aux	_	Gloss=pale-faced|Translit=,sana
 27	,	,	PUNCT	_	_	25	punct	_	Gloss=appear|Translit=aurali'ānō
 28	ਔਰਲਿਆਨੋ	ਔਰਲਿਆਨੋ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Gloss=PROG|Translit=pīlābhūka
 29	ਪੀਲਾਭੂਕ	ਪੀਲਾਭੂਕ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	31	xcomp	_	Gloss=be.PST|Translit=nazara
@@ -4263,7 +4263,7 @@
 33	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	31	aux	_	_
 34	।	।	PUNCT	_	_	31	punct	_	_
 
-# sent_id = 170
+# sent_id = pa_dyz-ud-train-172
 # text = ਕੋਸਟੋਂਡੀ ਨੇ ਥੁੱਕਿਆ ਤੇ ਖਿਝ ਕੇ ਜੁਆਬ ਦਿੱਤਾ , ‘ਕਾਹਦਾ ਹਾਲ ਹੈ ਮੇਰਾ ? ਸਵੇਰੇ ਇਥੇ ਬਾਰ 'ਚ ਆ ਜਾਈਦਾ !
 # translit = Kostondi ne thukkia te khijh ke juab ditta, ‘kahda haal hai mera? Savare ithe bar 'ch aa jaida!
 # gloss = Kostandis ERG spit.PAST and get.annoyed CP answer give.PASTwhat.GEN well-being be.PRES 1SG.GEN morning here bar LOC come HAB
@@ -4275,7 +4275,7 @@
 5	ਖਿਝ	ਖਿਝ	VERB	_	VerbForm=Conv	8	advcl	_	Gloss=get.annoyed|Translit=khijh
 6	ਕੇ	ਕੇ	PART	_	_	5	mark	_	Gloss=CP|Translit=ke
 7	ਜੁਆਬ	ਜੁਆਬ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound:lvc	_	Gloss=answer|Translit=juab
-8	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	conj	_	Gloss=give.PASTwhat.GEN|Translit=ditta,
+8	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	conj	_	Gloss=give.PASTwhat.GEN|Translit=,ditta
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=well-being|Translit=‘kahda
 10	‘ਕਾਹਦਾ	ਕਾਹਦਾ	DET	_	PronType=Int	11	det	_	Gloss=be.PRES|Translit=haal
 11	ਹਾਲ	ਹਾਲ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	ccomp	_	Gloss=1SG.GEN|Translit=hai
@@ -4290,7 +4290,7 @@
 20	ਜਾਈਦਾ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	19	compound:svc	_	_
 21	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 188
+# sent_id = pa_dyz-ud-train-173
 # text = ਉਹਨੇ ਗੁੱਸੇ ਨਾਲ ਸਮੁੰਦਰ ਵੱਲ ਦੇਖਿਆ ਤੇ ਉੱਚੀ ਸਾਰੀ ਬੋਲਿਆ , ‘ਘਰਾਂ ਨੂੰ ਤਬਾਹ ਕਰਨ ਵਾਲਿਆ , ਤੇਰਾ ਸਤਿਆਨਾਸ ਹੋ ਜਾਏ ।
 # translit = Ohne gusse naal samundar vall dekhya te ucchi saari boleya, ‘Gharan nu tabaah karan vaaleya, tera satyaanaas ho jaaye
 # gloss = he anger with sea toward look.PFV and loud voice speak.PFV houses ACC destroy do REL your ruin happen SUBJ
@@ -4304,12 +4304,12 @@
 7	ਤੇ	ਅਤੇ	CCONJ	_	_	6	cc	_	Gloss=and|Translit=te
 8	ਉੱਚੀ	ਉੱਚੀ	ADV	_	_	10	advmod	_	Gloss=loud|Translit=ucchi
 9	ਸਾਰੀ	ਸਾਰੀ	ADV	_	_	10	advmod	_	Gloss=voice|Translit=saari
-10	ਬੋਲਿਆ	ਬੋਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	Gloss=speak.PFV|Translit=boleya,
+10	ਬੋਲਿਆ	ਬੋਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	Gloss=speak.PFV|Translit=,boleya
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=houses|Translit=‘Gharan
 12	‘ਘਰਾਂ	ਘਰ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	Gloss=ACC|Translit=nu
 13	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	12	case	_	Gloss=destroy|Translit=tabaah
 14	ਤਬਾਹ	ਤਬਾਹ	ADJ	_	Case=Acc|Gender=Masc	15	xcomp	_	Gloss=do|Translit=karan
-15	ਕਰਨ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	16	acl	_	Gloss=REL|Translit=vaaleya,
+15	ਕਰਨ	ਕਰਨਾ	VERB	_	Mood=Ind|VerbForm=Inf	16	acl	_	Gloss=REL|Translit=,vaaleya
 16	ਵਾਲਿਆ	ਵਾਲਾ	NOUN	_	Gender=Masc|Number=Sing	19	vocative	_	Gloss=your|Translit=tera
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=ruin|Translit=satyaanaas
 18	ਤੇਰਾ	ਤੂੰ	PRON	_	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	Gloss=happen|Translit=ho
@@ -4318,7 +4318,7 @@
 21	ਜਾਏ	ਜਾਣਾ	VERB	_	Number=Sing|Person=3	20	compound:svc	_	_
 22	।	।	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 18
+# sent_id = pa_dyz-ud-train-174
 # text = “ਲੋੜ ਤਾਂ ਉਨ੍ਹਾਂ ਦੀਆਂ ਰੂਹਾਂ ਨੂੰ ਜਗਾਣ ਦੀ ਐ” ਉਸਨੇ ਅੱਗੇ ਦ੍ਰਿੜ ਕੀਤਾ ।
 # translit = loṛ tāṅ unhāṅ dīāṅ rūhāṅ nūṅ jagāṇ dī ai,” usnē aggē driṛ kītā.
 # gloss = need indeed their souls ACC awaken GEN COP.PRS, he ERG further firm do PST.
@@ -4330,7 +4330,7 @@
 5	ਰੂਹਾਂ	ਰੂਹ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	Gloss=ACC|Translit=rūhāṅ
 6	ਨੂੰ	ਨੂੰ	ADP	_	Case=Acc	5	case	_	Gloss=awaken|Translit=nūṅ
 7	ਜਗਾਣ	ਜਗਾਉਣਾ	VERB	_	Case=Acc|VerbForm=Inf	9	xcomp	_	Gloss=GEN|Translit=jagāṇ
-8	ਦੀ	ਦਾ	ADP	_	Gender=Fem	7	case	_	Gloss=COP.PRS,|Translit=dī
+8	ਦੀ	ਦਾ	ADP	_	Gender=Fem	7	case	_	Gloss=,COP.PRS|Translit=dī
 9	ਐ”	ਹੈ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	Gloss=he|Translit=ai,”
 10	ਉਸਨੇ	ਉਹ	PRON	_	PronType=Dem	13	nsubj	_	Gloss=ERG|Translit=usnē
 11	ਅੱਗੇ	ਅੱਗੇ	ADV	_	_	13	advmod	_	Gloss=further|Translit=aggē
@@ -4338,7 +4338,7 @@
 13	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=do|Translit=kītā
 14	।	।	PUNCT	_	_	13	punct	_	Gloss=PST
 
-# sent_id = 50
+# sent_id = pa_dyz-ud-train-175
 # text = ਵਿਆਹ ਦਾ ਮਹੀਨਾ ਪੱਕਾ ਹੋ ਗਿਆ ।
 # translit = Viyāha dā mahīnā pakkā hō gi'ā.
 # gloss = marriage GEN month firm become.PST
@@ -4351,7 +4351,7 @@
 6	ਗਿਆ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	compound:svc	_	Translit=gi'ā
 7	।	।	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 148
+# sent_id = pa_dyz-ud-train-176
 # text = ਹੁਣ 24.00 ਗਿਲਡਰ ਮਾਰਗਰੇਟ ਦੀ ਅਤੇ 7.75 ਗਿਲਡਰ ਮੇਰੀ ਸਕਰਟ ਦੀ ਲਾਗਤ ਹੈ ।
 # translit = Hun chovi (24.00) guilder Margaret di ate satt dashmalav pachattar (7.75) guilder meri skirt di laagat hai.
 # gloss = now 24.00 guilder Margaret GEN and 7.75 guilder my skirt GEN cost be.PRS
@@ -4371,7 +4371,7 @@
 13	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be.PRS|Translit=meri
 14	।	।	PUNCT	_	_	13	punct	_	Translit=skirt
 
-# sent_id = 93
+# sent_id = pa_dyz-ud-train-177
 # text = ਜਦੋਂ ਮੈਂ ਜ਼ਿਆਦਾ ਦੇਰ ਉਡੀਕ ਨਾ ਸਕੀ , ਤਾਂ ਮੈਂ ਖਾਣ ਦੇ ਕਮਰੇ ਵਿੱਚ ਚਲੀ ਗਈ , ਜਿੱਥੇ ਮੋਰਤਜੇ (ਬਿੱਲੀ ) ਨੇ ਮੇਰੇ ਪੈਰਾਂ ਨੂੰ ਚੱਟ ਕੇ ਮੇਰਾ ਸਵਾਗਤ ਕੀਤਾ ।
 # translit = Jadon main ziada der udeek na saki, tan main khaan de kamre vich chali gai, jithe Moortje (billi) ne mere pairan nu chatt ke mera swagath kita
 # gloss = when I much time wait NEG could.PST.FEM.1SG, then I food of room in go.PST.FEM.1SG, where Moortje (cat) ERG my feet ACC lick CONJ my welcome do.PST.3SG.
@@ -4382,15 +4382,15 @@
 4	ਦੇਰ	ਦੇਰ	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	Gloss=time|Translit=der
 5	ਉਡੀਕ	ਉਡੀਕ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	compound:lvc	_	Gloss=wait|Translit=udeek
 6	ਨਾ	ਨਾ	PART	_	_	7	advmod	_	Gloss=NEG|Translit=na
-7	ਸਕੀ	ਸਕਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	15	advcl	_	Gloss=could.PST.FEM.1SG,|Translit=saki,
+7	ਸਕੀ	ਸਕਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	15	advcl	_	Gloss=,could.PST.FEM.1SG|Translit=,saki
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=then|Translit=tan
 9	ਤਾਂ	ਤਾਂ	SCONJ	_	_	15	mark	_	Gloss=I|Translit=main
 10	ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Gloss=food|Translit=khaan
 11	ਖਾਣ	ਖਾਣਾ	VERB	_	Case=Acc|VerbForm=Inf	13	acl	_	Gloss=of|Translit=de
 12	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	11	case	_	Gloss=room|Translit=kamre
 13	ਕਮਰੇ	ਕਮਰਾ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Gloss=in|Translit=vich
-14	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	13	case	_	Gloss=go.PST.FEM.1SG,|Translit=chali
-15	ਚਲੀ	ਚੱਲਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=where|Translit=gai,
+14	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	13	case	_	Gloss=,go.PST.FEM.1SG|Translit=chali
+15	ਚਲੀ	ਚੱਲਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Gloss=where|Translit=,gai
 16	ਗਈ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	15	compound:svc	_	Gloss=Moortje|Translit=jithe
 17	,	,	PUNCT	_	_	15	punct	_	Gloss=(cat)|Translit=Moortje
 18	ਜਿੱਥੇ	ਜਿੱਥੇ	ADV	_	_	19	amod	_	Gloss=ERG|Translit=(billi)
@@ -4408,7 +4408,7 @@
 30	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	advcl	_	_
 31	।	।	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 159
+# sent_id = pa_dyz-ud-train-178
 # text = ਸ਼ਾਇਦ ਉਹ ਉਸ ਨੂੰ ਨੇਕੀ ਦਾ ਦਮ ਨਾ ਭਰਨ ਵਾਲੀ ਬਣਨਾ ਸਿਖਾ ਦੇਵੇ ।
 # translit = shayad oh us nu neki da dam na bharan vali banna sikha deve.
 # gloss = perhaps he her virtue GEN breath NEG fill REL become INF teach give.FUT.3SG.
@@ -4428,7 +4428,7 @@
 13	ਦੇਵੇ	ਦੇਣਾ	VERB	_	Number=Sing|Person=3	12	compound:svc	_	Gloss=give.FUT.3SG|Translit=deve
 14	।	।	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 161
+# sent_id = pa_dyz-ud-train-179
 # text = ਪਹਿਲੀ ਵਾਰ ਮੈਂ ਉਸ ਨੂੰ ਪਿਰਿਆਸ (ਯੂਨਾਨ ਵਿਚ ਬੰਦਰਗਾਹ ਵਾਲਾ ਇਕ ਸ਼ਹਿਰ) 'ਚ ਮਿਲਿਆ ਸਾਂ ।
 # translit = Pahli vaar main us nu Piryaas (Yunaan vich bandargaah vaala ik shahir) 'ch milya saan
 # gloss = Piraeus LOC first time for him meet.PST.
@@ -4450,7 +4450,7 @@
 15	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	14	aux	_	Translit=saan
 16	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 76
+# sent_id = pa_dyz-ud-train-180
 # text = ਇਹ ਪ੍ਰਤੱਖ ਪ੍ਰਮਾਣ ਸੀ ਚਾਕਲੇਟ ਰਾਹੀਂ ਹਵਾ ਵਿਚ ਉਡਣ ਦਾ , ਜਿਸਨੂੰ ਦਿਖਾਉਣ ਲਈ ਉਹ ਕਈ ਦਿਨ ਘਰੋ ਘਰੀਂ ਜਾਂਦਾ ਰਿਹਾ ।
 # translit = Ih pratakkha pramāṇa sī cākalēṭa rāhīṅ havā vica uḍaṇ dā, jisanūṅ dikhāuṇ la'ī uh ka'ī dina gharō gharīṅ jāndā rihā.
 # gloss = this direct proof COP.PST levitate INF air LOC hot chocolate through which ACC display INF for he several days house-from house-to go PROG stay.PST
@@ -4464,7 +4464,7 @@
 7	ਹਵਾ	ਹਵਾ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	Gloss=air|Translit=havā
 8	ਵਿਚ	ਵਿਚ	ADP	_	Gender=Masc|Number=Sing	7	case	_	Gloss=LOC|Translit=vica
 9	ਉਡਣ	ਉਡਣਾ	VERB	_	Case=Acc|VerbForm=Inf	3	nmod	_	Gloss=hot|Translit=uḍaṇ
-10	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	9	case	_	Gloss=chocolate|Translit=dā,
+10	ਦਾ	ਦਾ	ADP	_	Gender=Masc|Number=Sing	9	case	_	Gloss=chocolate|Translit=,dā
 11	,	,	PUNCT	_	_	9	punct	_	Gloss=through|Translit=jisanūṅ
 12	ਜਿਸਨੂੰ	ਜੋ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	13	obj	_	Gloss=which|Translit=dikhāuṇ
 13	ਦਿਖਾਉਣ	ਦਿਖਾਉਣਾ	VERB	_	Tense=Pres|VerbForm=Inf	20	advcl	_	Gloss=ACC|Translit=la'ī
@@ -4478,7 +4478,7 @@
 21	ਰਿਹਾ	ਰਹਿਣਾ	AUX	_	Gender=Masc|Number=Sing|Person=3|VerbForm=Part	20	aux	_	Gloss=house-to
 22	।	।	PUNCT	_	_	3	punct	_	Gloss=go
 
-# sent_id = 142
+# sent_id = pa_dyz-ud-train-181
 # text = ਇੱਕ ਦਿਨ ਸ਼ਾਮ ਨੂੰ ਅਸੀਂ ਆਪਣਾ ਰੂਪ ਬਣਾਇਆ , ਪੀਟਰ ਨੇ ਆਪਣੀ ਮਾਂ ਚਮੜੀ ਕਸੀ ਹੋਈ ਪੋਸ਼ਾਕ ਪਹਿਨੀ ਤੇ ਮੈਂ ਉਸਦਾ ਸੂਟ ।
 # translit = Ikk din shaam nu asi apna roop banaya, Peter ne apni maan di chamri kasi hoi poshak pehni te main usda suit.
 # gloss = One day evening LOC we own appearance make.PST, Peter ERG his mother leather skin-tight AUX dress wear.PST and I his suit.
@@ -4490,7 +4490,7 @@
 5	ਅਸੀਂ	ਅਸੀਂ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=we|Translit=asi
 6	ਆਪਣਾ	ਆਪਣਾ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	nmod:poss	_	Gloss=own|Translit=apna
 7	ਰੂਪ	ਰੂਪ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Gloss=appearance|Translit=roop
-8	ਬਣਾਇਆ	ਬਣਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=make.PST,|Translit=banaya,
+8	ਬਣਾਇਆ	ਬਣਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=,make.PST|Translit=,banaya
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=Peter|Translit=Peter
 10	ਪੀਟਰ	ਪੀਟਰ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	18	nsubj	_	Gloss=ERG|Translit=ne
 11	ਨੇ	ਨੇ	ADP	_	_	10	case	_	Gloss=his|Translit=apni
@@ -4507,7 +4507,7 @@
 22	ਸੂਟ	ਸੂਟ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	Translit=suit
 23	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 21
+# sent_id = pa_dyz-ud-train-182
 # text = ਈਮਾਨਦਾਰ ਇਨਸਾਨ ਹੋਣ ਦੇ ਨਾਤੇ ਮੈਲਈਆਦਿ ਨੇ ਉਸ ਨੂੰ ਅਜੇਹੀ ਵਰਤੋਂ ਵਿਰੁੱਧ ਸਾਵਧਾਨ ਕੀਤਾ ।
 # translit = īmāndār insān hōṇ dē nātē mailī'ādi nē us nūṅ ajēhī vartōṅ viruddh sāvdhān kītā
 # gloss = being honest person Mailiaadi ERG him DAT such usage against warn PST
@@ -4528,14 +4528,14 @@
 14	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Translit=kītā
 15	।	।	PUNCT	_	_	14	punct	_	_
 
-# sent_id = 97
+# sent_id = pa_dyz-ud-train-183
 # text = ਛੁੱਟੀ ਦੇ ਸਮੇਂ ਮੈਂ ਆਪਣੇ ਅਧਿਆਪਕਾਂ ਅਤੇ ਆਪਣੀ ਕਲਾਸ ਵਿੱਚ ਬਿਸਕੁਟ ਵੰਡ ਦਿੱਤੇ ਤੇ ਫਿਰ ਕੰਮ ਤੇ ਵਾਪਸ ਆਉਣ ਦਾ ਸਮਾਂ ਹੋ ਗਿਆ ਸੀ ।
 # translit = Chhutti de samein main apne adhyapakān ate apni class vich biscuit vand ditte te phir kam te vapas aun da sama ho giya si.
 # gloss = recess GEN time, I own teachers and own class LOC biscuits distribute give.PFV,
 # translation = during recess I distributed biscuits among my teachers and my class, and then it was time to return to work.
 1	ਛੁੱਟੀ	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	Gloss=recess|Translit=Chhutti
 2	ਦੇ	ਦਾ	ADP	_	Gender=Masc|Number=Plur	1	case	_	Gloss=GEN|Translit=de
-3	ਸਮੇਂ	ਸਮਾਂ	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	Gloss=time,|Translit=samein
+3	ਸਮੇਂ	ਸਮਾਂ	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	Gloss=,time|Translit=samein
 4	ਮੈਂ	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	Gloss=I|Translit=main
 5	ਆਪਣੇ	ਆਪਣਾ	PRON	_	ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	nmod:poss	_	Gloss=own|Translit=apne
 6	ਅਧਿਆਪਕਾਂ	ਅਧਿਆਪਕ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	Gloss=teachers|Translit=adhyapakān
@@ -4545,7 +4545,7 @@
 10	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	9	case	_	Gloss=LOC|Translit=vich
 11	ਬਿਸਕੁਟ	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	obj	_	Gloss=biscuits|Translit=biscuit
 12	ਵੰਡ	ਵੰਡਣਾ	VERB	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Gloss=distribute|Translit=vand
-13	ਦਿੱਤੇ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	12	compound:svc	_	Gloss=give.PFV,|Translit=ditte
+13	ਦਿੱਤੇ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	12	compound:svc	_	Gloss=,give.PFV|Translit=ditte
 14	ਤੇ	ਅਤੇ	CCONJ	_	_	12	cc	_	Translit=te
 15	ਫਿਰ	_	ADV	_	_	22	advmod	_	Translit=phir
 16	ਕੰਮ	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	obl	_	Translit=kam
@@ -4559,7 +4559,7 @@
 24	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	22	aux	_	Translit=si
 25	।	_	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 32
+# sent_id = pa_dyz-ud-train-184
 # text = ਹੋਸਿ ਆਰਕੇਦੀਓ ਬੂਇੰਦੀਆ ਨੇ ਉਸ ਨਾਲ ਮੁਹਿੰਮ ਤੇ ਗਏ ਚਾਰ ਆਦਮੀਆਂ ਦੀ ਮਦਦ ਨਾਲ ਜਦੋਂ ਕਵੱਚ ਨੂੰ ਅੱਡ ਕੀਤਾ ਤਾਂ ਇਸਦੇ ਅੰਦਰੋਂ ਪੱਥਰਾਇਆ ਪਿੰਜਰ ਮਿਲਿਆ ।
 # translit = Hōsi Ārkēdīō Būindīā nē us nāl muhimm tē ga'ē cār ādamī'āṅ dī madad nāl jadōṅ kavacc nūṅ aḍḍ kītā tāṅ isdē andarōṅ patthrā'i'ā piñjar mili'ā.
 # gloss = when José Arcadio Buendía ERG armour ACC dismantle.PST four men accompany expedition GEN help with then inside calcified skeleton find.PST
@@ -4591,7 +4591,7 @@
 25	ਮਿਲਿਆ	ਮਿਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing	0	root	_	Translit=mili'ā
 26	।	।	PUNCT	_	_	25	punct	_	_
 
-# sent_id = 138
+# sent_id = pa_dyz-ud-train-185
 # text = ਜਿਵੇਂ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਮੈਂ ਕਾਫੀ ਈਰਖਾਲੂ ਹਾਂ ਤੇ ਮੈਂ ਉਸਦਾ ਇਹ ਵਿਵਹਾਰ ਸਹਿਣ ਨਹੀਂ ਕਰ ਸਕਦੀ ।
 # translit = Jivein tusi jaande ho main kaafi eerkhalu han te main usda eh vivhar sahan nahi kar sakdi.
 # gloss = as you know.PRS I quite jealous be.PRS and I her this behavior tolerate.INF not can.PRS.F
@@ -4615,7 +4615,7 @@
 17	ਸਕਦੀ	ਸਕਣਾ	AUX	_	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	16	aux	_	Translit=sakdi
 18	।	।	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 118
+# sent_id = pa_dyz-ud-train-186
 # text = ਉਹ ਪੱਛਮੀ ਐਮਸਟਰਡਮ ਵਿੱਚ ਇੱਕ ਗੁੰਮਨਾਮ ਸੜਕ ਤੇ ਰਹਿੰਦੀ ਹੈ ਤੇ ਸਾਡੇ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਪਤਾ ਕਿ ਉਹ ਜਗ੍ਹਾ ਕਿੱਥੇ ਹੈ ।
 # translit = Oh pachhmi Amsterdam vich ik gumnam sadak te rehndi hai te sade vichon kise nu vi nahi pata ki oh jagah kithe hai.
 # gloss = She western Amsterdam in one anonymous street on live.PRS.F and among us anyone DAT also not know.PRS that place where be.PRS
@@ -4645,7 +4645,7 @@
 23	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	Translit=hai
 24	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 187
+# sent_id = pa_dyz-ud-train-187
 # text = ਇੱਕ ਬਜ਼ੁਰਗ ਯਾਤਰੀ ਨੇ ਹਉਕਾ ਲੈ ਕੇ ਕਿਹਾ , ‘ਮੈਂ ਹੈਰਾਨ ਹਾਂ ਕਿ ਕੈਪਟਨ ਲੇਮਨੀ ਨਾਲ ਕੀ ਵਾਪਰਿਆ ਹੈ ? ਰੱਬ ਉਸ ਦੀ ਮਦਦ ਕਰੇ ।
 # translit = Ikk buzurg yaatri ne hauka lai ke kiha, ‘Main hairaan haan ki Captain Lemni naal ki vaaprya hai? Rabb us di madad kare.
 # gloss = an old traveler ERG sigh take CONJ say.PFV ‘I wonder what happen.PFV to Captain Lemni COP.PRS? God his help do.SUBJ’
@@ -4657,7 +4657,7 @@
 5	ਹਉਕਾ	ਹਉਕਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Gloss=sigh|Translit=hauka
 6	ਲੈ	ਲੈਣਾ	VERB	_	VerbForm=Conv	8	compound:svc	_	Gloss=take|Translit=lai
 7	ਕੇ	ਕਰਕੇ	PART	_	_	8	advcl	_	Gloss=CONJ|Translit=ke
-8	ਕਿਹਾ	ਕਹਿਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Part	0	root	_	Gloss=say.PFV|Translit=kiha,
+8	ਕਿਹਾ	ਕਹਿਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Part	0	root	_	Gloss=say.PFV|Translit=,kiha
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=‘I|Translit=‘Main
 10	‘ਮੈਂ	ਮੈਂ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=wonder|Translit=hairaan
 11	ਹੈਰਾਨ	ਹੈਰਾਨ	ADJ	_	Degree=Pos	8	ccomp	_	Gloss=what|Translit=haan
@@ -4677,7 +4677,7 @@
 25	ਕਰੇ	ਕਰਨਾ	VERB	_	Number=Sing|Person=3	8	parataxis	_	_
 26	।	।	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 12
+# sent_id = pa_dyz-ud-train-188
 # text = ਧਾਤ ਦੀਆਂ ਦੋ ਢੀਮਾਂ ਨੂੰ ਖਿੱਚਦਾ ਉਹ ਹਰੇਕ ਘਰ ਦੇ ਦਰਵਾਜ਼ੇ ਤੇ ਜਾ ਖੜ੍ਹਾ ਹੋਇਆ ।
 # translit = dhaat deean do dheeman noon khichda oh harēk ghar dē darvaazē tē jaa khṛha hoia
 # gloss = metal GEN.PL two blocks ACC pulling IPFV he each house GEN door LOC go stand PST COP.PST
@@ -4699,7 +4699,7 @@
 15	ਹੋਇਆ	ਹੋਣਾ	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Gloss=stand|Translit=hoia
 16	।	।	PUNCT	_	_	15	punct	_	Gloss=PST
 
-# sent_id = 68
+# sent_id = pa_dyz-ud-train-189
 # text = ਸ਼ਾਦੀ ਵਾਲੇ ਕੇਕ ਦਾ ਜੋ ਸਭ ਤੋਂ ਵੱਡਾ ਟੁਕੜਾ ਉਸੇ ਨੇ ਹੀ ਆਪ ਪਹਿਲ ਕਰਕੇ ਲਾਂਭੇ ਰੱਖ ਲਿਆ ਸੀ ਪਲੇਟ ਵਿਚ ਧਰਿਆ ਤੇ ਛੁਰੀ ਸਮੇਤ ਹੋਸਿ ਆਰਕੇਦੀਓ ਬੂਇੰਦੀਆ ਨੂੰ ਜਾ ਕੇ ਦੇ ਦਿੱਤਾ ।
 # translit = Śādī vālē kēka dā jō sabha tōṅ vaḍḍā ṭukaṛā usē nē hī āpa pahila karakē lāmbhhē rakkha li'ā sī palēṭa vica dhari'ā tē churī samēta hōsi ārkēdīō būindīā nūṅ jā kē dē ditta.
 # gloss = wedding GEN cake GEN which biggest piece she ERG self initiative do long keep take.PFV COP.PST plate LOC place.PFV and knife with José Arcadio Buendía DAT go CONJ give.PFV
@@ -4739,7 +4739,7 @@
 33	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	32	compound:svc	_	Translit=ditta
 34	।	।	PUNCT	_	_	32	punct	_	_
 
-# sent_id = 220
+# sent_id = pa_dyz-ud-train-190
 # text = ਇਸ ਮਹਿਮਾਨ ਨੇ ਸਾਰੇ ਸੰਸਾਰ ਨੂੰ ਤੇ ਮਨੁੱਖੀ ਆਤਮਾ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖੋਜ ਲਿਆ ਹੈ ।
 # translit = Is mehman ne sare sansar nu te manukhi aatma nu poori tarhan khoj lia hai.
 # gloss = This guest ERG entire world OBJ and human soul OBJ complete way explore TAKE.PERF PRES.AUX.
@@ -4761,7 +4761,7 @@
 15	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Gloss=PRES.AUX|Translit=hai
 16	।	।	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 89
+# sent_id = pa_dyz-ud-train-191
 # text = ਇੱਕ ਡਾਇਰੀ ਰੱਖਣ ਦਾ ਇਹ ਤਰੀਕਾ ਬਹੁਤ ਅੱਛਾ ਹੈ ਅਤੇ ਹੁਣ ਮੈਂ ਸ਼ਾਇਦ ਹੀ ਉਨ੍ਹਾਂ ਪਲਾਂ ਦੀ ਉਡੀਕ ਕਰ ਸਕਦੀ ਹਾਂ ਜਦੋਂ ਮੈਂ ਤੇਰੇ ਵਿੱਚ ਲਿਖਣ ਲਈ ਸਮਰੱਥ ਹੋਵਾਂ ।
 # translit = Ik diary rakhan da ih tareeka bahut achha hai ate hun main shayad hi unhan palan di udeek kar sakdi han jadon main tere vich likhan lai samrath hovan.
 # gloss = one diary keep GEN this way very good be.PRES and now I perhaps those moments of wait do can PRES when I you in write for capable become PRES.1SG.FEM.
@@ -4797,7 +4797,7 @@
 29	ਹੋਵਾਂ	ਹੋਣਾ	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	19	advcl	_	Gloss=PRES.1SG.FEM|Translit=hovan
 30	।	।	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 92
+# sent_id = pa_dyz-ud-train-192
 # text = ਲੇਕਿਨ ਮੈਨੂੰ ਉਸ ਸਮੇਂ ਉਠਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਸੀ ਇਸ ਲਈ ਮੈਨੂੰ ਆਪਣੀ ਜਿਗਿਆਸਾ ਨੂੰ ਪੌਣੇ ਸੱਤ ਵਜੇ ਤੱਕ ਕਾਬੂ ਵਿੱਚ ਰੱਖਣਾ ਪੈਣਾ ਸੀ ।
 # translit = Lekin mainu us samein uthan di aagia nahi si is lai mainu apni jigiasa nu paune satt vaje tak kabu vich rakhna paina si.
 # gloss = but me that time rise INF of permission not be.PST, therefore me my curiosity ACC quarter-to seven o’clock until control in keep INF must PST
@@ -4811,7 +4811,7 @@
 7	ਆਗਿਆ	ਆਗਿਆ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Gloss=of|Translit=aagia
 8	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	9	advmod	_	Gloss=permission|Translit=nahi
 9	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=not|Translit=si
-10	ਇਸ	ਇਸ	ADV	_	ExtPos=ADV	22	advmod	_	Gloss=be.PST,|Translit=is
+10	ਇਸ	ਇਸ	ADV	_	ExtPos=ADV	22	advmod	_	Gloss=,be.PST|Translit=is
 11	ਲਈ	ਲਈ	ADP	_	_	10	fixed	_	Gloss=therefore|Translit=lai
 12	ਮੈਨੂੰ	ਮੈਂ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	iobj	_	Gloss=me|Translit=mainu
 13	ਆਪਣੀ	ਆਪਣਾ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	14	nmod:poss	_	Gloss=my|Translit=apni
@@ -4828,7 +4828,7 @@
 24	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	22	aux	_	Gloss=must|Translit=si
 25	।	।	PUNCT	_	_	9	punct	_	Gloss=PST
 
-# sent_id = 25
+# sent_id = pa_dyz-ud-train-193
 # text = “ਬੜੀ ਜਲਦੀ ਆਪਣੇ ਕੋਲ ਘਰ ਦੇ ਫਰਸ਼ਾਂ ਤੇ ਜੁੜਣ ਜੋਗਾ ਸੋਨਾ ਆ ਜਾਣਾ” , ਉਸਦੇ ਖਾਵੰਦ ਦਾ ਜਵਾਬ ਸੀ ।
 # translit = Baṛī jaldī āpaṇē kōl ghar dē pharaśāṅ tē juṛaṇ jōgā sōnā ā jāṇā”, usdē khāvand dā javāb sī.
 # gloss = very soon we enough gold house GEN floors on pave have FUT be.PST husband GEN reply
@@ -4845,7 +4845,7 @@
 10	ਜੋਗਾ	ਜੋਗਾ	ADP	_	Gender=Masc|Number=Sing	9	case	_	Gloss=pave|Translit=jōgā
 11	ਸੋਨਾ	ਸੋਨਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=have|Translit=sōnā
 12	ਆ	ਆਉਣਾ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Fin	13	compound:svc	_	Gloss=FUT|Translit=ā
-13	ਜਾਣਾ”	ਜਾਣਾ	VERB	_	VerbForm=Inf	18	ccomp	_	Gloss=be.PST|Translit=jāṇā”,
+13	ਜਾਣਾ”	ਜਾਣਾ	VERB	_	VerbForm=Inf	18	ccomp	_	Gloss=be.PST|Translit=,jāṇā”
 14	,	,	PUNCT	_	_	13	punct	_	Gloss=husband|Translit=usdē
 15	ਉਸਦੇ	ਉਹ	PRON	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	Gloss=GEN|Translit=khāvand
 16	ਖਾਵੰਦ	ਖਾਵੰਦ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	Gloss=reply|Translit=dā
@@ -4854,14 +4854,14 @@
 19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	18	cop	_	_
 20	।	।	PUNCT	_	_	18	punct	_	_
 
-# sent_id = 98
+# sent_id = pa_dyz-ud-train-194
 # text = ਪੰਜ ਵਜੇ ਤੱਕ ਮੈਂ ਘਰ ਵਾਪਸ ਨਹੀਂ ਸੀ ਆਉਂਦੀ ਕਿਉਂਕਿ ਮੈਂ ਬਾਕੀ ਜਮਾਤੀਆਂ ਨਾਲ ਜਿਮ ਜਾਂਦੀ ਸੀ (ਮੈਨੂੰ ਹਿੱਸਾ ਲੈਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਸੀ ਮੇਰੇ ਮੋਢੇ ਅਤੇ ਚੂਲੇ ਉਖੜ ਜਾਂਦੇ ਨੇ) ।
 # translit = Panj vaje tak main ghar wapas nahi si aundi kyunki main baki jamatian naal gym jandi si (mainu hissa lain di aagia nahi si mere modhe ate choole ukhad jande ne).
 # gloss = until five o’clock, I home back NEG PST come.FEM because I with other classmates gym go.PST.FEM (parenthetical: I participation take INF GEN permission NEG PST,
 # translation = “Until five o’clock I did not return home because I used to go to the gym with the other classmates (I was not allowed to participate since my shoulders and hips gets easily dislocated).
 1	ਪੰਜ	_	NUM	_	_	2	nummod	_	Gloss=until|Translit=Panj
 2	ਵਜੇ	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	obl	_	Gloss=five|Translit=vaje
-3	ਤੱਕ	_	ADP	_	_	2	case	_	Gloss=o’clock,|Translit=tak
+3	ਤੱਕ	_	ADP	_	_	2	case	_	Gloss=,o’clock|Translit=tak
 4	ਮੈਂ	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=I|Translit=main
 5	ਘਰ	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Gloss=home|Translit=ghar
 6	ਵਾਪਸ	_	ADV	_	_	9	advmod	_	Gloss=back|Translit=wapas
@@ -4883,7 +4883,7 @@
 22	ਆਗਿਆ	ਆਗਿਆ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	Gloss=GEN|Translit=aagia
 23	ਨਹੀਂ	ਨਹੀਂ	PART	_	_	24	advmod	_	Gloss=permission|Translit=nahi
 24	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	parataxis	_	Gloss=NEG|Translit=si
-25	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	26	nmod:poss	_	Gloss=PST,|Translit=mere
+25	ਮੇਰੇ	ਮੈਂ	PRON	_	Number=Sing|Person=1|PronType=Prs	26	nmod:poss	_	Gloss=,PST|Translit=mere
 26	ਮੋਢੇ	ਮੋਢਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	Translit=modhe
 27	ਅਤੇ	ਅਤੇ	CCONJ	_	_	26	cc	_	Translit=ate
 28	ਚੂਲੇ	ਚੂਲਾ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	26	conj	_	Translit=choole
@@ -4891,4 +4891,5 @@
 30	ਜਾਂਦੇ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	29	compound:svc	_	Translit=jande
 31	ਨੇ)	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	Translit=ne)
 32	।	।	PUNCT	_	_	9	punct	_	_
+
 
