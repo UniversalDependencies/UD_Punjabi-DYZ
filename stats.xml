@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>243</sentences><tokens>4618</tokens><words>4618</words><fused>0</fused></total>
+    <train><sentences>194</sentences><tokens>3730</tokens><words>3730</words><fused>0</fused></train>
+    <dev><sentences>24</sentences><tokens>453</tokens><words>453</words><fused>0</fused></dev>
+    <test><sentences>25</sentences><tokens>435</tokens><words>435</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="1210" /><!-- ਦਾ, ।, ਉਹ, ਸੀ, ਮੈਂ, ਹੈ, ,, ਅਤੇ, ਹੋਣਾ, ਨੂੰ, ਜਾਣਾ, ਇਹ, ਕਰਨਾ, ਵਿੱਚ, ਇੱਕ -->
+  <forms unique="1586" /><!-- ।, ,, ਸੀ, ਤੇ, ਨੂੰ, ਦੇ, ਹੈ, ਦਾ, ਦੀ, ਮੈਂ, ਉਸ, ਉਹ, ਨਾਲ, ਇੱਕ, ਨੇ -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">241</tag><!-- ਵੱਡਾ, ਸ਼ਾਂਤ, ਚੰਗਾ, ਪਹਿਲਾ, ਅੱਛਾ, ਛੋਟਾ, ਪਿਆਰਾ, ਭਰਨਾ, ਲਾਲ, ਸਮਰੱਥ -->
+    <tag name="ADP">705</tag><!-- ਦਾ, ਨੂੰ, ਵਿੱਚ, ਨਾਲ, ਨੇ, ਤੋਂ, ਲਈ, ਉੱਤੇ, ਵਾਲਾ, ਕੇ -->
+    <tag name="ADV">231</tag><!-- ਜਦੋਂ, ਬਹੁਤ, _, ਹੁਣ, ਅੰਦਰ, ਪਹਿਲਾਂ, ਸਭ, ਇਸ, ਨਹੀਂ, ਬਾਅਦ -->
+    <tag name="AUX">334</tag><!-- ਸੀ, ਹੈ, ਰਹਿਣਾ, ਹੋਣਾ, ਜਾਣਾ, ਸਕਣਾ, ਪੈਣਾ, ਕਰਨਾ -->
+    <tag name="CCONJ">130</tag><!-- ਅਤੇ, ਪਰ, ਜਾਂ, ਤਾਂ, ਤੇ, ਉੱਤੇ, and, ਪਰੰਤੂ, ਲੇਕਿਨ, ਸੋ -->
+    <tag name="DET">149</tag><!-- ਇੱਕ, ਇਹ, ਕੋਈ, ਉਹ, ਹਰ, ਕਈ, ਇਕ, ਸਾਰਾ, ਹੋਰ, ਅਜਿਹਾ -->
+    <tag name="INTJ">2</tag><!-- ਓਹ, ਹਾਇ -->
+    <tag name="NOUN">920</tag><!-- ਗੱਲ, ਸਮਾਂ, _, ਦਿਨ, ਘਰ, ਦੋਸਤ, ਚੀਜ਼, ਮਾਂ, ਰੰਗ, ਆਦਮੀ -->
+    <tag name="NUM">54</tag><!-- ਇੱਕ, 1942, ਦੋ, ਚਾਰ, 1, 12, ਛੇ, ਦੂਜਾ, ਦੋਨੋਂ, ਸੱਤ -->
+    <tag name="PART">119</tag><!-- ਹੀ, ਨਹੀਂ, ਵੀ, ਨਾ, ਕੇ, ਤਾਂ, ਜਿਹਾ, ਕੀ, ਕੁ, ਹਾਂ -->
+    <tag name="PRON">470</tag><!-- ਉਹ, ਮੈਂ, ਆਪਣਾ, ਇਹ, ਜੋ, ਅਸੀਂ, ਕੋਈ, ਤੂੰ, ਤੁਸੀਂ, ਜਿਹੜਾ -->
+    <tag name="PROPN">196</tag><!-- ਵੈਨ, ਬੂਇੰਦੀਆ, ਟਿਨ, ਮਾਰਗਰੇਟ, ਰਮੇਦੀਉਸ, ਆਰਕੇਦੀਓ, ਔਰਲਿਆਨੋ, ਜ਼ੋਰਬਾ, ਦਾਨ, ਮੈਲਈਆਦਿ -->
+    <tag name="PUNCT">348</tag><!-- ।, ,, !, ?, _, :, ), . -->
+    <tag name="SCONJ">65</tag><!-- ਕਿ, ਕਿਉਂਕਿ, ਜਦੋਂ, ਕੇ, ਤਾਂ, ਜਿਵੇਂ, _, ਜਦ, ਜਿਥੇ, ਜੇਕਰ -->
+    <tag name="VERB">654</tag><!-- ਕਰਨਾ, ਜਾਣਾ, ਹੋਣਾ, ਲੈਣਾ, ਆਉਣਾ, ਦੇਣਾ, ਦੇਖਣਾ, ਲੱਗਣਾ, ਹੈ, ਕਹਿਣਾ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="33">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">229</feat><!-- ਸੀ, ਜਾਂਦਾ, ਕਰਦੀ, ਜਾਂਦੀ, ਸਕਦੀ, ਜਾਂਦੇ, ਰਹੇ, ਰਹਿੰਦੀ, ਪੁੱਛਦਾ, ਹੁੰਦੀ -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">313</feat><!-- ਹੋ, ਸਨ, ਗਈ, ਗਿਆ, ਕੀਤਾ, ਆ, ਲਿਆ, ਦਿੱਤਾ, ਰਹੀ, ਸਾਂ -->
+    <feat name="Case" value="Abl" upos="ADP,NOUN">43</feat><!-- ਤੋਂ, ਗੱਲੋਂ, ਘਰੋ, ਬਾਹੋਂ, ਮੂੰਹੋਂ, ਲਾਗਿਉ, ਸਹਾਰੇ -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,NOUN,PRON,PROPN,VERB">942</feat><!-- ਨੂੰ, ਮੈਨੂੰ, ਉਨ੍ਹਾਂ, ਆਪਣੀ, ਘਰ, ਸਮਾਂ, ਆਪਣਾ, ਉਸਦੇ, ਕੌਫ਼ੀ, ਬੂਇੰਦੀਆ -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,NOUN,PRON,PROPN">750</feat><!-- ਮੈਂ, ਉਹ, ਇਹ, ਅਸੀਂ, ਗੱਲ, ਇਸ, ਦਿਨ, ਤੁਸੀਂ, ਕੰਮ, ਚੀਜ਼ -->
+    <feat name="Degree" value="Pos" upos="ADJ">63</feat><!-- ਸ਼ਾਂਤ, ਸਮਰੱਥ, ਬੰਦ, ਹੈਰਾਨ, ਅਟੁੱਟ, ਅਨਾਮ, ਅਲੱਭ, ਆਕਰਸ਼ਕ, ਆਦੀ, ਈਜਾਦ -->
+    <feat name="ExtPos" value="ADV" upos="ADV">22</feat><!-- ਜਦੋਂ, ਇਸ, ਏਥੋਂ, ਅਜੇ, ਜਿਵੇਂ -->
+    <feat name="ExtPos" value="PRON" upos="PRON">23</feat><!-- ਆਪਣੇ -->
+    <feat name="ExtPos" value="SCONJ" upos="SCONJ">1</feat><!-- ਬਾਵਜੂਦ -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,AUX,NOUN,PROPN,VERB">767</feat><!-- ਦੀ, ਹੋ, ਗਈ, ਦੀਆਂ, ਗੱਲ, ਲਿਆ, ਦਿੱਤਾ, ਰਹੀ, ਕਰਦੀ, ਕੌਫ਼ੀ -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,AUX,NOUN,PROPN,VERB">1353</feat><!-- ਸੀ, ਦੇ, ਦਾ, ਵਿਚ, ਰਿਹਾ, ਗਿਆ, ਕੀਤਾ, ਦਿਨ, ਹੋਇਆ, ਸਮੇਂ -->
+    <feat name="Mood" value="Imp" upos="VERB">13</feat><!-- ਦੱਸੋ, ਪੁੱਛਿਆ, ਸੁਣਾ, ਆਖਿਆ, ਕਰੋ, ਦੇਖੋ, ਰੁਕੋ, ਲਉ, ਲੱਗਦਾ, ਸੁਣਾ!" -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">541</feat><!-- ਸੀ, ਹੈ, ਹੋ, ਸਨ, ਹਾਂ, ਕਰ, ਗਈ, ਗਿਆ, ਕੀਤਾ, ਆ -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,NOUN,PRON,PROPN,VERB">595</feat><!-- ਦੇ, ਉਹ, ਸਨ, ਉਨ੍ਹਾਂ, ਅਸੀਂ, ਦੀਆਂ, ਹਨ, ਦੇਖ, ਤੁਸੀਂ, ਗੱਲਾਂ -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,NOUN,PRON,PROPN,VERB">2006</feat><!-- ਸੀ, ਹੈ, ਦਾ, ਮੈਂ, ਹੋ, ਇਹ, ਆਪਣੇ, ਮੇਰੇ, ਵਿਚ, ਹਾਂ -->
+    <feat name="NumType" value="Card" upos="NUM">5</feat><!-- 1, 1942, 12 -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">257</feat><!-- ਮੈਂ, ਹੋ, ਮੇਰੇ, ਮੈਨੂੰ, ਗਿਆ, ਅਸੀਂ, ਕੀਤਾ, ਆਪਣੀ, ਦਿੱਤਾ, ਸਾਂ -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">35</feat><!-- ਤੁਸੀਂ, ਤੈਨੂੰ, ਤੁਹਾਨੂੰ, ਕਹਿ, ਤੇਰਾ, ਦੱਸੋ, ਸੁਣਾ, ਹੋ, ਕਰੋ, ਜਾਵੋਗੇ -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">381</feat><!-- ਹੈ, ਉਹ, ਇਹ, ਸਨ, ਆਪਣੇ, ਹਾਂ, ਉਨ੍ਹਾਂ, ਰਿਹਾ, ਇਸ, ਹਨ -->
+    <feat name="Poss" value="Yes" upos="PRON">30</feat><!-- ਉਸਦੇ, ਮੇਰੀ, ਉਸਦੀ, ਤੇਰਾ, ਸਾਡੇ, ਉਹਦੀ, ਜਿਸਦਾ, ਤੁਹਾਡੀ, ਤੇਰੇ, ਮੇਰੀਆਂ -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">221</feat><!-- ਉਸ, ਉਹ, ਇਹ, ਇਸ, ਜੋ, ਉਸਨੇ, ਕਿਸੇ, ਜਿਨ੍ਹਾਂ, ਇਸੇ, ਉਸੇ -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">114</feat><!-- ਇੱਕ, ਕੋਈ, ਹਰ, ਇਕ, ਕੁਝ, ਸਭ, ਕਈ, ਹੋਰ, ਕਿਸੇ, ਕੀ -->
+    <feat name="PronType" value="Int" upos="DET,PRON">9</feat><!-- ਕਿਸ, "ਕਿੰਨਾ, ਕਿਹੋ, ਕਿਹੜਾ, ਕੈਸਾ, ‘ਕਾਹਦਾ -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">253</feat><!-- ਮੈਂ, ਆਪਣੇ, ਮੇਰੇ, ਉਨ੍ਹਾਂ, ਮੈਨੂੰ, ਅਸੀਂ, ਆਪਣੀ, ਉਸਦੇ, ਮੇਰਾ, ਆਪਣਾ -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">22</feat><!-- ਜਿਸ, ਜਿਹੜਾ, ਤੁਹਾਨੂੰ, ਜਿਸਦਾ, ਜਿਸਨੂੰ, ਜਿਹੜੀ, ਜਿਹਨਾਂ, ਜਿਹੜੇ, ਜਿੰਨਾ -->
+    <feat name="Reflex" value="Yes" upos="PRON">43</feat><!-- ਆਪਣੇ, ਆਪਣੀ, ਆਪਣਾ, ਆਪਣੇ-ਆਪ -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">13</feat><!-- ਹੋਵੇਗਾ, ਪਵੇਗਾ, ਕਰਾਂਗੀ, ਜਾਵਾਂਗੀ, ਜਾਵਾਂਗੇ, ਜਾਵੋਗੇ, ਦਿਆਂਗਾ, ਲਿਖਾਂਗੀ, ਸਕੂ, ਹੋਵੋਗੇ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">187</feat><!-- ਸੀ, ਗਿਆ, ਕੀਤਾ, ਰਹੀ, ਸਾਂ, ਦਿੱਤੀ, ਗਏ, ਆਈ, ਕਿਹਾ, ਦਿਖਾਇਆ -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">214</feat><!-- ਹੈ, ਹੋ, ਹਾਂ, ਆ, ਹਨ, ਹੋਣ, ਦੇਖ, ਆਇਆ, ਰਹੇ, ਹੁੰਦਾ -->
+    <feat name="VerbForm" value="Conv" upos="VERB">22</feat><!-- ਲੈ, ਕਰਕੇ, ਕੱਢ, ਖਲਾਰ, ਖਿਝ, ਚੱਟ, ਜਾ, ਜੋੜ, ਦੇਖਕੇ, ਪਕੜ -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">458</feat><!-- ਸੀ, ਹੈ, ਹੋ, ਸਨ, ਹਾਂ, ਗਈ, ਗਿਆ, ਕੀਤਾ, ਆ, ਲਿਆ -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">125</feat><!-- ਕਰ, ਕਰਨ, ਲੈਣ, ਆਉਣ, ਦਿਖਾਇਆ, ਪਾਉਣ, ਕਰਦਾ, ਕਰਨਾ, ਖਾਣ, ਦੇਖਣ -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">278</feat><!-- ਰਿਹਾ, ਹੋਇਆ, ਜਾਂਦਾ, ਰਹੀ, ਕਰਦੀ, ਜਾਂਦੀ, ਦਿੱਤੀ, ਸਕਦੀ, ਹੋਏ, ਜਾਂਦੇ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="43">
+    <dep name="acl">43</dep>
+    <dep name="acl:relcl">36</dep>
+    <dep name="advcl">110</dep>
+    <dep name="advmod">263</dep>
+    <dep name="advmod:emph">31</dep>
+    <dep name="amod">176</dep>
+    <dep name="appos">12</dep>
+    <dep name="aux">254</dep>
+    <dep name="aux:pass">13</dep>
+    <dep name="case">675</dep>
+    <dep name="cc">130</dep>
+    <dep name="ccomp">44</dep>
+    <dep name="compound">59</dep>
+    <dep name="compound:lvc">45</dep>
+    <dep name="compound:redup">4</dep>
+    <dep name="compound:svc">99</dep>
+    <dep name="conj">168</dep>
+    <dep name="cop">29</dep>
+    <dep name="det">180</dep>
+    <dep name="det:poss">2</dep>
+    <dep name="discourse">18</dep>
+    <dep name="dislocated">2</dep>
+    <dep name="fixed">9</dep>
+    <dep name="flat">65</dep>
+    <dep name="iobj">34</dep>
+    <dep name="mark">97</dep>
+    <dep name="nmod">157</dep>
+    <dep name="nmod:poss">172</dep>
+    <dep name="nmod:tmod">3</dep>
+    <dep name="nsubj">374</dep>
+    <dep name="nsubj:pass">8</dep>
+    <dep name="nummod">47</dep>
+    <dep name="obj">212</dep>
+    <dep name="obl">303</dep>
+    <dep name="obl:agent">1</dep>
+    <dep name="obl:arg">1</dep>
+    <dep name="obl:tmod">28</dep>
+    <dep name="orphan">3</dep>
+    <dep name="parataxis">12</dep>
+    <dep name="punct">348</dep>
+    <dep name="root">243</dep>
+    <dep name="vocative">9</dep>
+    <dep name="xcomp">99</dep>
+  </deps>
+</treebank>
